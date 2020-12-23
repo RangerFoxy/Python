@@ -1,0 +1,1546 @@
+#NUMBER;RN;SN;VN;NAME;LOCATION;STATUS;LATX;NS;VF;LONGX;EW;ELEV;TYPE;TIMEFRAME
+0100-01-;01;00;-01-;West Eifel Volc Field;Germany;Radiocarbon;50,16666667;N;*;6,85;E;600;Maars;D7
+0100-02-;01;00;-02-;Chaîne des Puys;France;Radiocarbon;45,775;N;*;2,966666667;E;1464;Lava domes;D7
+0100-03-;01;00;-03-;Olot Volc Field;Spain;Holocene;42,16666667;N;*;2,533333333;E;893;Pyroclastic cones;U
+0100-04-;01;00;-04-;Calatrava Volc Field;Spain;Radiocarbon;38,86666667;N;*;-4,016666667;W;1117;Pyroclastic cones;D7
+0101-001;01;01;-001;Larderello;Italy;Historical;43,25;N;;10,86666667;E;500;Explosion craters;D6
+0101-003;01;01;-003;Vulsini;Italy;Historical;42,6;N;;11,93333333;E;800;Caldera;D7
+0101-004;01;01;-004;Alban Hills;Italy;Holocene?;41,73333333;N;;12,7;E;949;Caldera;?
+0101-01=;01;01;-01-;Campi Flegrei;Italy;Historical;40,82722222;N;;14,13888889;E;458;Caldera;D5
+0101-02=;01;01;-02-;Vesuvius;Italy;Historical;40,82138889;N;;14,42611111;E;1281;Somma volcano;D2
+0101-031;01;01;-031;Palinuro;Italy;Radiocarbon;39,48333333;N;;14,83333333;E;-70;Submarine volcano;D7
+0101-03=;01;01;-03-;Ischia;Italy;Historical;40,73333333;N;;13,8975;E;789;Complex volcano;D6
+0101-041;01;01;-041;Panarea;Italy;Holocene?;38,63333333;N;;15,06666667;E;421;Stratovolcano;?
+0101-042;01;01;-042;Lipari;Italy;Radiocarbon;38,48333333;N;;14,95;E;602;Stratovolcanoes;D6
+0101-04=;01;01;-04-;Stromboli;Italy;Historical;38,78944444;N;;15,21305556;E;924;Stratovolcano;D1
+0101-05=;01;01;-05-;Vulcano;Italy;Historical;38,40361111;N;;14,96166667;E;500;Stratovolcanoes;D3
+0101-06=;01;01;-06-;Etna;Italy;Historical;37,73416667;N;;15,00444444;E;3330;Stratovolcanoes;D1
+0101-071;01;01;-071;Pantelleria;Italy;Historical;36,76666667;N;;12,01666667;E;836;Shield volcano;D3
+0101-07=;01;01;-07-;Campi Flegrei Mar Sicilia;Italy;Historical;37,1;N;*;12,7;E;-8;Submarine volcanoes;D3
+0102-02=;01;02;-02-;Methana;Greece;Historical;37,61527778;N;;23,33555556;E;760;Lava domes;D7
+0102-03=;01;02;-03-;Mílos;Greece;Radiocarbon;36,69861111;N;*;24,43888889;E;751;Stratovolcanoes;D6
+0102-04=;01;02;-04-;Santorini;Greece;Historical;36,40361111;N;;25,39638889;E;367;Shield volcanoes;D2
+0102-051;01;02;-051;Yali;Greece;Holocene;36,67055556;N;;27,13972222;E;180;Lava domes;U
+0102-05=;01;02;-05-;Nisyros;Greece;Historical;36,58555556;N;;27,15972222;E;698;Stratovolcano;D3
+0103-00-;01;03;-00-;Kula;Turkey;Holocene;38,58333333;N;*;28,51666667;E;750;Cinder cones;U
+0103-001;01;03;-001;Karapinar Field;Turkey;Holocene;37,66666667;N;*;33,65;E;1302;Cinder cones;U
+0103-002;01;03;-002;Hasan Dagi;Turkey;Holocene;38,13333333;N;;34,16666667;E;3253;Stratovolcano;U
+0103-003;01;03;-003;Göllü Dag;Turkey;Holocene?;38,25;N;;34,56666667;E;2143;Lava dome;?
+0103-004;01;03;-004;Acigöl-Nevsehir;Turkey;Anthropology;38,56666667;N;;34,51666667;E;1689;Caldera;D7
+0103-011;01;03;-011;Karaca Dag;Turkey;Holocene;37,66666667;N;;39,83333333;E;1957;Shield volcano;U
+0103-01=;01;03;-01-;Erciyes Dagi;Turkey;Radiocarbon;38,51666667;N;;35,48333333;E;3916;Stratovolcano;D7
+0103-021;01;03;-021;Süphan Dagi;Turkey;Holocene;38,91666667;N;;42,81666667;E;4158;Stratovolcano;D7
+0103-022;01;03;-022;Girekol Tepe;Turkey;Holocene;39,16666667;N;;43,33333333;E;;Shield volcano;U
+0103-02=;01;03;-02-;Nemrut Dagi;Turkey;Historical;38,65;N;;42,23333333;E;2948;Stratovolcano;D5
+0103-03=;01;03;-03-;Tendürek Dagi;Turkey;Historical;39,36666667;N;;43,86666667;E;3584;Shield volcano;D3
+0103-04-;01;03;-04-;Ararat;Turkey;Historical;39,7;N;;44,3;E;5165;Stratovolcano;D3
+0103-05-;01;03;-05-;Kars Plateau;Turkey;Holocene?;40,75;N;*;42,9;E;3000;Volcanic field;?
+0104-01-;01;04;-01-;Elbrus;Russia-SW;Tephrochronology;43,33333333;N;;42,45;E;5633;Stratovolcano;D6
+0104-02-;01;04;-02-;Kasbek;Georgia;Tephrochronology;42,7;N;;44,5;E;5050;Stratovolcano;D7
+0104-03-;01;04;-03-;Kabargin Oth Group;Georgia;Holocene;42,55;N;*;44;E;3650;Cinder cones;U
+0104-04-;01;04;-04-;Unnamed;Georgia;Holocene;42,45;N;*;44,25;E;3750;Cinder cones;U
+0104-05-;01;04;-05-;Unnamed;Georgia;Holocene;41,55;N;*;43,6;E;3400;Lava cones;U
+0104-06-;01;04;-06-;Aragats;Armenia;Holocene;40,53333333;N;;44,2;E;4095;Stratovolcano;U
+0104-07-;01;04;-07-;Ghegam Ridge;Armenia;Anthropology;40,275;N;*;44,75;E;3597;Volcanic field;D7
+0104-08-;01;04;-08-;Dar-Alages;Armenia;Anthropology;39,7;N;*;45,54166667;E;3329;Pyroclastic cones;D7
+0104-09-;01;04;-09-;Porak;Armenia;Anthropology;40,01666667;N;;45,78333333;E;2800;Stratovolcano;D7
+0104-10-;01;04;-10-;Tskhouk-Karckar;Armenia;Tephrochronology;39,73333333;N;;46,01666667;E;3000;Pyroclastic cones;D7
+0201-01=;02;01;-01-;Tair, Jebel at;Red Sea;Historical;15,55;N;;41,83333333;E;244;Stratovolcano;D1
+0201-021;02;01;-021;Zukur;Red Sea;Holocene;14,01666667;N;;42,75;E;624;Shield volcano;U
+0201-022;02;01;-022;Hanish;Red Sea;Holocene;13,71666667;N;;42,73333333;E;422;Shield volcano;U
+0201-02=;02;01;-02-;Zubair, Jebel;Red Sea;Historical;15,05;N;;42,18333333;E;191;Shield volcano;D3
+0201-03=;02;01;-03-;Jalua;Ethiopia;Holocene;15,04166667;N;;39,81666667;E;713;Stratovolcano;U
+0201-041;02;01;-041;Dallol;Ethiopia;Historical;14,24166667;N;;40,3;E;-48;Explosion craters;D2
+0201-04=;02;01;-04-;Alid;Ethiopia;Holocene;14,88333333;N;;39,91666667;E;904;Stratovolcano;U
+0201-05=;02;01;-05-;Gada Ale;Ethiopia;Holocene;13,975;N;;40,40833333;E;287;Stratovolcano;U
+0201-06=;02;01;-06-;Alu;Ethiopia;Holocene;13,825;N;;40,50833333;E;429;Fissure vents;U
+0201-071;02;01;-071;Borale Ale;Ethiopia;Holocene;13,725;N;;40,6;E;668;Stratovolcano;U
+0201-07=;02;01;-07-;Dalaffilla;Ethiopia;Historical;13,79166667;N;;40,55;E;613;Stratovolcano;D1
+0201-08=;02;01;-08-;Erta Ale;Ethiopia;Historical;13,6;N;;40,66666667;E;613;Shield volcano;D1
+0201-091;02;01;-091;Hayli Gubbi;Ethiopia;Holocene;13,5;N;;40,71666667;E;521;Shield volcano;U
+0201-09=;02;01;-09-;Ale Bagu;Ethiopia;Holocene;13,51666667;N;;40,63333333;E;1031;Stratovolcano;U
+0201-101;02;01;-101;Nabro;Ethiopia;Holocene?;13,36666667;N;;41,7;E;2218;Stratovolcano;?
+0201-102;02;01;-102;Mallahle;Ethiopia;Holocene?;13,26666667;N;;41,65;E;1875;Stratovolcano;?
+0201-103;02;01;-103;Sork Ale;Ethiopia;Holocene?;13,18333333;N;;41,725;E;1611;Stratovolcano;?
+0201-104;02;01;-104;Asavyo;Ethiopia;Holocene;13,06666667;N;;41,6;E;1200;Shield volcano;U
+0201-105;02;01;-105;Mat Ala;Ethiopia;Holocene;13,1;N;;41,15;E;523;Shield volcano;U
+0201-106;02;01;-106;Tat Ali;Ethiopia;Holocene;13,28333333;N;;41,06666667;E;700;Shield volcano;U
+0201-107;02;01;-107;Borawli;Ethiopia;Holocene;13,3;N;;40,98333333;E;812;Stratovolcano;U
+0201-10=;02;01;-10-;Dubbi;Ethiopia;Historical;13,58333333;N;;41,80833333;E;1625;Stratovolcano;D3
+0201-111;02;01;-111;Ma Alalta;Ethiopia;Holocene;13,01666667;N;;40,2;E;1815;Stratovolcano;U
+0201-112;02;01;-112;Alayta;Ethiopia;Historical;12,88333333;N;;40,56666667;E;1501;Shield volcano;D2
+0201-113;02;01;-113;Dabbahu;Ethiopia;Historical;12,6;N;;40,48333333;E;1442;Stratovolcano;D1
+0201-114;02;01;-114;Dabbayra;Ethiopia;Holocene;12,38333333;N;;40,06666667;E;1302;Shield volcano;U
+0201-115;02;01;-115;Manda Hararo;Ethiopia;Historical;12,16666667;N;;40,81666667;E;600;Shield volcanoes;D1
+0201-116;02;01;-116;Groppo;Ethiopia;Holocene;11,73333333;N;;40,25;E;930;Stratovolcano;U
+0201-11=;02;01;-11-;Afderà;Ethiopia;Holocene?;13,08333333;N;;40,85;E;1295;Stratovolcano;?
+0201-120;02;01;-120;Manda Gargori;Ethiopia;Anthropology;11,75;N;;41,48333333;E;;Fissure vents;U
+0201-121;02;01;-121;Borawli;Ethiopia;Holocene;11,63333333;N;;41,45;E;875;Lava domes;U
+0201-122;02;01;-122;Manda-Inakir;Ethiopia;Historical;12,38333333;N;;42,2;E;600;Fissure vents;D2
+0201-123;02;01;-123;Mousa Alli;Ethiopia;Holocene;12,46666667;N;;42,4;E;2028;Stratovolcano;U
+0201-124;02;01;-124;Gufa;Ethiopia;Holocene;12,55;N;*;42,53333333;E;600;Volcanic field;U
+0201-125;02;01;-125;Assab Volc Field;Ethiopia;Holocene;12,95;N;*;42,43333333;E;987;Volcanic field;U
+0201-126;02;01;-126;Ardoukôba;Djibouti;Historical;11,58333333;N;*;42,46666667;E;298;Fissure vents;D2
+0201-12=;02;01;-12-;Kurub;Ethiopia;Holocene;11,88333333;N;;41,20833333;E;625;Shield volcano;U
+0201-141;02;01;-141;Dama Ali;Ethiopia;Historical;11,28333333;N;;41,63333333;E;1068;Shield volcano;D5
+0201-151;02;01;-151;Yangudi;Ethiopia;Holocene;10,58333333;N;;41,04166667;E;1383;Complex volcano;U
+0201-15=;02;01;-15-;Gabillema;Ethiopia;Holocene;11,08333333;N;;41,26666667;E;1459;Stratovolcano;U
+0201-16=;02;01;-16-;Ayelu;Ethiopia;Holocene;10,08222222;N;;40,70166667;E;2145;Stratovolcano;U
+0201-171;02;01;-171;Hertali;Ethiopia;Holocene;9,783333333;N;;40,33333333;E;900;Fissure vent;U
+0201-172;02;01;-172;Liado Hayk;Ethiopia;Holocene?;9,566666667;N;*;40,28333333;E;878;Maars;?
+0201-17=;02;01;-17-;Adwa;Ethiopia;Holocene;10,07;N;;40,84;E;1733;Stratovolcano;U
+0201-18=;02;01;-18-;Dofen;Ethiopia;Holocene;9,35;N;;40,13333333;E;1151;Stratovolcano;U
+0201-191;02;01;-191;Beru;Ethiopia;Holocene;8,95;N;;39,75;E;1100;Volcanic field;U
+0201-19=;02;01;-19-;Fentale;Ethiopia;Historical;8,975;N;;39,93333333;E;2007;Stratovolcano;D3
+0201-20-;02;01;-20-;Kone;Ethiopia;Historical;8,8;N;;39,69166667;E;1619;Calderas;D3
+0201-201;02;01;-201;Unnamed;Ethiopia;Holocene;8,7;N;*;39,63333333;E;1300;Pyroclastic cones;U
+0201-21-;02;01;-21-;Boset-Bericha;Ethiopia;Holocene;8,558333333;N;;39,475;E;2447;Stratovolcanoes;U
+0201-22-;02;01;-22-;Bishoftu Volc Field;Ethiopia;Holocene;8,783333333;N;*;38,98333333;E;1850;Fissure vents;U
+0201-221;02;01;-221;Unnamed;Ethiopia;Holocene;8,616666667;N;*;38,95;E;1800;Fissure vents;U
+0201-222;02;01;-222;Sodore;Ethiopia;Holocene;8,433333333;N;*;39,35;E;1765;Pyroclastic cones;U
+0201-23-;02;01;-23-;Gedamsa;Ethiopia;Holocene;8,35;N;;39,18333333;E;1984;Caldera;U
+0201-24-;02;01;-24-;Bora-Bericcio;Ethiopia;Holocene;8,266666667;N;;39,03333333;E;2285;Pumice cones;U
+0201-25-;02;01;-25-;Tullu Moje;Ethiopia;Anthropology;8,158333333;N;;39,13333333;E;2349;Pumice cone;D2
+0201-251;02;01;-251;Unnamed;Ethiopia;Holocene;8,066666667;N;*;39,06666667;E;1800;Fissure vents;U
+0201-252;02;01;-252;East Zway;Ethiopia;Holocene;7,95;N;*;38,93333333;E;1889;Fissure vents;U
+0201-26-;02;01;-26-;Butajiri-Silti Field;Ethiopia;Holocene;8,05;N;*;38,35;E;2281;Fissure vents;U
+0201-27-;02;01;-27-;Alutu;Ethiopia;Radiocarbon;7,766666667;N;;38,78333333;E;2335;Stratovolcano;D7
+0201-28-;02;01;-28-;O'a Caldera;Ethiopia;Holocene;7,466666667;N;;38,58333333;E;2075;Caldera;U
+0201-29-;02;01;-29-;Corbetti Caldera;Ethiopia;Holocene;7,183333333;N;;38,43333333;E;2320;Caldera;U
+0201-291;02;01;-291;Bilate River Field;Ethiopia;Holocene;7,066666667;N;*;38,1;E;1700;Maars;U
+0201-292;02;01;-292;Tepi;Ethiopia;Holocene;7,416666667;N;*;35,43333333;E;2728;Shield volcano;U
+0201-293;02;01;-293;Hobicha Caldera;Ethiopia;Holocene?;6,783333333;N;;37,83333333;E;1800;Caldera;?
+0201-30-;02;01;-30-;Chiracha;Ethiopia;Holocene?;6,65;N;;38,11666667;E;1650;Stratovolcano;?
+0201-31-;02;01;-31-;Tosa Sucha;Ethiopia;Holocene;5,933333333;N;*;37,56666667;E;1650;Cinder cones;U
+0201-311;02;01;-311;Unnamed;Ethiopia;Holocene;5,65;N;*;37,66666667;E;1200;Cinder cones;U
+0201-32-;02;01;-32-;Korath Range;Ethiopia;Holocene?;5,1;N;*;35,88333333;E;912;Tuff cones;?
+0201-33-;02;01;-33-;Mega Basalt Field;Ethiopia;Holocene;4,083333333;N;*;37,41666667;E;1067;Pyroclastic cones;U
+0202-001;02;02;-001;North Island;Africa-E;Holocene;4,066666667;N;;36,05;E;520;Tuff cones;U
+0202-01=;02;02;-01-;Central Island;Africa-E;Holocene;3,5;N;;36,04166667;E;550;Tuff cones;U
+0202-021;02;02;-021;Marsabit;Africa-E;Holocene?;2,316666667;N;;37,96666667;E;1707;Shield volcano;?
+0202-02=;02;02;-02-;South Island;Africa-E;Historical;2,633333333;N;;36,6;E;800;Stratovolcano;D3
+0202-03=;02;02;-03-;Barrier, The;Africa-E;Historical;2,316666667;N;;36,56666667;E;1032;Shield volcano;D2
+0202-04-;02;02;-04-;Namarunu;Africa-E;Tephrochronology;1,983333333;N;;36,43333333;E;817;Shield volcano;D7
+0202-05-;02;02;-05-;Segererua Plateau;Africa-E;Holocene;1,566666667;N;*;37,9;E;699;Pyroclastic cones;U
+0202-051;02;02;-051;Emuruangogolak;Africa-E;Radiocarbon;1,5;N;;36,33333333;E;1328;Shield volcano;D2
+0202-052;02;02;-052;Silali;Africa-E;Ar/Ar;1,15;N;;36,23333333;E;1528;Shield volcano;D7
+0202-053;02;02;-053;Paka;Africa-E;Ar/Ar;0,916666667;N;;36,18333333;E;1697;Shield volcano;D7
+0202-054;02;02;-054;Korosi;Africa-E;Holocene;0,766666667;N;;36,11666667;E;1446;Shield volcano;U
+0202-055;02;02;-055;Ol Kokwe;Africa-E;Holocene;0,616666667;N;;36,075;E;1130;Shield volcano;U
+0202-056;02;02;-056;Nyambeni Hills;Africa-E;Holocene;0,233333333;N;;37,86666667;E;750;Shield volcano;U
+0202-06=;02;02;-06-;Menengai;Africa-E;Tephrochronology;-0,2;S;;36,06666667;E;2278;Shield volcano;D7
+0202-071;02;02;-071;Elmenteita Badlands;Africa-E;Holocene;-0,516666667;S;*;36,26666667;E;2126;Pyroclastic cones;U
+0202-07=;02;02;-07-;Homa Mountain;Africa-E;Holocene;-0,383333333;S;;34,5;E;1751;Complex volcano;U
+0202-08=;02;02;-08-;Eburru, Ol Doinyo;Africa-E;Holocene;-0,65;S;;36,21666667;E;2856;Complex volcano;U
+0202-09=;02;02;-09-;Olkaria;Africa-E;Radiocarbon;-0,904166667;S;*;36,29166667;E;2434;Pumice cones;D4
+0202-10=;02;02;-10-;Longonot;Africa-E;Anthropology;-0,914444444;S;;36,44638889;E;2776;Stratovolcano;D3
+0202-11=;02;02;-11-;Suswa;Africa-E;Holocene;-1,175;S;;36,35;E;2356;Shield volcano;U
+0202-12=;02;02;-12-;Lengai, Ol Doinyo;Africa-E;Historical;-2,763611111;S;;35,91416667;E;2962;Stratovolcano;D1
+0202-13=;02;02;-13-;Chyulu Hills;Africa-E;Anthropology;-2,683333333;S;*;37,88333333;E;2188;Volcanic field;D3
+0202-15=;02;02;-15-;Kilimanjaro;Africa-E;Holocene;-3,066666667;S;;37,35;E;5895;Stratovolcano;U
+0202-161;02;02;-161;Igwisi Hills;Africa-E;Holocene;-4,866666667;S;*;31,91666667;E;;Tuff cones;U
+0202-162;02;02;-162;Unnamed;Africa-E;Holocene;-8,633333333;S;;33,56666667;E;;Pyroclastic cone;U
+0202-163;02;02;-163;SW Usangu Basin;Africa-E;Holocene;-8,75;S;*;33,8;E;2179;Lava domes;U
+0202-164;02;02;-164;Ngozi;Africa-E;Radiocarbon;-8,966666667;S;;33,56666667;E;2622;Caldera;D6
+0202-165;02;02;-165;Izumbwe-Mpoli;Africa-E;Holocene;-8,933333333;S;;33,4;E;1568;Pyroclastic cones;U
+0202-166;02;02;-166;Rungwe;Africa-E;Radiocarbon;-9,133333333;S;;33,66666667;E;2961;Stratovolcano;D7
+0202-16=;02;02;-16-;Meru;Africa-E;Historical;-3,25;S;;36,75;E;4565;Stratovolcano;D2
+0202-17=;02;02;-17-;Kieyo;Africa-E;Historical;-9,233333333;S;;33,78333333;E;2175;Stratovolcano;D3
+0203-001;02;03;-001;Fort Portal;Africa-C;Radiocarbon;0,7;N;*;30,25;E;1615;Tuff cones;D7
+0203-002;02;03;-002;Kyatwa;Africa-C;Holocene?;0,45;N;*;30,25;E;1430;Tuff cones;?
+0203-003;02;03;-003;Katwe-Kikorongo;Africa-C;Holocene;-0,083333333;S;*;29,91666667;E;1067;Tuff cones;U
+0203-004;02;03;-004;Bunyaruguru;Africa-C;Holocene;-0,2;S;*;30,08333333;E;1554;Maars;U
+0203-005;02;03;-005;Katunga;Africa-C;Holocene;-0,471388889;S;;30,19083333;E;1707;Tuff cone;U
+0203-01=;02;03;-01-;May-ya-moto;Africa-C;Fumarolic;-0,933333333;S;;29,33333333;E;950;Fumarole field;?
+0203-02=;02;03;-02-;Nyamuragira;Africa-C;Historical;-1,408333333;S;;29,2;E;3058;Shield volcano;D1
+0203-03=;02;03;-03-;Nyiragongo;Africa-C;Historical;-1,516666667;S;;29,25;E;3470;Stratovolcano;D1
+0203-04-;02;03;-04-;Karisimbi;Africa-C;Potassium-Argon;-1,5;S;;29,45;E;4507;Stratovolcano;D7
+0203-05-;02;03;-05-;Visoke;Africa-C;Historical;-1,466666667;S;;29,49166667;E;3711;Stratovolcano;D2
+0203-06-;02;03;-06-;Muhavura;Africa-C;Holocene;-1,383333333;S;;29,66666667;E;4127;Stratovolcano;U
+0203-07-;02;03;-07-;Bufumbira;Africa-C;Holocene?;-1,233333333;S;*;29,71666667;E;2440;Cinder cones;?
+0203-08-;02;03;-08-;Tshibinda;Africa-C;Holocene;-2,316666667;S;*;28,75;E;1460;Cinder cones;U
+0204-001;02;04;-001;Sao Tome;Africa-W;Holocene?;0,2;N;;6,583333333;E;2024;Shield volcano;?
+0204-002;02;04;-002;San Carlos;Africa-W;Holocene;3,35;N;;8,516666667;E;2260;Shield volcano;U
+0204-003;02;04;-003;San Joaquin;Africa-W;Holocene;3,35;N;;8,633333333;E;2009;Shield volcano;U
+0204-004;02;04;-004;Santa Isabel;Africa-W;Historical;3,583333333;N;*;8,75;E;3007;Shield volcano;D2
+0204-011;02;04;-011;Tombel Graben;Africa-W;Holocene;4,75;N;*;9,666666667;E;500;Cinder cones;U
+0204-01=;02;04;-01-;Cameroon;Africa-W;Historical;4,203333333;N;;9,17;E;4095;Stratovolcano;D1
+0204-02-;02;04;-02-;Manengouba;Africa-W;Holocene?;5,033333333;N;;9,833333333;E;2411;Stratovolcano;?
+0204-03-;02;04;-03-;Oku Volc Field;Africa-W;Holocene?;6,25;N;*;10,5;E;3011;Stratovolcano;?
+0204-04-;02;04;-04-;Ngaoundere Plateau;Africa-W;Holocene?;7,25;N;*;13,66666667;E;;Volcanic field;?
+0204-05-;02;04;-05-;Biu Plateau;Africa-W;Holocene?;10,75;N;*;12;E;;Volcanic field;?
+0205-001;02;05;-001;Todra Volc Field;Africa-N;Holocene;17,68333333;N;*;8,5;E;1780;Cinder cones;U
+0205-002;02;05;-002;Tin Zaouatene Volc Field;Africa-N;Holocene;19,83333333;N;*;2,833333333;E;;Volcanic field;U
+0205-003;02;05;-003;In Ezzane Volc Field;Africa-N;Holocene?;23;N;*;10,83333333;E;;Volcanic field;?
+0205-004;02;05;-004;Tahalra Volc Field;Africa-N;Holocene;22,66666667;N;*;5;E;1467;Pyroclastic cones;U
+0205-005;02;05;-005;Atakor Volc Field;Africa-N;Holocene;23,33333333;N;*;5,833333333;E;2918;Scoria cones;U
+0205-006;02;05;-006;Manzaz Volc Field;Africa-N;Holocene;23,91666667;N;*;5,833333333;E;1672;Scoria cones;U
+0205-007;02;05;-007;Haruj;Africa-N;Holocene;27,25;N;*;17,5;E;1200;Volcanic field;U
+0205-008;02;05;-008;Wau-en-Namus;Africa-N;Holocene?;25,05;N;*;17,55;E;547;Caldera;?
+0205-009;02;05;-009;Tôh, Tarso;Africa-N;Holocene;21,33333333;N;*;16,33333333;E;2000;Volcanic field;U
+0205-01=;02;05;-01-;Toussidé, Tarso;Africa-N;Holocene;21,03333333;N;;16,45;E;3265;Stratovolcano;U
+0205-021;02;05;-021;Koussi, Emi;Africa-N;Holocene;19,8;N;;18,53333333;E;3415;Pyroclastic shield;U
+0205-02=;02;05;-02-;Voon, Tarso;Africa-N;Fumarolic;20,91666667;N;;17,28333333;E;3100;Stratovolcano;U
+0205-03-;02;05;-03-;Marra, Jebel;Africa-N;Radiocarbon;12,95;N;;24,26666667;E;3042;Volcanic field;D7
+0205-04-;02;05;-04-;Kutum Volc Field;Africa-N;Holocene?;14,56666667;N;*;25,85;E;;Scoria cones;?
+0205-05-;02;05;-05-;Meidob Volc Field;Africa-N;Holocene;15,31666667;N;*;26,46666667;E;2000;Scoria cones;D7
+0205-06-;02;05;-06-;Bayuda Volc Field;Africa-N;Radiocarbon;18,33333333;N;*;32,75;E;670;Cinder cones;D6
+0205-07-;02;05;-07-;Umm Arafieb, Jebel;Africa-N;Holocene?;18,16666667;N;*;33,83333333;E;;Shield volcano;?
+0300-01-;03;00;-01-;Sharat Kovakab;Syria;Holocene;36,53333333;N;*;40,85;E;534;Volcanic field;U
+0300-02-;03;00;-02-;Unnamed;Syria;Historical;36,66666667;N;*;37;E;;Volcanic field;D6
+0300-03-;03;00;-03-;Golan Heights;Syria;Holocene;33,1;N;*;35,96666667;E;1197;Volcanic field;U
+0300-04-;03;00;-04-;Unnamed;Syria;Radiocarbon;33;N;*;36,63333333;E;1050;Volcanic field;D7
+0300-05-;03;00;-05-;Es Safa;Syria;Historical;33,25;N;*;37,06666667;E;979;Volcanic field;D3
+0300-06-;03;00;-06-;Druze, Jabal ad;Syria;Holocene;32,65833333;N;*;36,425;E;1803;Volcanic field;U
+0301-001;03;01;-001;Harrah, Al;Arabia-W;Holocene;31,08333333;N;*;38,41666667;E;1100;Volcanic field;U
+0301-01=;03;01;-01-;Rahah, Harrat ar;Arabia-W;Anthropology;27,8;N;*;36,16666667;E;1950;Volcanic field;U
+0301-02=;03;01;-02-;'Uwayrid, Harrat;Arabia-W;Anthropology;27,08333333;N;*;37,25;E;1920;Volcanic field;D6
+0301-04-;03;01;-04-;Lunayyir, Harrat;Arabia-W;Historical;25,16666667;N;*;37,75;E;1370;Volcanic field;D6
+0301-05=;03;01;-05-;Ithnayn, Harrat;Arabia-W;Holocene;26,58333333;N;*;40,2;E;1625;Volcanic field;U
+0301-06=;03;01;-06-;Khaybar, Harrat;Arabia-W;Historical;25;N;*;39,91666667;E;2093;Volcanic field;D6
+0301-071;03;01;-071;Kishb, Harrat;Arabia-W;Holocene;22,8;N;*;41,38333333;E;1475;Volcanic field;U
+0301-072;03;01;-072;Birk, Harrat al;Arabia-W;Holocene;18,36666667;N;*;41,63333333;E;381;Volcanic field;U
+0301-07=;03;01;-07-;Rahat, Harrat;Arabia-W;Historical;23,08333333;N;*;39,78333333;E;1744;Volcanic field;D6
+0301-08-;03;01;-08-;Yar, Jabal;Arabia-W;Historical;17,05;N;*;42,83333333;E;305;Volcanic field;D3
+0301-09-;03;01;-09-;Arhab, Harra of;Arabia-S;Historical;15,63333333;N;*;44,08333333;E;3100;Volcanic field;D6
+0301-10-;03;01;-10-;Marha, Jabal el-;Arabia-S;Holocene?;15,245;N;;44,23638889;E;2506;Tuff cone;?
+0301-11-;03;01;-11-;Haylan, Jabal;Arabia-S;Anthropology;15,43333333;N;*;44,78333333;E;1550;Volcanic field;D7
+0301-12-;03;01;-12-;Dhamar, Harras of;Arabia-S;Historical;14,56666667;N;*;44,66666667;E;3500;Volcanic field;D2
+0301-15-;03;01;-15-;Unnamed;Arabia-S;Uncertain;12,25;N;;45;E;;Submarine volcano;?
+0301-16-;03;01;-16-;Sawâd, Harra es-;Arabia-S;Historical;13,58333333;N;*;46,11666667;E;1737;Volcanic field;D6
+0301-17-;03;01;-17-;Bal Haf, Harra of;Arabia-S;Holocene;14,05;N;*;48,33333333;E;233;Volcanic field;U
+0301-18-;03;01;-18-;Bir Borhut;Arabia-S;Holocene?;15,55;N;*;50,63333333;E;;Volcanic field;?
+0302-00-;03;02;-00-;Unnamed;Iran;Holocene;39,25;N;*;45,16666667;E;;Volcanic field;U
+0302-001;03;02;-001;Sahand;Iran;Holocene;37,75;N;;46,43333333;E;3707;Stratovolcano;U
+0302-002;03;02;-002;Sabalan;Iran;Holocene;38,25;N;;47,91666667;E;4811;Stratovolcano;U
+0302-01-;03;02;-01-;Damavand;Iran;Uranium-series;35,95138889;N;;52,10944444;E;5670;Stratovolcano;D7
+0302-02-;03;02;-02-;Qal'eh Hasan Ali;Iran;Holocene?;29,4;N;*;57,56666667;E;;Maars;?
+0302-03-;03;02;-03-;Bazman;Iran;Fumarolic;28,06666667;N;;60;E;3490;Stratovolcano;U
+0302-04-;03;02;-04-;Unnamed;Iran;Holocene?;28,16666667;N;*;60,66666667;E;;Volcanic field;?
+0302-05-;03;02;-05-;Taftan;Iran;Holocene;28,6;N;;61,13333333;E;3940;Stratovolcano;U
+0302-06-;03;02;-06-;Dacht-i-Navar Group;Afghanistan;Holocene?;33,95;N;*;67,91666667;E;3800;Lava domes;?
+0302-07-;03;02;-07-;Vakak Group;Afghanistan;Holocene?;34,25;N;*;67,96666667;E;3190;Volcanic field;?
+0303-001;03;03;-001;Grille, La;Indian O.-W;Holocene;-11,46666667;S;;43,33333333;E;1087;Shield volcano;U
+0303-011;03;03;-011;Ambre-Bobaomby;Madagascar;Holocene;-12,6;S;*;49,15;E;1475;Volcanic field;U
+0303-012;03;03;-012;Nosy-Be;Madagascar;Holocene;-13,31666667;S;*;48,48333333;E;214;Cinder cones;U
+0303-013;03;03;-013;Ankaizina Field;Madagascar;Holocene;-14,3;S;*;48,66666667;E;2878;Cinder cones;U
+0303-014;03;03;-014;Itasy Volc Field;Madagascar;Radiocarbon;-19;S;*;46,76666667;E;1800;Scoria cones;D7
+0303-015;03;03;-015;Ankaratra Field;Madagascar;Holocene;-19,4;S;*;47,2;E;2644;Cinder cones;U
+0303-01=;03;03;-01-;Karthala;Indian O.-W;Historical;-11,75;S;;43,38333333;E;2361;Shield volcano;D1
+0303-02=;03;03;-02-;Fournaise, Piton de la;Indian O.-W;Historical;-21,23083333;S;;55,7125;E;2632;Shield volcano;D1
+0304-00-;03;04;-00-;Boomerang Seamount;Indian O.-S;Historical;-37,72083333;S;;77,825;E;-650;Submarine volcano;D2
+0304-001;03;04;-001;Amsterdam Island;Indian O.-S;Holocene;-37,83333333;S;;77,51666667;E;881;Stratovolcano;U
+0304-002;03;04;-002;St. Paul;Indian O.-S;Historical;-38,71666667;S;;77,53333333;E;268;Stratovolcano;D4
+0304-011;03;04;-011;McDonald Islands;Indian O.-S;Historical;-53,03333333;S;;72,6;E;230;Complex volcano;D1
+0304-01=;03;04;-01-;Heard;Indian O.-S;Historical;-53,10555556;S;;73,5125;E;2745;Stratovolcano;D1
+0304-02=;03;04;-02-;Kerguelen Islands;Indian O.-S;Holocene?;-49,58333333;S;;69,5;E;1840;Stratovolcanoes;?
+0304-03-;03;04;-03-;Est, Ile de l';Indian O.-S;Holocene?;-46,43333333;S;;52,2;E;1090;Stratovolcano;?
+0304-04-;03;04;-04-;Possession, Ile de la;Indian O.-S;Holocene;-46,41666667;S;;51,75;E;934;Stratovolcano;U
+0304-05-;03;04;-05-;Cochons, Ile aux;Indian O.-S;Holocene;-46,1;S;;50,23333333;E;775;Stratovolcano;U
+0304-06-;03;04;-06-;Prince Edward Island;Indian O.;Holocene;-46,63333333;S;;37,95;E;672;Shield volcano;U
+0304-07-;03;04;-07-;Marion Island;Indian O.-S;Historical;-46,9;S;;37,75;E;1230;Shield volcanoes;D1
+0305-01=;03;05;-01-;Unnamed;Indian O.-E;Uncertain;11,75;N;;80,75;E;;Submarine volcano?;?
+0401-011;04;01;-011;Whangarei;New Zealand;Holocene?;-35,75;S;*;174,2666667;E;397;Cinder cones;?
+0401-01=;04;01;-01-;Kaikohe-Bay of Islands;New Zealand;Radiocarbon;-35,3;S;*;173,9;E;388;Volcanic field;D6
+0401-021;04;01;-021;Mayor Island;New Zealand;Radiocarbon;-37,28333333;S;;176,25;E;355;Shield volcano;D7
+0401-02=;04;01;-02-;Auckland Field;New Zealand;Radiocarbon;-36,9;S;*;174,8666667;E;260;Volcanic field;D6
+0401-03=;04;01;-03-;Taranaki [Egmont];New Zealand;Historical;-39,3;S;;174,0666667;E;2518;Stratovolcano;D3
+0401-04=;04;01;-04-;White Island;New Zealand;Historical;-37,51666667;S;;177,1833333;E;321;Stratovolcanoes;D1
+0401-05=;04;01;-05-;Okataina;New Zealand;Historical;-38,11666667;S;;176,5;E;1111;Lava domes;D2
+0401-06-;04;01;-06-;Reporoa;New Zealand;Tephrochronology;-38,41666667;S;;176,3333333;E;592;Caldera;D6
+0401-061;04;01;-061;Maroa;New Zealand;Tephrochronology;-38,41666667;S;;176,0833333;E;1156;Calderas;D6
+0401-07=;04;01;-07-;Taupo;New Zealand;Radiocarbon;-38,81666667;S;;176;E;760;Caldera;D6
+0401-08=;04;01;-08-;Tongariro;New Zealand;Historical;-39,13333333;S;;175,6416667;E;1978;Stratovolcanoes;D2
+0401-101;04;01;-101;Clark;New Zealand;Fumarolic;-36,44638889;S;;177,8388889;E;-860;Submarine volcano;U
+0401-102;04;01;-102;Tangaroa;New Zealand;Fumarolic;-36,32083333;S;;178,0283333;E;600;Submarine volcano;U
+0401-10=;04;01;-10-;Ruapehu;New Zealand;Historical;-39,28333333;S;;175,5666667;E;2797;Stratovolcano;D1
+0401-11-;04;01;-11-;Rumble V;New Zealand;Fumarolic;-36,14166667;S;;178,1958333;E;400;Submarine volcano;U
+0401-12-;04;01;-12-;Rumble IV;New Zealand;Fumarolic;-36,13333333;S;;178,05;E;500;Submarine volcano;U
+0401-13-;04;01;-13-;Rumble III;New Zealand;Historical;-35,745;S;;178,4783333;E;-220;Submarine volcano;D1
+0401-131;04;01;-131;Rumble II West;New Zealand;Fumarolic;-35,35333333;S;;178,5266667;E;1200;Submarine volcano;U
+0401-14-;04;01;-14-;Healy;New Zealand;Radiocarbon;-35,00361111;S;;178,9725;E;980;Submarine volcano;D6
+0401-15-;04;01;-15-;Brothers;New Zealand;Fumarolic;-34,87472222;S;;179,0752778;E;-1350;Submarine volcano;U
+0402-001;04;02;-001;Volcano W;Kermadec Is;Fumarolic;-31,85;S;;-179,1833333;W;-900;Submarine volcanoes;U
+0402-01=;04;02;-01-;Curtis Island;Kermadec Is;Uncertain;-30,54222222;S;;-178,5608333;W;137;Submarine volcano;?
+0402-021;04;02;-021;Macauley Island;Kermadec Is;Radiocarbon;-30,2;S;;-178,4666667;W;238;Caldera;D7
+0402-022;04;02;-022;Giggenbach;Kermadec Is;Fumarolic;-30,03583333;S;;-178,7125;W;-65;Submarine volcano;U
+0402-03=;04;02;-03-;Raoul Island;Kermadec Is;Historical;-29,26666667;S;;-177,9166667;W;516;Stratovolcano;D1
+0402-05-;04;02;-05-;Monowai Seamount;Kermadec Is;Historical;-25,8875;S;;-177,1880556;W;-132;Submarine volcano;D1
+0403-001;04;03;-001;Unnamed;Tonga-SW Pacific;Fumarolic;-24,8;S;;-177,0166667;W;-385;Submarine volcano;U
+0403-011;04;03;-011;Unnamed;Tonga-SW Pacific;Holocene;-21,15;S;;-175,75;W;-65;Submarine volcano;U
+0403-01=;04;03;-01-;Unnamed;Tonga-SW Pacific;Historical;-21,38333333;S;;-175,65;W;-500;Submarine volcano;D2
+0403-03=;04;03;-03-;Unnamed;Tonga-SW Pacific;Historical;-20,85;S;;-175,5333333;W;-13;Submarine volcano;D2
+0403-04=;04;03;-04-;Hunga Tonga-Hunga Ha'apai;Tonga-SW Pacific;Historical;-20,56666667;S;;-175,3833333;W;149;Submarine volcano;D1
+0403-05=;04;03;-05-;Falcon Island;Tonga-SW Pacific;Historical;-20,31666667;S;;-175,4166667;W;-17;Submarine volcano;D2
+0403-061;04;03;-061;Kao;Tonga-SW Pacific;Holocene;-19,66666667;S;;-175,0333333;W;1030;Stratovolcano;U
+0403-06=;04;03;-06-;Tofua;Tonga-SW Pacific;Historical;-19,75;S;;-175,0666667;W;515;Caldera;D1
+0403-07=;04;03;-07-;Metis Shoal;Tonga-SW Pacific;Historical;-19,18333333;S;;-174,8666667;W;43;Submarine volcano;D2
+0403-08=;04;03;-08-;Home Reef;Tonga-SW Pacific;Historical;-18,99166667;S;;-174,775;W;-10;Submarine volcano;D1
+0403-091;04;03;-091;Unnamed;Tonga-SW Pacific;Historical;-18,32472222;S;;-174,3652778;W;-40;Submarine volcano;D1
+0403-09=;04;03;-09-;Late;Tonga-SW Pacific;Historical;-18,80555556;S;;-174,65;W;540;Stratovolcano;D3
+0403-101;04;03;-101;Tafahi;Tonga-SW Pacific;Holocene?;-15,85;S;;-173,7166667;W;560;Stratovolcano;?
+0403-102;04;03;-102;Curacoa;Tonga-SW Pacific;Historical;-15,61666667;S;;-173,6666667;W;-33;Submarine volcano;D2
+0403-10=;04;03;-10-;Fonualei;Tonga-SW Pacific;Historical;-18,01666667;S;;-174,325;W;180;Stratovolcano;D2
+0403-11=;04;03;-11-;Niuafo'ou;Tonga-SW Pacific;Historical;-15,6;S;;-175,6333333;W;260;Shield volcano;D2
+0403-12-;04;03;-12-;Tafu-Maka;Tonga-SW Pacific;Historical;-15,36666667;S;;-174,2333333;W;-1400;Submarine volcano;D1
+0403-13-;04;03;-13-;West Mata;Tonga-SW Pacific;Historical;-15,1;S;;-173,75;W;-1174;Submarine volcano;D1
+0404-00-;04;04;-00-;Vailulu'u;Samoa-SW Pacific;Historical;-14,215;S;;-169,0583333;W;-592;Submarine volcano;D1
+0404-001;04;04;-001;Ta'u;Samoa-SW Pacific;Holocene;-14,23333333;S;;-169,4541667;W;931;Shield volcano;U
+0404-01=;04;04;-01-;Ofu-Olosega;Samoa-SW Pacific;Historical;-14,175;S;;-169,6183333;W;639;Shield volcanoes;D3
+0404-02-;04;04;-02-;Tutuila;Samoa-SW Pacific;Holocene;-14,295;S;;-170,7;W;653;Tuff cones;U
+0404-03-;04;04;-03-;Upolu;Samoa-SW Pacific;Holocene;-13,935;S;;-171,7166667;W;1100;Shield volcano;U
+0404-04=;04;04;-04-;Savai'i;Samoa-SW Pacific;Historical;-13,61166667;S;;-172,525;W;1858;Shield volcano;D2
+0404-05-;04;04;-05-;Wallis Islands;SW Pacific;Holocene;-13,3;S;;-176,1666667;W;143;Shield volcanoes;U
+0405-01-;04;05;-01-;Taveuni;Fiji Is-SW Pacific;Radiocarbon;-16,81666667;S;;-179,9666667;W;1241;Shield volcano;D5
+0405-02-;04;05;-02-;Koro;Fiji Is-SW Pacific;Holocene?;-17,31666667;S;;179,4;E;522;Cinder cones;?
+0405-03-;04;05;-03-;Nabukelevu;Fiji Is-SW Pacific;Radiocarbon;-19,11666667;S;;177,9833333;E;805;Lava domes;D5
+0500-01=;05;00;-01-;St. Andrew Strait;Admiralty Is-SW Pacific;Historical;-2,383333333;S;;147,35;E;270;Complex volcano;D2
+0500-02-;05;00;-02-;Baluan;Admiralty Is-SW Pacific;Holocene?;-2,566666667;S;;147,2833333;E;254;Stratovolcano;U
+0500-03-;05;00;-03-;Unnamed;Admiralty Is-SW Pacific;Hydrophonic;-3,033333333;S;;147,7833333;E;-1300;Submarine volcano;D2
+0501-001;05;01;-001;Blup Blup;New Guinea-NE of;Holocene;-3,506666667;S;;144,605;E;402;Stratovolcano;U
+0501-002;05;01;-002;Kadovar;New Guinea-NE of;Holocene;-3,63;S;;144,6305556;E;365;Stratovolcano;U
+0501-011;05;01;-011;Boisa;New Guinea-NE of;Holocene?;-3,994444444;S;;144,9633333;E;240;Stratovolcano;U
+0501-01=;05;01;-01-;Bam;New Guinea-NE of;Historical;-3,6125;S;;144,8183333;E;685;Stratovolcano;D2
+0501-02=;05;01;-02-;Manam;New Guinea-NE of;Historical;-4,08;S;;145,0372222;E;1807;Stratovolcano;D1
+0501-03=;05;01;-03-;Karkar;New Guinea-NE of;Historical;-4,648611111;S;;145,9638889;E;1839;Stratovolcano;D2
+0501-041;05;01;-041;Yomba;New Guinea-NE of;Uncertain;-4,9;S;;146,75;E;;Submarine volcano?;?
+0501-04=;05;01;-04-;Unnamed;New Guinea-NE of;Uncertain;-4,311111111;S;;146,2555556;E;-2000;Submarine volcano?;?
+0501-05=;05;01;-05-;Long Island;New Guinea-NE of;Historical;-5,358333333;S;;147,1166667;E;1280;Complex volcano;D2
+0501-06=;05;01;-06-;Umboi;New Guinea-NE of;Holocene;-5,588888889;S;;147,875;E;1548;Complex volcano;U
+0501-07=;05;01;-07-;Ritter Island;New Guinea-NE of;Historical;-5,516666667;S;;148,1208333;E;140;Stratovolcano;D1
+0501-08=;05;01;-08-;Sakar;New Guinea-NE of;Holocene?;-5,413888889;S;;148,0944444;E;992;Stratovolcano;?
+0502-001;05;02;-001;Unnamed;New Britain-SW Pac;Uncertain;-5,2;S;;148,5666667;E;;Submarine volcano?;?
+0502-01=;05;02;-01-;Langila;New Britain-SW Pac;Historical;-5,525;S;;148,4166667;E;1330;Complex volcano;D1
+0502-021;05;02;-021;Mundua;New Britain-SW Pac;Holocene;-4,633333333;S;;149,35;E;179;Complex volcano;U
+0502-03=;05;02;-03-;Garove;New Britain-SW Pac;Holocene;-4,691666667;S;;149,5;E;368;Stratovolcano;U
+0502-04=;05;02;-04-;Dakataua;New Britain-SW Pac;Anthropology;-5,055555556;S;;150,1083333;E;400;Caldera;D3
+0502-05=;05;02;-05-;Bola;New Britain-SW Pac;Holocene;-5,15;S;;150,0333333;E;1155;Stratovolcano;U
+0502-06=;05;02;-06-;Garua Harbour;New Britain-SW Pac;Holocene?;-5,3;S;*;150,0666667;E;565;Volcanic field;?
+0502-071;05;02;-071;Lolo;New Britain-SW Pac;Holocene?;-5,468055556;S;;150,5069444;E;805;Stratovolcano;?
+0502-07=;05;02;-07-;Garbuna Group;New Britain-SW Pac;Historical;-5,45;S;;150,0333333;E;564;Stratovolcanoes;D1
+0502-08=;05;02;-08-;Pago;New Britain-SW Pac;Historical;-5,583333333;S;;150,5166667;E;742;Caldera;D1
+0502-09=;05;02;-09-;Sulu Range;New Britain-SW Pac;Fumarolic;-5,5;S;;150,9416667;E;610;Stratovolcanoes;U
+0502-10=;05;02;-10-;Hargy;New Britain-SW Pac;Radiocarbon;-5,333333333;S;;151,1;E;1148;Stratovolcano;D6
+0502-11=;05;02;-11-;Bamus;New Britain-SW Pac;Anthropology;-5,2;S;;151,2333333;E;2248;Stratovolcano;D3
+0502-12=;05;02;-12-;Ulawun;New Britain-SW Pac;Historical;-5,05;S;;151,3333333;E;2334;Stratovolcano;D1
+0502-131;05;02;-131;Unnamed;New Britain-SW Pac;Uncertain;-4,75;S;;150,85;E;;Submarine volcano?;?
+0502-13=;05;02;-13-;Lolobau;New Britain-SW Pac;Historical;-4,916666667;S;;151,1583333;E;858;Caldera;D2
+0502-14=;05;02;-14-;Rabaul;New Britain-SW Pac;Historical;-4,270833333;S;;152,2027778;E;688;Pyroclastic shield;D1
+0502-15-;05;02;-15-;Tavui;New Britain-SW Pac;Radiocarbon;-4,116666667;S;;152,2;E;200;Caldera;D7
+0503-00-;05;03;-00-;Doma Peaks;New Guinea;Holocene?;-5,9;S;;143,15;E;3568;Stratovolcano;?
+0503-001;05;03;-001;Crater Mountain;New Guinea;Holocene?;-6,583333333;S;;145,0833333;E;3233;Stratovolcano;?
+0503-002;05;03;-002;Yelia;New Guinea;Holocene?;-7,05;S;;145,8583333;E;3384;Stratovolcano;?
+0503-003;05;03;-003;Koranga;New Guinea;Holocene;-7,333333333;S;;146,7083333;E;1500;Maar;U
+0503-004;05;03;-004;Madilogo;New Guinea;Holocene;-9,2;S;;147,5666667;E;850;Pyroclastic cone;U
+0503-011;05;03;-011;Hydrographers Range;New Guinea;Holocene;-9;S;;148,3666667;E;1915;Stratovolcano;U
+0503-01=;05;03;-01-;Lamington;New Guinea;Historical;-8,95;S;;148,15;E;1680;Stratovolcano;D2
+0503-021;05;03;-021;Managlase Plateau;New Guinea;Anthropology;-9,083333333;S;*;148,3333333;E;1342;Volcanic field;U
+0503-02=;05;03;-02-;Musa River;New Guinea;Hot Springs;-9,308333333;S;;148,1333333;E;808;Hydrothermal field;?
+0503-031;05;03;-031;Sessagara;New Guinea;Holocene;-9,483333333;S;*;149,1333333;E;370;Pyroclastic cones;U
+0503-03=;05;03;-03-;Victory;New Guinea;Historical;-9,2;S;;149,0666667;E;1925;Stratovolcano;D2
+0503-041;05;03;-041;Goodenough;D'Entrecasteaux Is;Holocene;-9,483333333;S;*;150,35;E;220;Volcanic field;U
+0503-04=;05;03;-04-;Waiowa;New Guinea;Historical;-9,566666667;S;;149,075;E;640;Pyroclastic cone;D2
+0503-05=;05;03;-05-;Iamalele;D'Entrecasteaux Is;Holocene;-9,516666667;S;;150,5333333;E;200;Lava domes;U
+0503-06=;05;03;-06-;Dawson Strait Group;D'Entrecasteaux Is;Hydration Rind;-9,616666667;S;*;150,8833333;E;500;Volcanic field;D6
+0504-01=;05;04;-01-;Lihir;New Ireland-SW Pacific;Holocene;-3,125;S;;152,6416667;E;700;Compound volcano;U
+0504-02=;05;04;-02-;Ambitle;New Ireland-SW Pacific;Radiocarbon;-4,083333333;S;;153,65;E;450;Stratovolcano;D7
+0505-00-;05;05;-00-;Tore;Bougainville-SW Pacific;Holocene;-5,833333333;S;;154,9333333;E;2200;Lava cone;U
+0505-011;05;05;-011;Billy Mitchell;Bougainville-SW Pacific;Radiocarbon;-6,091666667;S;;155,225;E;1544;Pyroclastic shield;D5
+0505-01=;05;05;-01-;Balbi;Bougainville-SW Pacific;Holocene;-5,916666667;S;;154,9833333;E;2715;Stratovolcano;U
+0505-021;05;05;-021;Takuan Group;Bougainville-SW Pacific;Holocene;-6,441666667;S;;155,6083333;E;2210;Compound volcano;U
+0505-02=;05;05;-02-;Bagana;Bougainville-SW Pacific;Historical;-6,14;S;;155,195;E;1750;Lava cone;D1
+0505-03=;05;05;-03-;Loloru;Bougainville-SW Pacific;Radiocarbon;-6,516666667;S;;155,6166667;E;1887;Pyroclastic shield;D7
+0505-052;05;05;-052;Kana Keoki;Solomon Is-SW Pacific;Holocene;-8,75;S;;157,0333333;E;-700;Submarine volcano;U
+0505-053;05;05;-053;Coleman Seamount;Solomon Is-SW Pacific;Holocene;-8,833333333;S;;157,1666667;E;;Submarine volcano;U
+0505-05=;05;05;-05-;Simbo;Solomon Is-SW Pacific;Anthropology;-8,291666667;S;;156,5166667;E;335;Stratovolcanoes;D2
+0505-061;05;05;-061;Unnamed;Solomon Is-SW Pacific;Holocene;-8,916666667;S;;158,0333333;E;-240;Submarine volcanoes;U
+0505-062;05;05;-062;Gallego;Solomon Is-SW Pacific;Holocene?;-9,35;S;*;159,7333333;E;1000;Volcanic field;?
+0505-06=;05;05;-06-;Kavachi;Solomon Is-SW Pacific;Historical;-9,016666667;S;;157,95;E;-20;Submarine volcano;D1
+0505-07=;05;05;-07-;Savo;Solomon Is-SW Pacific;Historical;-9,133333333;S;;159,8166667;E;485;Stratovolcano;D3
+0506-01=;05;06;-01-;Tinakula;Santa Cruz Is-SW Pacific;Historical;-10,38333333;S;;165,8;E;851;Stratovolcano;D1
+0507-001;05;07;-001;Motlav;Vanuatu-SW Pacific;Holocene;-13,66666667;S;;167,6666667;E;411;Stratovolcano;U
+0507-01=;05;07;-01-;Suretamatai;Vanuatu-SW Pacific;Historical;-13,8;S;;167,4666667;E;921;Complex volcano;D2
+0507-021;05;07;-021;Mere Lava;Vanuatu-SW Pacific;Holocene;-14,45;S;;168,05;E;1028;Stratovolcano;U
+0507-02=;05;07;-02-;Gaua;Vanuatu-SW Pacific;Historical;-14,26666667;S;;167,5;E;797;Stratovolcano;D1
+0507-03=;05;07;-03-;Aoba;Vanuatu-SW Pacific;Historical;-15,4;S;;167,8333333;E;1496;Shield volcano;D1
+0507-04=;05;07;-04-;Ambrym;Vanuatu-SW Pacific;Historical;-16,25;S;;168,1166667;E;1334;Pyroclastic shield;D1
+0507-05=;05;07;-05-;Lopevi;Vanuatu-SW Pacific;Historical;-16,50666667;S;;168,3458333;E;1413;Stratovolcano;D1
+0507-06=;05;07;-06-;Epi;Vanuatu-SW Pacific;Historical;-16,68333333;S;;168,3666667;E;833;Stratovolcanoes;D1
+0507-07=;05;07;-07-;Kuwae;Vanuatu-SW Pacific;Historical;-16,82916667;S;;168,5361111;E;-2;Caldera;D2
+0507-08-;05;07;-08-;Unnamed;Vanuatu-SW Pacific;Holocene?;-16,99166667;S;;168,5916667;E;216;Stratovolcanoes;?
+0507-081;05;07;-081;North Vate;Vanuatu-SW Pacific;Holocene;-17,46666667;S;;168,3533333;E;594;Stratovolcanoes;U
+0507-09=;05;07;-09-;Traitor's Head;Vanuatu-SW Pacific;Historical;-18,75;S;;169,2333333;E;837;Stratovolcano;D3
+0507-10=;05;07;-10-;Yasur;Vanuatu-SW Pacific;Historical;-19,53333333;S;;169,4416667;E;361;Stratovolcano;D1
+0507-11-;05;07;-11-;Aneityum;Vanuatu-SW Pacific;Holocene?;-20,2;S;;169,7833333;E;852;Stratovolcanoes;?
+0508-001;05;08;-001;Eastern Gemini Seamount;SW Pacific;Historical;-20,98333333;S;;170,2833333;E;-80;Submarine volcano;D2
+0508-01=;05;08;-01-;Matthew Island;SW Pacific;Historical;-22,33333333;S;;171,3166667;E;177;Stratovolcano;D2
+0508-02=;05;08;-02-;Hunter Island;SW Pacific;Historical;-22,4;S;;172,05;E;297;Stratovolcano;D2
+0508-03-;05;08;-03-;Unnamed;SW Pacific;Hydrophonic;-25,78333333;S;;168,6333333;E;-2400;Submarine volcano;D2
+0509-01-;05;09;-01-;Newer Volcanics Prov;Australia;Radiocarbon;-37,76666667;S;*;142,5;E;1011;Shield volcanoes;D7
+0600-001;06;00;-001;Narcondum;Andaman Is-Indian O;Holocene;13,43333333;N;;94,28333333;E;710;Stratovolcano;U
+0600-01=;06;00;-01-;Barren Island;Andaman Is-Indian O;Historical;12,27777778;N;;93,85833333;E;354;Stratovolcano;D1
+0601-02=;06;01;-02-;Seulawah Agam;Sumatra;Historical;5,4475;N;;95,65777778;E;1810;Stratovolcano;D3
+0601-03=;06;01;-03-;Peuet Sague;Sumatra;Historical;4,914444444;N;;96,32916667;E;2801;Complex volcano;D1
+0601-05=;06;01;-05-;Telong, Bur ni;Sumatra;Historical;4,768888889;N;;96,82111111;E;2617;Stratovolcano;D2
+0601-07=;06;01;-07-;Sibayak;Sumatra;Historical;3,233333333;N;;98,51666667;E;2212;Stratovolcanoes;D3
+0601-08=;06;01;-08-;Sinabung;Sumatra;Holocene;3,166666667;N;;98,39166667;E;2460;Stratovolcano;U
+0601-09=;06;01;-09-;Toba;Sumatra;Holocene;2,583333333;N;;98,83333333;E;2157;Caldera;U
+0601-101;06;01;-101;Imun;Sumatra;Holocene?;2,158333333;N;;98,93333333;E;1505;Unknown;?
+0601-111;06;01;-111;Lubukraya;Sumatra;Holocene?;1,477777778;N;;99,20916667;E;1862;Stratovolcano;?
+0601-11=;06;01;-11-;Sibualbuali;Sumatra;Holocene?;1,555555556;N;;99,25527778;E;1819;Stratovolcano;?
+0601-121;06;01;-121;Malintang;Sumatra;Holocene;0,466666667;N;;99,66666667;E;1983;Stratovolcano;U
+0601-12=;06;01;-12-;Sorikmarapi;Sumatra;Historical;0,685833333;N;;99,53944444;E;2145;Stratovolcano;D2
+0601-131;06;01;-131;Sarik-Gajah;Sumatra;Holocene?;0,083333333;N;;100,2;E;;Pyroclastic cones;?
+0601-13=;06;01;-13-;Talakmau;Sumatra;Holocene;0,079166667;N;;99,98333333;E;2919;Complex volcano;U
+0601-14=;06;01;-14-;Marapi;Sumatra;Historical;-0,380555556;S;;100,4733333;E;2891;Complex volcano;D1
+0601-15=;06;01;-15-;Tandikat;Sumatra;Historical;-0,432777778;S;;100,3172222;E;2438;Stratovolcanoes;D2
+0601-16=;06;01;-16-;Talang;Sumatra;Historical;-0,978333333;S;;100,6794444;E;2597;Stratovolcano;D1
+0601-171;06;01;-171;Kunyit;Sumatra;Fumarolic;-2,274166667;S;;101,4825;E;2151;Stratovolcano;U
+0601-172;06;01;-172;Hutapanjang;Sumatra;Holocene;-2,333333333;S;;101,6;E;2021;Stratovolcano;U
+0601-17=;06;01;-17-;Kerinci;Sumatra;Historical;-1,697222222;S;;101,2644444;E;3800;Stratovolcano;D1
+0601-18=;06;01;-18-;Sumbing;Sumatra;Historical;-2,414166667;S;;101,7275;E;2507;Stratovolcano;D2
+0601-191;06;01;-191;Pendan;Sumatra;Holocene;-2,816666667;S;;102,0166667;E;;Unknown;U
+0601-20=;06;01;-20-;Belirang-Beriti;Sumatra;Fumarolic;-2,816666667;S;;102,1833333;E;1958;Compound volcano;U
+0601-21=;06;01;-21-;Daun, Bukit;Sumatra;Fumarolic;-3,383333333;S;;102,3666667;E;2467;Stratovolcanoes;U
+0601-22=;06;01;-22-;Kaba;Sumatra;Historical;-3,516666667;S;;102,6166667;E;1952;Stratovolcano;D1
+0601-231;06;01;-231;Patah;Sumatra;Fumarolic;-4,266666667;S;;103,3;E;2817;Unknown;?
+0601-23=;06;01;-23-;Dempo;Sumatra;Historical;-4,033333333;S;;103,1333333;E;3173;Stratovolcanoes;D1
+0601-24=;06;01;-24-;Lumut Balai, Bukit;Sumatra;Fumarolic;-4,216666667;S;;103,6166667;E;2055;Stratovolcano?;U
+0601-251;06;01;-251;Ranau;Sumatra;Holocene?;-4,833333333;S;;103,9166667;E;1881;Caldera;?
+0601-25=;06;01;-25-;Besar;Sumatra;Historical;-4,433333333;S;;103,6666667;E;1899;Stratovolcano?;D2
+0601-26=;06;01;-26-;Sekincau Belirang;Sumatra;Fumarolic;-5,116666667;S;;104,3166667;E;1719;Calderas;U
+0601-27=;06;01;-27-;Suoh;Sumatra;Historical;-5,25;S;;104,2666667;E;1000;Calderas;D2
+0601-28=;06;01;-28-;Hulubelu;Sumatra;Fumarolic;-5,35;S;;104,6;E;1040;Caldera;U
+0601-29=;06;01;-29-;Rajabasa;Sumatra;Fumarolic;-5,783333333;S;;105,625;E;1281;Stratovolcano;U
+0602-00=;06;02;-00-;Krakatau;Indonesia;Historical;-6,101666667;S;;105,4227778;E;813;Caldera;D1
+0603-01=;06;03;-01-;Pulosari;Java;Holocene;-6,341666667;S;;105,975;E;1346;Stratovolcano;U
+0603-02=;06;03;-02-;Karang;Java;Holocene?;-6,266666667;S;;106,0416667;E;1778;Stratovolcano;?
+0603-04=;06;03;-04-;Perbakti-Gagak;Java;Historical;-6,75;S;;106,7;E;1699;Stratovolcanoes;D2
+0603-05=;06;03;-05-;Salak;Java;Historical;-6,716666667;S;;106,7333333;E;2211;Stratovolcano;D2
+0603-06=;06;03;-06-;Gede;Java;Historical;-6,783333333;S;;106,9833333;E;2958;Stratovolcano;D2
+0603-07=;06;03;-07-;Patuha;Java;Holocene;-7,160277778;S;;107,4;E;2434;Stratovolcano;U
+0603-081;06;03;-081;Malabar;Java;Holocene?;-7,133333333;S;;107,65;E;2343;Stratovolcano;?
+0603-08=;06;03;-08-;Wayang-Windu;Java;Fumarolic;-7,208333333;S;;107,6333333;E;2182;Lava dome;U
+0603-09=;06;03;-09-;Tangkubanparahu;Java;Historical;-6,766666667;S;;107,6;E;2084;Stratovolcano;D2
+0603-10=;06;03;-10-;Papandayan;Java;Historical;-7,316666667;S;;107,7333333;E;2665;Stratovolcanoes;D1
+0603-11=;06;03;-11-;Kendang;Java;Holocene;-7,233333333;S;;107,7166667;E;2608;Stratovolcano;U
+0603-131;06;03;-131;Tampomas;Java;Holocene;-6,766666667;S;;107,95;E;1684;Stratovolcano;U
+0603-13=;06;03;-13-;Guntur;Java;Historical;-7,143333333;S;;107,8397222;E;2249;Complex volcano;D3
+0603-14=;06;03;-14-;Galunggung;Java;Historical;-7,25;S;;108,0583333;E;2168;Stratovolcano;D2
+0603-15=;06;03;-15-;Talagabodas;Java;Fumarolic;-7,208333333;S;;108,0666667;E;2201;Stratovolcano;U
+0603-16=;06;03;-16-;Karaha, Kawah;Java;Fumarolic;-7,116666667;S;;108,0833333;E;1155;Fumarole field;U
+0603-17=;06;03;-17-;Cereme;Java;Historical;-6,891666667;S;;108,4;E;3078;Stratovolcano;D2
+0603-18=;06;03;-18-;Slamet;Java;Historical;-7,241666667;S;;109,2083333;E;3428;Stratovolcano;D1
+0603-20=;06;03;-20-;Dieng Volc Complex;Java;Historical;-7,2;S;*;109,9166667;E;2565;Complex volcano;D1
+0603-21=;06;03;-21-;Sundoro;Java;Historical;-7,3;S;;109,9916667;E;3136;Stratovolcano;D2
+0603-22=;06;03;-22-;Sumbing;Java;Historical;-7,384166667;S;;110,0702778;E;3371;Stratovolcano;D4
+0603-231;06;03;-231;Telomoyo;Java;Holocene;-7,366666667;S;;110,4;E;1894;Stratovolcano;U
+0603-23=;06;03;-23-;Ungaran;Java;Holocene;-7,183333333;S;;110,3333333;E;2050;Stratovolcano;U
+0603-24=;06;03;-24-;Merbabu;Java;Historical;-7,45;S;;110,4333333;E;3145;Stratovolcano;D4
+0603-251;06;03;-251;Muria;Java;Holocene;-6,616666667;S;;110,8833333;E;1625;Stratovolcano;D7
+0603-25=;06;03;-25-;Merapi;Java;Historical;-7,541666667;S;;110,4416667;E;2968;Stratovolcano;D1
+0603-26=;06;03;-26-;Lawu;Java;Historical;-7,625;S;;111,1916667;E;3265;Stratovolcano;D3
+0603-27=;06;03;-27-;Wilis;Java;Holocene;-7,808333333;S;;111,7583333;E;2563;Stratovolcano;U
+0603-281;06;03;-281;Kawi-Butak;Java;Holocene;-7,916666667;S;;112,45;E;2651;Stratovolcanoes;U
+0603-28=;06;03;-28-;Kelut;Java;Historical;-7,933333333;S;;112,3083333;E;1731;Stratovolcano;D1
+0603-291;06;03;-291;Penanggungan;Java;Holocene;-7,616666667;S;;112,6333333;E;1653;Stratovolcano;U
+0603-292;06;03;-292;Malang Plain;Java;Holocene;-8,016666667;S;*;112,6833333;E;680;Maars;U
+0603-29=;06;03;-29-;Arjuno-Welirang;Java;Historical;-7,725;S;;112,5833333;E;3339;Stratovolcano;D2
+0603-30=;06;03;-30-;Semeru;Java;Historical;-8,108333333;S;;112,9166667;E;3676;Stratovolcano;D1
+0603-31=;06;03;-31-;Tengger Caldera;Java;Historical;-7,941666667;S;;112,95;E;2329;Stratovolcanoes;D1
+0603-321;06;03;-321;Lurus;Java;Holocene?;-7,733333333;S;;113,5833333;E;539;Complex volcano;?
+0603-32=;06;03;-32-;Lamongan;Java;Historical;-7,979166667;S;;113,3422222;E;1651;Stratovolcano;D3
+0603-33=;06;03;-33-;Iyang-Argapura;Java;Holocene;-7,966666667;S;;113,5666667;E;3088;Complex volcano;U
+0603-34=;06;03;-34-;Raung;Java;Historical;-8,125;S;;114,0416667;E;3332;Stratovolcano;D1
+0603-351;06;03;-351;Baluran;Java;Holocene?;-7,85;S;;114,3666667;E;1247;Stratovolcano;?
+0603-35=;06;03;-35-;Ijen;Java;Historical;-8,058333333;S;;114,2416667;E;2799;Stratovolcanoes;D2
+0604-001;06;04;-001;Bratan;Lesser Sunda Is;Holocene;-8,283333333;S;;115,1333333;E;2276;Caldera;U
+0604-01=;06;04;-01-;Batur;Lesser Sunda Is;Historical;-8,241666667;S;;115,375;E;1717;Caldera;D1
+0604-02=;06;04;-02-;Agung;Lesser Sunda Is;Historical;-8,341666667;S;;115,5083333;E;3142;Stratovolcano;D2
+0604-03=;06;04;-03-;Rinjani;Lesser Sunda Is;Historical;-8,416666667;S;;116,4666667;E;3726;Stratovolcano;D1
+0604-04=;06;04;-04-;Tambora;Lesser Sunda Is;Historical;-8,25;S;;118;E;2850;Stratovolcano;D2
+0604-05=;06;04;-05-;Sangeang Api;Lesser Sunda Is;Historical;-8,2;S;;119,0666667;E;1949;Complex volcano;D2
+0604-06=;06;04;-06-;Sano, Wai;Lesser Sunda Is;Holocene;-8,716666667;S;;120,0166667;E;903;Caldera;U
+0604-071;06;04;-071;Ranakah;Lesser Sunda Is;Historical;-8,616666667;S;;120,5166667;E;2350;Lava domes;D2
+0604-07=;06;04;-07-;Poco Leok;Lesser Sunda Is;Fumarolic;-8,683333333;S;;120,4833333;E;1675;Stratovolcano;U
+0604-08=;06;04;-08-;Inierie;Lesser Sunda Is;Radiocarbon;-8,875;S;;120,95;E;2245;Stratovolcano;D7
+0604-09=;06;04;-09-;Inielika;Lesser Sunda Is;Historical;-8,733333333;S;;120,9833333;E;1559;Complex volcano;D1
+0604-10=;06;04;-10-;Ebulobo;Lesser Sunda Is;Historical;-8,816666667;S;;121,1833333;E;2124;Stratovolcano;D2
+0604-11=;06;04;-11-;Iya;Lesser Sunda Is;Historical;-8,896666667;S;;121,645;E;637;Stratovolcano;D2
+0604-12=;06;04;-12-;Sukaria Caldera;Lesser Sunda Is;Fumarolic;-8,791666667;S;;121,7666667;E;1500;Caldera;U
+0604-13=;06;04;-13-;Ndete Napu;Lesser Sunda Is;Fumarolic;-8,716666667;S;;121,7833333;E;750;Fumarole field;?
+0604-14=;06;04;-14-;Kelimutu;Lesser Sunda Is;Historical;-8,766666667;S;;121,8166667;E;1639;Complex volcano;D2
+0604-15=;06;04;-15-;Paluweh;Lesser Sunda Is;Historical;-8,316666667;S;;121,7083333;E;875;Stratovolcano;D2
+0604-16=;06;04;-16-;Egon;Lesser Sunda Is;Historical;-8,666666667;S;;122,45;E;1703;Stratovolcano;D1
+0604-17=;06;04;-17-;Ilimuda;Lesser Sunda Is;Fumarolic;-8,478333333;S;;122,6711111;E;1100;Stratovolcano;U
+0604-18=;06;04;-18-;Lewotobi;Lesser Sunda Is;Historical;-8,541666667;S;;122,775;E;1703;Stratovolcanoes;D1
+0604-20=;06;04;-20-;Leroboleng;Lesser Sunda Is;Historical;-8,358333333;S;;122,8416667;E;1117;Complex volcano;D1
+0604-22=;06;04;-22-;Iliboleng;Lesser Sunda Is;Historical;-8,341666667;S;;123,2583333;E;1659;Stratovolcano;D2
+0604-23=;06;04;-23-;Lewotolo;Lesser Sunda Is;Historical;-8,271666667;S;;123,505;E;1423;Stratovolcano;D2
+0604-24=;06;04;-24-;Ililabalekan;Lesser Sunda Is;Fumarolic;-8,55;S;;123,3833333;E;1018;Stratovolcano;U
+0604-25=;06;04;-25-;Iliwerung;Lesser Sunda Is;Historical;-8,533333333;S;;123,5666667;E;1018;Complex volcano;D2
+0604-26=;06;04;-26-;Tara, Batu;Lesser Sunda Is;Historical;-7,791666667;S;;123,5791667;E;748;Stratovolcano;D1
+0604-27=;06;04;-27-;Sirung;Lesser Sunda Is;Historical;-8,508333333;S;;124,1333333;E;862;Complex volcano;D2
+0604-28=;06;04;-28-;Yersey;Lesser Sunda Is;Uncertain;-7,533333333;S;;123,95;E;-3800;Submarine volcano?;?
+0605-01=;06;05;-01-;Emperor of China;Banda Sea;Uncertain;-6,616666667;S;;124,2166667;E;-2850;Submarine volcano?;?
+0605-02=;06;05;-02-;Nieuwerkerk;Banda Sea;Uncertain;-6,6;S;;124,675;E;-2285;Submarine volcano?;?
+0605-03=;06;05;-03-;Gunungapi Wetar;Banda Sea;Historical;-6,641666667;S;;126,65;E;282;Stratovolcano;D5
+0605-04=;06;05;-04-;Wurlali;Banda Sea;Historical;-7,125;S;;128,675;E;868;Stratovolcano;D3
+0605-05=;06;05;-05-;Teon;Banda Sea;Historical;-6,916666667;S;;129,125;E;655;Stratovolcano;D2
+0605-06=;06;05;-06-;Nila;Banda Sea;Historical;-6,733333333;S;;129,5;E;781;Stratovolcano;D2
+0605-07=;06;05;-07-;Serua;Banda Sea;Historical;-6,3;S;;130;E;641;Stratovolcano;D2
+0605-08=;06;05;-08-;Manuk;Banda Sea;Fumarolic;-5,533333333;S;;130,2916667;E;282;Stratovolcano;U
+0605-09=;06;05;-09-;Banda Api;Banda Sea;Historical;-4,525;S;;129,8713889;E;640;Caldera;D2
+0606-01=;06;06;-01-;Colo [Una Una];Sulawesi-Indonesia;Historical;-0,166666667;S;;121,6083333;E;507;Stratovolcano;D2
+0606-02=;06;06;-02-;Ambang;Sulawesi-Indonesia;Historical;0,75;N;;124,4166667;E;1795;Complex volcano;D3
+0606-03=;06;06;-03-;Soputan;Sulawesi-Indonesia;Historical;1,108333333;N;;124,7333333;E;1784;Stratovolcano;D1
+0606-04=;06;06;-04-;Sempu;Sulawesi-Indonesia;Fumarolic;1,133333333;N;;124,7583333;E;1549;Caldera;U
+0606-07-;06;06;-07-;Tondano Caldera;Sulawesi-Indonesia;Fumarolic;1,233333333;N;;124,8333333;E;1202;Caldera;U
+0606-10=;06;06;-10-;Lokon-Empung;Sulawesi-Indonesia;Historical;1,358333333;N;;124,7916667;E;1580;Stratovolcano;D1
+0606-11=;06;06;-11-;Mahawu;Sulawesi-Indonesia;Historical;1,358333333;N;;124,8583333;E;1324;Stratovolcano;D2
+0606-12=;06;06;-12-;Klabat;Sulawesi-Indonesia;Fumarolic;1,466666667;N;;125,0333333;E;1995;Stratovolcano;U
+0606-13=;06;06;-13-;Tongkoko;Sulawesi-Indonesia;Historical;1,516666667;N;;125,2;E;1149;Stratovolcano;D3
+0607-01=;06;07;-01-;Ruang;Sangihe Is-Indonesia;Historical;2,3;N;;125,3666667;E;725;Stratovolcano;D1
+0607-02=;06;07;-02-;Karangetang [Api Siau];Sangihe Is-Indonesia;Historical;2,783333333;N;;125,4;E;1784;Stratovolcano;D1
+0607-03=;06;07;-03-;Banua Wuhu;Sangihe Is-Indonesia;Historical;3,137777778;N;;125,4905556;E;-5;Submarine volcano;D2
+0607-04=;06;07;-04-;Awu;Sangihe Is-Indonesia;Historical;3,666666667;N;;125,5;E;1320;Stratovolcano;D1
+0607-05=;06;07;-05-;Unnamed;Sangihe Is-Indonesia;Uncertain;3,966666667;N;;124,1666667;E;-5000;Submarine volcano?;?
+0608-001;06;08;-001;Tarakan;Halmahera-Indonesia;Holocene;1,833333333;N;;127,8333333;E;318;Pyroclastic cones;U
+0608-01=;06;08;-01-;Dukono;Halmahera-Indonesia;Historical;1,683333333;N;;127,8833333;E;1335;Complex volcano;D1
+0608-02-;06;08;-02-;Tobaru;Halmahera-Indonesia;Holocene;1,633333333;N;;127,6666667;E;1035;Unknown;U
+0608-03=;06;08;-03-;Ibu;Halmahera-Indonesia;Historical;1,4875;N;;127,6333333;E;1325;Stratovolcano;D1
+0608-04=;06;08;-04-;Gamkonora;Halmahera-Indonesia;Historical;1,383333333;N;;127,5333333;E;1635;Stratovolcano;D1
+0608-051;06;08;-051;Jailolo;Halmahera-Indonesia;Holocene;1,083333333;N;;127,4166667;E;1130;Stratovolcano;U
+0608-052;06;08;-052;Hiri;Halmahera-Indonesia;Holocene;0,9;N;;127,3166667;E;630;Stratovolcano;U
+0608-05=;06;08;-05-;Todoko-Ranu;Halmahera-Indonesia;Holocene;1,25;N;;127,4666667;E;979;Calderas;U
+0608-061;06;08;-061;Tidore;Halmahera-Indonesia;Holocene;0,658333333;N;;127,4;E;1730;Stratovolcano;U
+0608-062;06;08;-062;Mare;Halmahera-Indonesia;Holocene;0,566666667;N;;127,4;E;308;Stratovolcano;U
+0608-063;06;08;-063;Moti;Halmahera-Indonesia;Holocene;0,45;N;;127,4;E;950;Stratovolcano;U
+0608-06=;06;08;-06-;Gamalama;Halmahera-Indonesia;Historical;0,8;N;;127,3333333;E;1715;Stratovolcanoes;D1
+0608-071;06;08;-071;Tigalalu;Halmahera-Indonesia;Holocene;0,066666667;N;;127,4166667;E;422;Stratovolcano;U
+0608-072;06;08;-072;Amasing;Halmahera-Indonesia;Holocene;-0,533333333;S;;127,4833333;E;1030;Stratovolcanoes;U
+0608-073;06;08;-073;Bibinoi;Halmahera-Indonesia;Holocene;-0,766666667;S;;127,7166667;E;900;Stratovolcanoes;U
+0608-07=;06;08;-07-;Makian;Halmahera-Indonesia;Historical;0,316666667;N;;127,4;E;1357;Stratovolcano;D2
+0610-01-;06;10;-01-;Bombalai;Borneo;Holocene?;4,4;N;;117,8833333;E;531;Pyroclastic cone;?
+0700-01=;07;00;-01-;Jolo;Sulu Is-Philippines;Historical;6,013333333;N;*;121,0566667;E;811;Pyroclastic cones;D3
+0701-011;07;01;-011;Parker;Mindanao-Philippines;Historical;6,113333333;N;;124,8916667;E;1824;Stratovolcano;D5
+0701-01=;07;01;-01-;Balut;Mindanao-Philippines;Fumarolic;5,4;N;;125,375;E;862;Stratovolcano;U
+0701-02=;07;01;-02-;Matutum;Mindanao-Philippines;Radiocarbon;6,366666667;N;;125,0666667;E;2286;Stratovolcano;D6
+0701-031;07;01;-031;Leonard Range;Mindanao-Philippines;Radiocarbon;7,381666667;N;;126,0466667;E;1080;Stratovolcano;D6
+0701-03=;07;01;-03-;Apo;Mindanao-Philippines;Fumarolic;6,988888889;N;;125,2694444;E;2938;Stratovolcano;U
+0701-04=;07;01;-04-;Makaturing;Mindanao-Philippines;Historical;7,646666667;N;;124,3166667;E;1940;Stratovolcano;D3
+0701-05=;07;01;-05-;Latukan;Mindanao-Philippines;Holocene?;7,65;N;;124,45;E;2338;Stratovolcano;?
+0701-061;07;01;-061;Kalatungan;Mindanao-Philippines;Holocene?;7,95;N;;124,8;E;2824;Stratovolcano;?
+0701-06=;07;01;-06-;Ragang;Mindanao-Philippines;Historical;7,7;N;;124,5;E;2815;Stratovolcano;D3
+0701-071;07;01;-071;Malindang;Mindanao-Philippines;Holocene;8,216666667;N;;123,6333333;E;2404;Stratovolcano;U
+0701-072;07;01;-072;Balatukan;Mindanao-Philippines;Uncertain;8,766666667;N;;124,9833333;E;2450;Compound volcano;?
+0701-07=;07;01;-07-;Musuan;Mindanao-Philippines;Historical;7,876666667;N;;125,0683333;E;646;Lava dome;D3
+0701-08=;07;01;-08-;Camiguin;Mindanao-Philippines;Historical;9,203333333;N;;124,6733333;E;1552;Stratovolcanoes;D2
+0701-09-;07;01;-09-;Paco;Mindanao-Philippines;Anthropology;9,593333333;N;;125,52;E;524;Stratovolcano;U
+0702-01=;07;02;-01-;Cuernos de Negros;Philippines-C;Fumarolic;9,25;N;;123,1666667;E;1862;Complex volcano;U
+0702-02=;07;02;-02-;Kanlaon;Philippines-C;Historical;10,41166667;N;;123,1316667;E;2435;Stratovolcano;D1
+0702-03=;07;02;-03-;Mandalagan;Philippines-C;Fumarolic;10,65;N;;123,25;E;1885;Complex volcano;U
+0702-04=;07;02;-04-;Silay;Philippines-C;Fumarolic;10,76666667;N;;123,2333333;E;1510;Stratovolcano;U
+0702-05=;07;02;-05-;Cabalían;Philippines-C;Radiocarbon;10,28694444;N;;125,2208333;E;945;Stratovolcano;D3
+0702-07=;07;02;-07-;Mahagnao;Philippines-C;Fumarolic;10,89583333;N;;125,8666667;E;860;Stratovolcano;U
+0702-08=;07;02;-08-;Biliran;Philippines-C;Historical;11,52333333;N;;124,535;E;1301;Compound volcano;D2
+0703-01=;07;03;-01-;Bulusan;Luzon-Philippines;Historical;12,77;N;;124,05;E;1565;Stratovolcanoes;D1
+0703-02=;07;03;-02-;Pocdol Mountains;Luzon-Philippines;Fumarolic;13,05;N;;123,9583333;E;1102;Compound volcano;U
+0703-031;07;03;-031;Masaraga;Luzon-Philippines;Holocene;13,31666667;N;;123,6;E;1328;Stratovolcano;U
+0703-03=;07;03;-03-;Mayon;Luzon-Philippines;Historical;13,25666667;N;;123,685;E;2462;Stratovolcano;D1
+0703-041;07;03;-041;Iriga;Luzon-Philippines;Holocene;13,45666667;N;;123,4566667;E;1196;Stratovolcano;U
+0703-042;07;03;-042;Isarog;Luzon-Philippines;Fumarolic;13,65833333;N;;123,3833333;E;1966;Stratovolcano;U
+0703-044;07;03;-044;Malindig;Luzon-Philippines;Hot Springs;13,24;N;;122,0183333;E;1157;Stratovolcano;U
+0703-05=;07;03;-05-;Banahaw;Luzon-Philippines;Holocene;14,06666667;N;;121,4833333;E;2158;Complex volcano;U
+0703-06=;07;03;-06-;San Pablo Volc Field;Luzon-Philippines;Anthropology;14,11666667;N;*;121,3;E;1090;Stratovolcano;D6
+0703-07=;07;03;-07-;Taal;Luzon-Philippines;Historical;14,00166667;N;;120,9933333;E;311;Caldera;D2
+0703-081;07;03;-081;Mariveles;Luzon-Philippines;Radiocarbon;14,51666667;N;;120,4666667;E;1388;Stratovolcano;D7
+0703-082;07;03;-082;Natib;Luzon-Philippines;Holocene?;14,71666667;N;;120,4;E;1253;Stratovolcano;?
+0703-083;07;03;-083;Pinatubo;Luzon-Philippines;Historical;15,13333333;N;;120,35;E;1486;Stratovolcano;D2
+0703-084;07;03;-084;Arayat;Luzon-Philippines;Holocene?;15,2;N;;120,7416667;E;1026;Stratovolcano;?
+0703-085;07;03;-085;Amorong;Luzon-Philippines;Fumarolic;15,82833333;N;;120,805;E;376;Lava domes;U
+0703-086;07;03;-086;Santo Tomas;Luzon-Philippines;Uncertain;16,33333333;N;;120,55;E;2260;Stratovolcano;?
+0703-087;07;03;-087;Patoc;Luzon-Philippines;Fumarolic;17,14666667;N;;120,98;E;1865;Stratovolcano;U
+0703-088;07;03;-088;Ambalatungan Group;Luzon-Philippines;Fumarolic;17,31666667;N;;121,1;E;2329;Compound volcano;U
+0703-08=;07;03;-08-;Laguna Caldera;Luzon-Philippines;Fumarolic;14,41666667;N;;121,2666667;E;743;Caldera;U
+0703-09=;07;03;-09-;Cagua;Luzon-Philippines;Historical;18,22166667;N;;122,1233333;E;1133;Stratovolcano;D3
+0704-01=;07;04;-01-;Camiguin de Babuyanes;Luzon-N of;Historical;18,83333333;N;;121,86;E;712;Stratovolcano;D3
+0704-02=;07;04;-02-;Didicas;Luzon-N of;Historical;19,07666667;N;;122,2016667;E;228;Compound volcano;D2
+0704-03=;07;04;-03-;Babuyan Claro;Luzon-N of;Historical;19,52333333;N;;121,94;E;1080;Stratovolcanoes;D2
+0704-05=;07;04;-05-;Unnamed;Luzon-N of;Historical;20,33333333;N;;121,75;E;-24;Submarine volcano;D3
+0704-06-;07;04;-06-;Iraya;Luzon-N of;Historical;20,46861111;N;;122,0097222;E;1009;Stratovolcano;D6
+0705-001;07;05;-001;Hainan Dao;SE Asia;Historical;19,7;N;*;110,1;E;;Pyroclastic cones;D2
+0705-01-;07;05;-01-;Leizhou Bandao;SE Asia;Holocene;20,78333333;N;*;110,1666667;E;259;Volcanic field;U
+0705-02-;07;05;-02-;Cù-Lao Ré Group;SE Asia;Holocene;15,38333333;N;*;109,1166667;E;181;Volcanic field;U
+0705-03-;07;05;-03-;Toroeng Prong;SE Asia;Holocene?;14,93333333;N;;108;E;800;Cinder cone;?
+0705-04-;07;05;-04-;Haut Dong Nai;SE Asia;Holocene?;11,6;N;*;108,2;E;1000;Volcanic field;?
+0705-05-;07;05;-05-;Bas Dong Nai;SE Asia;Holocene?;10,8;N;*;107,2;E;392;Volcanic field;?
+0705-06-;07;05;-06-;Cendres, Ile des;SE Asia;Historical;10,1575;N;;109,0138889;E;-20;Submarine volcanoes;D2
+0705-07-;07;05;-07-;Veteran;SE Asia;Fumarolic;9,833333333;N;;109,05;E;;Submarine volcano;U
+0705-08-;07;05;-08-;Popa;SE Asia;Anthropology;20,91666667;N;;95,25;E;1518;Stratovolcano;D7
+0705-09-;07;05;-09-;Lower Chindwin;SE Asia;Holocene?;22,28333333;N;*;95,1;E;385;Volcanic field;?
+0705-10-;07;05;-10-;Singu Plateau;SE Asia;Holocene;22,7;N;*;95,98333333;E;507;Fissure vents;U
+0705-11-;07;05;-11-;Tengchong;SE Asia;Uranium-series;25,23333333;N;*;98,5;E;2865;Pyroclastic cones;D7
+0801-011;08;01;-011;Unnamed;Taiwan-E of;Uncertain;19,16666667;N;;132,25;E;-10;Submarine volcano?;?
+0801-01=;08;01;-01-;Unnamed;Taiwan-E of;Uncertain;20,93333333;N;;134,75;E;-6000;Submarine volcano?;?
+0801-02=;08;01;-02-;Unnamed;Taiwan-E of;Uncertain;21,83333333;N;;121,1833333;E;-115;Submarine volcano;?
+0801-031;08;01;-031;Kueishantao;Taiwan-E of;Historical;24,85;N;;121,9166667;E;401;Stratovolcano;D4
+0801-032;08;01;-032;Tatun Group;Taiwan;Radiocarbon;25,16666667;N;*;121,5166667;E;1120;Lava domes;D7
+0801-03=;08;01;-03-;Unnamed;Taiwan-E of;Historical;24;N;;121,8333333;E;;Submarine volcano;D3
+0801-04=;08;01;-04-;Unnamed;Taiwan-N of;Uncertain;25,4;N;;122,2;E;-100;Submarine volcano;?
+0801-05=;08;01;-05-;Zengyu;Taiwan-N of;Uncertain;26,18333333;N;;122,4583333;E;-418;Submarine volcano;?
+0802-01=;08;02;-01-;Iriomote-jima;Ryukyu Is;Historical;24,55833333;N;;124;E;-200;Submarine volcano;D2
+0802-021;08;02;-021;Yokoate-jima;Ryukyu Is;Historical;28,79694444;N;;128,9969444;E;495;Stratovolcanoes;D3
+0802-022;08;02;-022;Akuseki-jima;Ryukyu Is;Holocene?;29,46138889;N;;129,5969444;E;584;Stratovolcanoes;?
+0802-02=;08;02;-02-;Iwo-Tori-shima;Ryukyu Is;Historical;27,87722222;N;;128,2244444;E;212;Complex volcano;D2
+0802-03=;08;02;-03-;Suwanose-jima;Ryukyu Is;Historical;29,63472222;N;;129,7161111;E;799;Stratovolcanoes;D1
+0802-041;08;02;-041;Kogaja-jima;Ryukyu Is;Holocene?;29,87888889;N;;129,6247222;E;301;Lava domes;?
+0802-043;08;02;-043;Kuchino-shima;Ryukyu Is;Radiocarbon;29,96444444;N;;129,9275;E;628;Stratovolcanoes;D6
+0802-04=;08;02;-04-;Nakano-shima;Ryukyu Is;Historical;29,85555556;N;;129,8591667;E;979;Stratovolcanoes;D2
+0802-05=;08;02;-05-;Kuchinoerabu-jima;Ryukyu Is;Historical;30,43972222;N;;130,2194444;E;657;Stratovolcanoes;D2
+0802-06=;08;02;-06-;Kikai;Ryukyu Is;Historical;30,78944444;N;;130,3075;E;704;Caldera;D1
+0802-07=;08;02;-07-;Ibusuki Volc Field;Kyushu-Japan;Historical;31,21666667;N;*;130,5666667;E;922;Calderas;D6
+0802-081;08;02;-081;Sumiyoshi-ike;Kyushu-Japan;Radiocarbon;31,76833333;N;;130,5941667;E;15;Maars;D7
+0802-08=;08;02;-08-;Sakura-jima;Kyushu-Japan;Historical;31,585;N;;130,6569444;E;1117;Stratovolcano;D1
+0802-091;08;02;-091;Fukue-jima;Kyushu-Japan;Tephrochronology;32,65305556;N;;128,8511111;E;317;Shield volcanoes;D7
+0802-09=;08;02;-09-;Kirishima;Kyushu-Japan;Historical;31,93083333;N;;130,8638889;E;1700;Shield volcano;D1
+0802-10=;08;02;-10-;Unzen;Kyushu-Japan;Historical;32,75666667;N;;130,2944444;E;1500;Complex volcano;D2
+0802-11=;08;02;-11-;Aso;Kyushu-Japan;Historical;32,88083333;N;;131,1063889;E;1592;Caldera;D1
+0802-12=;08;02;-12-;Kuju;Kyushu-Japan;Historical;33,0825;N;;131,2513889;E;1791;Stratovolcanoes;D2
+0802-13=;08;02;-13-;Tsurumi;Kyushu-Japan;Historical;33,28333333;N;;131,4322222;E;1584;Lava domes;D6
+0803-001;08;03;-001;Abu;Honshu-Japan;Thermoluminescence;34,5;N;;131,6;E;641;Shield volcanoes;D7
+0803-002;08;03;-002;Sanbe;Honshu-Japan;Radiocarbon;35,13333333;N;;132,6166667;E;1126;Stratovolcano;D6
+0803-003;08;03;-003;Oki-Dogo;Honshu-Japan;Anthropology;36,17638889;N;;133,3341667;E;151;Shield volcano;U
+0803-01=;08;03;-01-;Izu-Tobu;Honshu-Japan;Historical;34,89972222;N;;139,0977778;E;1406;Pyroclastic cones;D2
+0803-02=;08;03;-02-;Hakone;Honshu-Japan;Radiocarbon;35,23;N;;139,0238889;E;1438;Complex volcano;D6
+0803-031;08;03;-031;Kita Yatsuga-take;Honshu-Japan;Radiocarbon;36,1;N;;138,3;E;2530;Stratovolcanoes;D6
+0803-03=;08;03;-03-;Fuji;Honshu-Japan;Historical;35,3575;N;;138,7305556;E;3776;Stratovolcano;D4
+0803-04=;08;03;-04-;On-take;Honshu-Japan;Historical;35,88972222;N;;137,4833333;E;3063;Complex volcano;D2
+0803-05=;08;03;-05-;Haku-san;Honshu-Japan;Historical;36,15194444;N;;136,7744444;E;2702;Stratovolcano;D5
+0803-06=;08;03;-06-;Norikura;Honshu-Japan;Radiocarbon;36,10333333;N;;137,5566667;E;3026;Stratovolcanoes;D7
+0803-071;08;03;-071;Washiba-Kumonotaira;Honshu-Japan;Holocene;36,40805556;N;;137,5941667;E;2924;Shield volcanoes;D
+0803-07=;08;03;-07-;Yake-dake;Honshu-Japan;Historical;36,22361111;N;;137,59;E;2455;Stratovolcanoes;D2
+0803-08=;08;03;-08-;Tate-yama;Honshu-Japan;Historical;36,56805556;N;;137,5927778;E;2621;Stratovolcano;D3
+0803-09=;08;03;-09-;Niigata-Yake-yama;Honshu-Japan;Historical;36,91777778;N;;138,0391667;E;2400;Lava dome;D2
+0803-10=;08;03;-10-;Myoko;Honshu-Japan;Radiocarbon;36,88833333;N;;138,1166667;E;2446;Stratovolcano;D7
+0803-11=;08;03;-11-;Asama;Honshu-Japan;Historical;36,40333333;N;;138,5261111;E;2568;Complex volcano;D1
+0803-121;08;03;-121;Shiga;Honshu-Japan;Holocene?;36,6875;N;;138,5191667;E;2041;Shield volcanoes;?
+0803-122;08;03;-122;Haruna;Honshu-Japan;Anthropology;36,47388889;N;;138,8813889;E;1449;Stratovolcano;D6
+0803-12=;08;03;-12-;Kusatsu-Shirane;Honshu-Japan;Historical;36,61972222;N;;138,535;E;2171;Stratovolcanoes;D2
+0803-131;08;03;-131;Hiuchi;Honshu-Japan;Historical;36,95194444;N;;139,2886111;E;2356;Stratovolcano;D5
+0803-13=;08;03;-13-;Akagi;Honshu-Japan;Holocene?;36,55722222;N;;139,1963889;E;1828;Stratovolcano;?
+0803-141;08;03;-141;Nantai;Honshu-Japan;Radiocarbon;36,76194444;N;;139,4941667;E;2486;Stratovolcano;D7
+0803-142;08;03;-142;Omanago Group;Honshu-Japan;Radiocarbon;36,79222222;N;;139,5102778;E;2367;Lava domes;D7
+0803-143;08;03;-143;Takahara;Honshu-Japan;Holocene;36,89694444;N;;139,78;E;1795;Stratovolcano;D7
+0803-14=;08;03;-14-;Nikko-Shirane;Honshu-Japan;Historical;36,79555556;N;;139,3791667;E;2578;Shield volcano;D2
+0803-151;08;03;-151;Numazawa;Honshu-Japan;Radiocarbon;37,45027778;N;;139,5788889;E;1100;Shield volcano;D7
+0803-15=;08;03;-15-;Nasu;Honshu-Japan;Historical;37,12166667;N;;139,9661111;E;1915;Stratovolcanoes;D2
+0803-16=;08;03;-16-;Bandai;Honshu-Japan;Historical;37,59805556;N;;140,0755556;E;1819;Stratovolcano;D3
+0803-17=;08;03;-17-;Adatara;Honshu-Japan;Historical;37,64416667;N;;140,2861111;E;1718;Stratovolcanoes;D2
+0803-18=;08;03;-18-;Azuma;Honshu-Japan;Historical;37,73222222;N;;140,2477778;E;2035;Stratovolcanoes;D2
+0803-191;08;03;-191;Hijiori;Honshu-Japan;Holocene;38,60583333;N;;140,1783333;E;516;Caldera;U
+0803-19=;08;03;-19-;Zao;Honshu-Japan;Historical;38,14055556;N;;140,4427778;E;1841;Complex volcano;D2
+0803-20=;08;03;-20-;Narugo;Honshu-Japan;Historical;38,73305556;N;;140,7316667;E;470;Caldera;D6
+0803-21=;08;03;-21-;Kurikoma;Honshu-Japan;Historical;38,95805556;N;;140,7919444;E;1628;Stratovolcano;D2
+0803-22=;08;03;-22-;Chokai;Honshu-Japan;Historical;39,09638889;N;;140,0522222;E;2233;Stratovolcanoes;D2
+0803-23=;08;03;-23-;Akita-Komaga-take;Honshu-Japan;Historical;39,75833333;N;;140,8027778;E;1637;Stratovolcanoes;D2
+0803-24=;08;03;-24-;Iwate;Honshu-Japan;Historical;39,84972222;N;;141,0044444;E;2041;Complex volcano;D2
+0803-25=;08;03;-25-;Hachimantai;Honshu-Japan;Radiocarbon;39,955;N;;140,8575;E;1614;Stratovolcano;D7
+0803-262;08;03;-262;Megata;Honshu-Japan;Tephrochronology;39,95;N;;139,7333333;E;291;Maars;D7
+0803-26=;08;03;-26-;Akita-Yake-yama;Honshu-Japan;Historical;39,96111111;N;;140,7605556;E;1366;Stratovolcano;D2
+0803-271;08;03;-271;Towada;Honshu-Japan;Historical;40,46666667;N;;140,9166667;E;1159;Caldera;D6
+0803-27=;08;03;-27-;Iwaki;Honshu-Japan;Historical;40,65333333;N;;140,3066667;E;1625;Stratovolcano;D3
+0803-28=;08;03;-28-;Hakkoda Group;Honshu-Japan;Radiocarbon;40,65611111;N;;140,8808333;E;1585;Stratovolcanoes;D5
+0803-29=;08;03;-29-;Osore-yama;Honshu-Japan;Historical;41,27583333;N;;141,1236111;E;879;Stratovolcano;D4
+0804-011;08;04;-011;To-shima;Izu Is-Japan;Tephrochronology;34,51694444;N;;139,2825;E;508;Stratovolcano;D7
+0804-01=;08;04;-01-;Oshima;Izu Is-Japan;Historical;34,72138889;N;;139,3977778;E;764;Stratovolcano;D2
+0804-02=;08;04;-02-;Nii-jima;Izu Is-Japan;Historical;34,39333333;N;;139,2733333;E;432;Lava domes;D6
+0804-03=;08;04;-03-;Kozu-shima;Izu Is-Japan;Historical;34,21611111;N;;139,1563889;E;572;Lava domes;D6
+0804-041;08;04;-041;Mikura-jima;Izu Is-Japan;Tephrochronology;33,87111111;N;;139,605;E;851;Stratovolcano;D7
+0804-042;08;04;-042;Kurose Hole;Izu Is-Japan;Holocene?;33,4;N;;139,6833333;E;-107;Submarine volcano;?
+0804-04=;08;04;-04-;Miyake-jima;Izu Is-Japan;Historical;34,07861111;N;;139,5294444;E;815;Stratovolcano;D1
+0804-05=;08;04;-05-;Hachijo-jima;Izu Is-Japan;Historical;33,13333333;N;;139,7691667;E;854;Stratovolcanoes;D5
+0804-061;08;04;-061;Myojin Knoll;Izu Is-Japan;Holocene?;32,1;N;;139,85;E;360;Submarine volcano;?
+0804-06=;08;04;-06-;Aoga-shima;Izu Is-Japan;Historical;32,45416667;N;;139,7622222;E;423;Stratovolcano;D4
+0804-07=;08;04;-07-;Bayonnaise Rocks;Izu Is-Japan;Historical;31,88333333;N;;139,9166667;E;11;Submarine volcano;D2
+0804-08=;08;04;-08-;Smith Rock;Izu Is-Japan;Historical;31,43583333;N;;140,0536111;E;136;Submarine volcano;D2
+0804-091;08;04;-091;Sofugan;Izu Is-Japan;Uncertain;29,78944444;N;;140,3452778;E;99;Stratovolcano;?
+0804-093;08;04;-093;Suiyo Seamount;Izu Is-Japan;Fumarolic;28,6;N;;140,6333333;E;-1418;Submarine volcano;U
+0804-094;08;04;-094;Mokuyo Seamount;Izu Is-Japan;Fumarolic;28,31666667;N;;140,5666667;E;-920;Submarine volcano;U
+0804-095;08;04;-095;Doyo Seamount;Izu Is-Japan;Fumarolic;27,68333333;N;;140,8;E;-860;Submarine volcano;U
+0804-096;08;04;-096;Nishino-shima;Volcano Is-Japan;Historical;27,27416667;N;;140,8822222;E;38;Caldera;D2
+0804-097;08;04;-097;Kaikata Seamount;Volcano Is-Japan;Fumarolic;26,66666667;N;;141;E;-162;Submarine volcano;U
+0804-09=;08;04;-09-;Tori-shima;Izu Is-Japan;Historical;30,48;N;;140,3061111;E;394;Stratovolcano;D1
+0804-101;08;04;-101;Unnamed;Volcano Is-Japan;Uncertain;26,13333333;N;;144,4833333;E;-3200;Submarine volcano?;?
+0804-10=;08;04;-10-;Kaitoku Seamount;Volcano Is-Japan;Historical;26,12166667;N;;141,1016667;E;-103;Submarine volcano;D2
+0804-11=;08;04;-11-;Kita-Iwo-jima;Volcano Is-Japan;Historical;25,42361111;N;;141,2838889;E;792;Stratovolcano;D2
+0804-121;08;04;-121;Kita-Fukutokutai;Volcano Is-Japan;Historical;24,41388889;N;;141,4186111;E;-73;Submarine volcano;D2
+0804-12=;08;04;-12-;Ioto [Iwo-jima];Volcano Is-Japan;Historical;24,75361111;N;;141,2902778;E;161;Caldera;D1
+0804-131;08;04;-131;Minami-Hiyoshi;Volcano Is-Japan;Historical;23,49666667;N;;141,94;E;-30;Submarine volcano;D2
+0804-132;08;04;-132;Nikko;Volcano Is-Japan;Fumarolic;23,075;N;;142,3083333;E;-391;Submarine volcano;U
+0804-133;08;04;-133;Fukujin;Volcano Is-Japan;Historical;21,93333333;N;;143,4666667;E;-217;Submarine volcano;D2
+0804-134;08;04;-134;Kasuga;Volcano Is-Japan;Historical;21,765;N;;143,71;E;-598;Submarine volcano;D2
+0804-135;08;04;-135;Minami Kasuga;Volcano Is-Japan;Holocene;21,6;N;;143,6366667;E;-274;Submarine volcano;U
+0804-136;08;04;-136;NW Eifuku;Volcano Is-Japan;Fumarolic;21,48472222;N;;144,0430556;E;-1535;Submarine volcano;U
+0804-137;08;04;-137;Daikoku;Volcano Is-Japan;Fumarolic;21,32361111;N;;144,1944444;E;-323;Submarine volcano;U
+0804-138;08;04;-138;Unnamed;Mariana Is-C Pacific;Uncertain;21;N;;142,9;E;;Submarine volcano?;?
+0804-139;08;04;-139;Unnamed;Mariana Is-C Pacific;Uncertain;20,3;N;;143,2;E;;Submarine volcano?;?
+0804-13=;08;04;-13-;Fukutoku-Okanoba;Volcano Is-Japan;Historical;24,28333333;N;;141,485;E;-14;Submarine volcano;D1
+0804-141;08;04;-141;Ahyi;Mariana Is-C Pacific;Seismicity;20,41666667;N;;145,0333333;E;-137;Submarine volcano;D1
+0804-142;08;04;-142;Supply Reef;Mariana Is-C Pacific;Hydrophonic;20,13333333;N;;145,1;E;-8;Submarine volcano;D2
+0804-143;08;04;-143;Maug Islands;Mariana Is-C Pacific;Fumarolic;20,01666667;N;;145,2166667;E;227;Stratovolcano;U
+0804-14=;08;04;-14-;Farallon de Pajaros;Mariana Is-C Pacific;Historical;20,53805556;N;;144,8958333;E;360;Stratovolcano;D2
+0804-15=;08;04;-15-;Asuncion;Mariana Is-C Pacific;Historical;19,67083333;N;;145,4055556;E;857;Stratovolcano;D2
+0804-16=;08;04;-16-;Agrigan;Mariana Is-C Pacific;Historical;18,76666667;N;;145,6666667;E;965;Stratovolcano;D2
+0804-17=;08;04;-17-;Pagan;Mariana Is-C Pacific;Historical;18,13333333;N;;145,8;E;570;Stratovolcanoes;D1
+0804-18=;08;04;-18-;Alamagan;Mariana Is-C Pacific;Radiocarbon;17,6;N;;145,8333333;E;744;Stratovolcano;D6
+0804-191;08;04;-191;Zealandia Bank;Mariana Is-C Pacific;Fumarolic;16,88333333;N;;145,85;E;0;Stratovolcano;U
+0804-192;08;04;-192;Sarigan;Mariana Is-C Pacific;Holocene;16,70833333;N;;145,7833333;E;538;Stratovolcano;U
+0804-19=;08;04;-19-;Guguan;Mariana Is-C Pacific;Historical;17,30722222;N;;145,8447222;E;287;Stratovolcano;D3
+0804-201;08;04;-201;East Diamante;Mariana Is-C Pacific;Fumarolic;15,93333333;N;;145,6666667;E;-127;Submarine volcano;U
+0804-202;08;04;-202;Ruby;Mariana Is-C Pacific;Historical;15,61666667;N;;145,5666667;E;-230;Submarine volcano;D2
+0804-20=;08;04;-20-;Anatahan;Mariana Is-C Pacific;Historical;16,35;N;;145,6666667;E;790;Stratovolcano;D1
+0804-211;08;04;-211;NW Rota-1;Mariana Is-C Pacific;Historical;14,60111111;N;;144,7752778;E;-517;Submarine volcano;D1
+0804-21=;08;04;-21-;Esmeralda Bank;Mariana Is-C Pacific;Fumarolic;15;N;;145,25;E;-43;Submarine volcano;U
+0804-22-;08;04;-22-;Forecast Seamount;Mariana Is-C Pacific;Fumarolic;13,4;N;;143,9166667;E;;Submarine volcano;U
+0804-23-;08;04;-23-;Seamount X;Mariana Is-C Pacific;Fumarolic;13,25;N;;144,0166667;E;-1230;Submarine volcano;U
+0805-011;08;05;-011;E-san;Hokkaido-Japan;Historical;41,80222222;N;;141,1697222;E;618;Stratovolcano;D3
+0805-01=;08;05;-01-;Oshima-Oshima;Hokkaido-Japan;Historical;41,50694444;N;;139,3711111;E;737;Stratovolcano;D4
+0805-02=;08;05;-02-;Komaga-take;Hokkaido-Japan;Historical;42,06083333;N;;140,6808333;E;1131;Stratovolcano;D1
+0805-031;08;05;-031;Niseko;Hokkaido-Japan;Tephrochronology;42,88333333;N;;140,6333333;E;1154;Stratovolcanoes;D7
+0805-032;08;05;-032;Yotei;Hokkaido-Japan;Tephrochronology;42,82972222;N;;140,815;E;1898;Stratovolcano;D7
+0805-034;08;05;-034;Kuttara;Hokkaido-Japan;Tephrochronology;42,48888889;N;;141,1633333;E;581;Stratovolcanoes;D3
+0805-03=;08;05;-03-;Usu;Hokkaido-Japan;Historical;42,54138889;N;;140,8427778;E;737;Stratovolcano;D1
+0805-041;08;05;-041;Rishiri;Hokkaido-Japan;Radiocarbon;45,18333333;N;;141,25;E;1721;Stratovolcano;D7
+0805-04=;08;05;-04-;Shikotsu;Hokkaido-Japan;Historical;42,68805556;N;;141,3802778;E;1320;Caldera;D2
+0805-05=;08;05;-05-;Tokachi;Hokkaido-Japan;Historical;43,41555556;N;;142,6902778;E;2077;Stratovolcanoes;D1
+0805-061;08;05;-061;Nipesotsu-Maruyama;Hokkaido-Japan;Historical;43,45333333;N;;143,0361111;E;2013;Stratovolcanoes;D3
+0805-062;08;05;-062;Shikaribetsu Group;Hokkaido-Japan;Holocene?;43,31222222;N;;143,0955556;E;1401;Lava domes;?
+0805-06=;08;05;-06-;Daisetsu;Hokkaido-Japan;Tephrochronology;43,66111111;N;;142,8580556;E;2290;Stratovolcanoes;D4
+0805-07=;08;05;-07-;Akan;Hokkaido-Japan;Historical;43,38416667;N;;144,0127778;E;1499;Caldera;D1
+0805-081;08;05;-081;Mashu;Hokkaido-Japan;Radiocarbon;43,56972222;N;;144,5652778;E;855;Caldera;D6
+0805-082;08;05;-082;Rausu;Hokkaido-Japan;Radiocarbon;44,07333333;N;;145,1263889;E;1660;Stratovolcano;D3
+0805-08=;08;05;-08-;Kutcharo;Hokkaido-Japan;Tephrochronology;43,60777778;N;;144,4425;E;999;Caldera;D6
+0805-09=;08;05;-09-;Shiretoko-Iwo-zan;Hokkaido-Japan;Historical;44,13083333;N;;145,1652778;E;1563;Stratovolcano;D2
+0900-01=;09;00;-01-;Golovnin;Kuril Is;Historical;43,84111111;N;;145,5086111;E;543;Caldera;D3
+0900-021;09;00;-021;Smirnov;Kuril Is;Holocene;44,41972222;N;;146,1347222;E;1189;Stratovolcano;U
+0900-02=;09;00;-02-;Mendeleev;Kuril Is;Historical;43,97638889;N;;145,7361111;E;888;Stratovolcano;D3
+0900-03=;09;00;-03-;Tiatia;Kuril Is;Historical;44,35083333;N;;146,2563889;E;1819;Stratovolcano;D2
+0900-041;09;00;-041;Lvinaya Past;Kuril Is;Radiocarbon;44,60833333;N;;146,9938889;E;528;Stratovolcano;D7
+0900-04=;09;00;-04-;Berutarube;Kuril Is;Holocene;44,45916667;N;;146,9363889;E;1221;Stratovolcano;U
+0900-05=;09;00;-05-;Atsonupuri;Kuril Is;Historical;44,805;N;;147,135;E;1206;Stratovolcano;D2
+0900-06-;09;00;-06-;Bogatyr Ridge;Kuril Is;Holocene;44,83305556;N;;147,3419444;E;1634;Stratovolcano;U
+0900-061;09;00;-061;Unnamed;Kuril Is;Uncertain;45,03333333;N;;147,2083333;E;-930;Submarine volcano;?
+0900-07=;09;00;-07-;Grozny Group;Kuril Is;Historical;45,02611111;N;;147,9219444;E;1211;Complex volcanoes;D2
+0900-08=;09;00;-08-;Baransky;Kuril Is;Historical;45,09722222;N;;148,0241667;E;1132;Stratovolcano;D2
+0900-091;09;00;-091;Golets-Tornyi Group;Kuril Is;Holocene?;45,25;N;;148,35;E;442;Pyroclastic cones;?
+0900-09=;09;00;-09-;Chirip;Kuril Is;Historical;45,33805556;N;;147,925;E;1587;Stratovolcanoes;D3
+0900-10=;09;00;-10-;Medvezhia;Kuril Is;Historical;45,38666667;N;;148,8425;E;1125;Somma volcano;D2
+0900-11-;09;00;-11-;Demon;Kuril Is;Holocene;45,5;N;;148,85;E;1205;Stratovolcano;U
+0900-111;09;00;-111;Ivao Group;Kuril Is;Holocene;45,76666667;N;;149,6833333;E;1426;Cinder cones;U
+0900-112;09;00;-112;Rudakov;Kuril Is;Holocene?;45,88333333;N;;149,8333333;E;542;Stratovolcano;?
+0900-113;09;00;-113;Tri Sestry;Kuril Is;Holocene?;45,93333333;N;;149,9166667;E;998;Stratovolcano;?
+0900-12=;09;00;-12-;Kolokol Group;Kuril Is;Historical;46,04166667;N;;150,05;E;1328;Somma volcanoes;D2
+0900-13-;09;00;-13-;Unnamed;Kuril Is;Uncertain;46,1;N;;150,5;E;-100;Submarine volcano?;?
+0900-15=;09;00;-15-;Chirpoi;Kuril Is;Historical;46,525;N;;150,875;E;742;Caldera;D2
+0900-16-;09;00;-16-;Unnamed;Kuril Is;Hydrophonic;46,46666667;N;;151,2833333;E;-502;Submarine volcano;D2
+0900-161;09;00;-161;Milne;Kuril Is;Holocene;46,81666667;N;;151,7833333;E;1540;Somma volcano;U
+0900-17=;09;00;-17-;Goriaschaia Sopka;Kuril Is;Historical;46,83333333;N;;151,75;E;891;Stratovolcano;D2
+0900-18=;09;00;-18-;Zavaritzki Caldera;Kuril Is;Historical;46,925;N;;151,95;E;624;Caldera;D2
+0900-191;09;00;-191;Urataman;Kuril Is;Holocene;47,11666667;N;;152,25;E;678;Somma volcano;U
+0900-19=;09;00;-19-;Prevo Peak;Kuril Is;Historical;47,01666667;N;;152,1166667;E;1360;Stratovolcano;D3
+0900-20=;09;00;-20-;Ketoi;Kuril Is;Historical;47,35;N;;152,475;E;1172;Stratovolcano;D2
+0900-211;09;00;-211;Srednii;Kuril Is;Holocene;47,6;N;;152,9166667;E;36;Submarine volcano;U
+0900-21=;09;00;-21-;Ushishur;Kuril Is;Historical;47,51666667;N;;152,8;E;401;Caldera;D3
+0900-22=;09;00;-22-;Rasshua;Kuril Is;Historical;47,76666667;N;;153,0166667;E;956;Stratovolcano;D2
+0900-23=;09;00;-23-;Unnamed;Kuril Is;Historical;48,08333333;N;;153,3333333;E;-150;Submarine volcano;D2
+0900-24=;09;00;-24-;Sarychev Peak;Kuril Is;Historical;48,09166667;N;;153,2;E;1496;Stratovolcano;D1
+0900-25=;09;00;-25-;Raikoke;Kuril Is;Historical;48,29166667;N;;153,25;E;551;Stratovolcano;D2
+0900-26=;09;00;-26-;Chirinkotan;Kuril Is;Historical;48,98333333;N;;153,4833333;E;724;Stratovolcano;D1
+0900-27=;09;00;-27-;Ekarma;Kuril Is;Historical;48,95833333;N;;153,9333333;E;1170;Stratovolcano;D2
+0900-29=;09;00;-29-;Sinarka;Kuril Is;Historical;48,875;N;;154,175;E;934;Stratovolcano;D3
+0900-30=;09;00;-30-;Kharimkotan;Kuril Is;Historical;49,11666667;N;;154,5083333;E;1145;Stratovolcano;D2
+0900-31=;09;00;-31-;Tao-Rusyr Caldera;Kuril Is;Historical;49,35;N;;154,7;E;1325;Stratovolcano;D2
+0900-32=;09;00;-32-;Nemo Peak;Kuril Is;Historical;49,56666667;N;;154,8083333;E;1018;Caldera;D2
+0900-331;09;00;-331;Shirinki;Kuril Is;Holocene;50,2;N;;154,9833333;E;761;Stratovolcano;U
+0900-34=;09;00;-34-;Fuss Peak;Kuril Is;Historical;50,26666667;N;;155,25;E;1772;Stratovolcano;D3
+0900-351;09;00;-351;Lomonosov Group;Kuril Is;Holocene;50,25;N;;155,4333333;E;1681;Cinder cones;U
+0900-35=;09;00;-35-;Karpinsky Group;Kuril Is;Historical;50,13333333;N;;155,3666667;E;1345;Cones;D2
+0900-36=;09;00;-36-;Chikurachki;Kuril Is;Historical;50,325;N;;155,4583333;E;1816;Stratovolcanoes;D1
+0900-37-;09;00;-37-;Vernadskii Ridge;Kuril Is;Holocene;50,55;N;;155,9666667;E;1183;Cinder cones;U
+0900-38=;09;00;-38-;Ebeko;Kuril Is;Historical;50,68333333;N;;156,0166667;E;1156;Somma volcano;D1
+0900-39=;09;00;-39-;Alaid;Kuril Is;Historical;50,85833333;N;;155,55;E;2339;Stratovolcano;D2
+1000-001;10;00;-001;Mashkovtsev;Kamchatka;Holocene;51,1;N;;156,7166667;E;503;Stratovolcano;U
+1000-01=;10;00;-01-;Kambalny;Kamchatka;Historical;51,3;N;;156,8666667;E;2156;Stratovolcano;D6
+1000-021;10;00;-021;Yavinsky;Kamchatka;Tephrochronology;51,56666667;N;;156,6;E;705;Stratovolcano;D7
+1000-022;10;00;-022;Diky Greben;Kamchatka;Radiocarbon;51,45;N;;156,9666667;E;1070;Lava domes;D6
+1000-023;10;00;-023;Kurile Lake;Kamchatka;Radiocarbon;51,45;N;;157,1166667;E;81;Caldera;D7
+1000-02=;10;00;-02-;Koshelev;Kamchatka;Historical;51,35666667;N;;156,75;E;1812;Stratovolcano;D5
+1000-03=;10;00;-03-;Ilyinsky;Kamchatka;Historical;51,49;N;;157,2;E;1578;Stratovolcano;D2
+1000-041;10;00;-041;Kell;Kamchatka;Holocene;51,65;N;;157,35;E;900;Stratovolcanoes;U
+1000-042;10;00;-042;Belenkaya;Kamchatka;Holocene;51,75;N;;157,2666667;E;892;Stratovolcano;U
+1000-04=;10;00;-04-;Zheltovsky;Kamchatka;Historical;51,56666667;N;;157,3233333;E;1953;Stratovolcano;D2
+1000-051;10;00;-051;Ozernoy;Kamchatka;Holocene;51,88333333;N;;157,3833333;E;562;Shield volcano;U
+1000-052;10;00;-052;Olkoviy Volc Group;Kamchatka;Holocene;52,01666667;N;*;157,5333333;E;681;Volcanic field;U
+1000-053;10;00;-053;Khodutka;Kamchatka;Radiocarbon;52,0625;N;;157,7033333;E;2090;Stratovolcanoes;D7
+1000-054;10;00;-054;Piratkovsky;Kamchatka;Holocene;52,1125;N;;157,8486111;E;1322;Stratovolcano;U
+1000-055;10;00;-055;Ostanets;Kamchatka;Holocene;52,14583333;N;;157,3216667;E;719;Shield volcanoes;U
+1000-056;10;00;-056;Otdelniy;Kamchatka;Holocene;52,22;N;*;157,4283333;E;791;Shield volcanoes;U
+1000-057;10;00;-057;Golaya;Kamchatka;Holocene;52,2625;N;;157,7866667;E;858;Stratovolcano;U
+1000-058;10;00;-058;Asacha;Kamchatka;Holocene;52,355;N;;157,8266667;E;1910;Complex volcano;U
+1000-059;10;00;-059;Visokiy;Kamchatka;Holocene;52,43333333;N;;157,9333333;E;1234;Stratovolcano;U
+1000-05=;10;00;-05-;Ksudach;Kamchatka;Historical;51,8;N;;157,5333333;E;1079;Stratovolcano;D2
+1000-06=;10;00;-06-;Mutnovsky;Kamchatka;Historical;52,45333333;N;;158,195;E;2322;Complex volcano;D1
+1000-07=;10;00;-07-;Gorely;Kamchatka;Historical;52,55833333;N;;158,0333333;E;1829;Caldera;D2
+1000-081;10;00;-081;Unnamed;Kamchatka;Holocene;52,56666667;N;*;157,0166667;E;610;Cinder cone;U
+1000-082;10;00;-082;Tolmachev Dol;Kamchatka;Radiocarbon;52,63333333;N;*;157,5833333;E;1021;Cinder cones;D6
+1000-083;10;00;-083;Vilyuchik;Kamchatka;Tephrochronology;52,7;N;;158,2833333;E;2173;Stratovolcano;D7
+1000-084;10;00;-084;Barkhatnaya Sopka;Kamchatka;Tephrochronology;52,82333333;N;;158,2666667;E;870;Lava domes;D7
+1000-085;10;00;-085;Unnamed;Kamchatka;Holocene;52,91666667;N;;158,5166667;E;450;Shield volcanoes;U
+1000-086;10;00;-086;Unnamed;Kamchatka;Holocene;52,88333333;N;;158,3;E;700;Shield volcanoes;U
+1000-087;10;00;-087;Bolshe-Bannaya;Kamchatka;Holocene;52,9;N;;157,7833333;E;1200;Lava domes;U
+1000-08=;10;00;-08-;Opala;Kamchatka;Historical;52,54333333;N;;157,335;E;2475;Caldera;D4
+1000-09=;10;00;-09-;Koryaksky;Kamchatka;Historical;53,32;N;;158,6883333;E;3456;Stratovolcano;D1
+1000-10=;10;00;-10-;Avachinsky;Kamchatka;Historical;53,255;N;;158,83;E;2741;Stratovolcano;D1
+1000-11=;10;00;-11-;Dzenzursky;Kamchatka;Holocene;53,63666667;N;;158,9216667;E;2285;Compound volcano;U
+1000-121;10;00;-121;Veer;Kamchatka;Tephrochronology;53,75;N;;158,45;E;520;Cinder cones;D6
+1000-122;10;00;-122;Kostakan;Kamchatka;Holocene;53,83333333;N;*;158,05;E;1150;Cinder cones;D6
+1000-123;10;00;-123;Bakening;Kamchatka;Tephrochronology;53,905;N;;158,0666667;E;2278;Stratovolcano;D7
+1000-124;10;00;-124;Zavaritsky;Kamchatka;Radiocarbon;53,905;N;;158,385;E;1567;Cinder cones;D7
+1000-125;10;00;-125;Akademia Nauk;Kamchatka;Historical;53,98333333;N;;159,45;E;1180;Stratovolcanoes;D2
+1000-12=;10;00;-12-;Zhupanovsky;Kamchatka;Historical;53,59;N;;159,1466667;E;2958;Compound volcano;D2
+1000-13=;10;00;-13-;Karymsky;Kamchatka;Historical;54,05;N;;159,45;E;1536;Stratovolcano;D1
+1000-14=;10;00;-14-;Maly Semiachik;Kamchatka;Historical;54,13333333;N;;159,6666667;E;1560;Caldera;D2
+1000-15=;10;00;-15-;Bolshoi Semiachik;Kamchatka;Radiocarbon;54,31666667;N;;160,0166667;E;1720;Stratovolcanoes;D7
+1000-16-;10;00;-16-;Taunshits;Kamchatka;Radiocarbon;54,53333333;N;;159,8;E;2353;Stratovolcano;D7
+1000-17=;10;00;-17-;Uzon;Kamchatka;Radiocarbon;54,5;N;;159,9666667;E;1617;Calderas;D6
+1000-18=;10;00;-18-;Kikhpinych;Kamchatka;Radiocarbon;54,48666667;N;;160,2533333;E;1552;Stratovolcanoes;D5
+1000-19=;10;00;-19-;Krasheninnikov;Kamchatka;Radiocarbon;54,59333333;N;;160,2733333;E;1856;Caldera;D5
+1000-201;10;00;-201;Schmidt;Kamchatka;Holocene;54,91666667;N;;160,6333333;E;2020;Shield volcano;U
+1000-20=;10;00;-20-;Kronotsky;Kamchatka;Historical;54,75333333;N;;160,5266667;E;3528;Stratovolcano;D2
+1000-21=;10;00;-21-;Gamchen;Kamchatka;Tephrochronology;54,97333333;N;;160,7016667;E;2576;Complex volcano;D7
+1000-221;10;00;-221;Vysoky;Kamchatka;Radiocarbon;55,06666667;N;;160,7666667;E;2161;Stratovolcano;D7
+1000-22=;10;00;-22-;Komarov;Kamchatka;Radiocarbon;55,03166667;N;;160,72;E;2070;Stratovolcano;D6
+1000-232;10;00;-232;Unnamed;Kamchatka;Holocene?;55,91666667;N;*;161,75;E;;Cinder cones;?
+1000-23=;10;00;-23-;Kizimen;Kamchatka;Historical;55,13;N;;160,3166667;E;2376;Stratovolcano;D2
+1000-241;10;00;-241;Udina;Kamchatka;Holocene;55,755;N;;160,5266667;E;2923;Stratovolcanoes;U
+1000-242;10;00;-242;Zimina;Kamchatka;Holocene;55,86166667;N;;160,6033333;E;3081;Stratovolcanoes;U
+1000-24=;10;00;-24-;Tolbachik;Kamchatka;Historical;55,83;N;;160,33;E;3682;Shield volcano;D2
+1000-251;10;00;-251;Kamen;Kamchatka;Holocene;56,01666667;N;;160,5933333;E;4585;Stratovolcano;U
+1000-25=;10;00;-25-;Bezymianny;Kamchatka;Historical;55,97833333;N;;160,5866667;E;2882;Stratovolcano;D1
+1000-261;10;00;-261;Ushkovsky;Kamchatka;Historical;56,07027778;N;;160,47;E;3943;Compound volcano;D3
+1000-26=;10;00;-26-;Kliuchevskoi;Kamchatka;Historical;56,05666667;N;;160,6383333;E;4835;Stratovolcano;D1
+1000-271;10;00;-271;Piip;Kamchatka-E of;Tephrochronology;55,41666667;N;;167,3333333;E;-300;Submarine volcano;D7
+1000-272;10;00;-272;Khangar;Kamchatka;Radiocarbon;54,75;N;;157,3833333;E;2000;Stratovolcano;D5
+1000-273;10;00;-273;Cherpuk Group;Kamchatka;Radiocarbon;55,55;N;;157,4666667;E;1868;Pyroclastic cones;D7
+1000-27=;10;00;-27-;Shiveluch;Kamchatka;Historical;56,65333333;N;;161,36;E;3283;Stratovolcano;D1
+1000-28=;10;00;-28-;Ichinsky;Kamchatka;Historical;55,68333333;N;;157,7333333;E;3621;Stratovolcano;D4
+1000-29-;10;00;-29-;Maly Payalpan;Kamchatka;Holocene?;55,81666667;N;;157,9833333;E;1802;Shield volcanoes;?
+1000-30-;10;00;-30-;Bolshoi Payalpan;Kamchatka;Holocene?;55,88333333;N;;157,7833333;E;1906;Shield volcanoes;?
+1000-31-;10;00;-31-;Plosky;Kamchatka;Holocene?;55,2;N;;158,4666667;E;1236;Shield volcano;?
+1000-32-;10;00;-32-;Akhtang;Kamchatka;Holocene?;55,43333333;N;;158,65;E;1956;Shield volcano;?
+1000-33-;10;00;-33-;Kozyrevsky;Kamchatka;Holocene?;55,58333333;N;;158,3833333;E;2016;Shield volcano;?
+1000-34-;10;00;-34-;Romanovka;Kamchatka;Holocene?;55,65;N;;158,8;E;1442;Stratovolcano;?
+1000-35-;10;00;-35-;Uksichan;Kamchatka;Holocene?;56,08333333;N;;158,3833333;E;1692;Shield volcano;?
+1000-36-;10;00;-36-;Bolshoi-Kekuknaysky;Kamchatka;Radiocarbon;56,46666667;N;;157,8;E;1401;Shield volcanoes;D7
+1000-37-;10;00;-37-;Kulkev;Kamchatka;Holocene?;56,36666667;N;;158,3666667;E;915;Shield volcano;?
+1000-38-;10;00;-38-;Geodesistoy;Kamchatka;Holocene?;56,33333333;N;;158,6666667;E;1170;Shield volcano;?
+1000-39-;10;00;-39-;Anaun;Kamchatka;Holocene?;56,31666667;N;;158,8333333;E;1828;Stratovolcano;?
+1000-40-;10;00;-40-;Krainy;Kamchatka;Holocene?;56,36666667;N;;159,0333333;E;1554;Shield volcano;?
+1000-41-;10;00;-41-;Kekurny;Kamchatka;Holocene?;56,4;N;;158,85;E;1377;Shield volcanoes;?
+1000-42-;10;00;-42-;Eggella;Kamchatka;Holocene?;56,56666667;N;;158,5166667;E;1046;Shield volcano;?
+1000-43-;10;00;-43-;Unnamed;Kamchatka;Holocene?;56,81666667;N;;158,95;E;1185;Shield volcano;?
+1000-44-;10;00;-44-;Verkhovoy;Kamchatka;Holocene?;56,51666667;N;;159,5333333;E;1400;Shield volcano;?
+1000-45-;10;00;-45-;Alney-Chashakondzha;Kamchatka;Radiocarbon;56,7;N;;159,65;E;2598;Stratovolcano;D5
+1000-46-;10;00;-46-;Cherny;Kamchatka;Holocene?;56,81666667;N;;159,6666667;E;1778;Stratovolcano;?
+1000-47-;10;00;-47-;Pogranychny;Kamchatka;Holocene?;56,85;N;;159,8;E;1427;Shield volcanoes;?
+1000-48-;10;00;-48-;Zaozerny;Kamchatka;Holocene?;56,88333333;N;;159,95;E;1349;Shield volcanoes;?
+1000-49-;10;00;-49-;Bliznets;Kamchatka;Holocene?;56,96666667;N;;159,7833333;E;1244;Stratovolcano;?
+1000-50-;10;00;-50-;Kebeney;Kamchatka;Holocene?;57,1;N;;159,9333333;E;1527;Shield volcano;?
+1000-51-;10;00;-51-;Fedotych;Kamchatka;Holocene?;57,13333333;N;;160,4;E;965;Shield volcano;?
+1000-511;10;00;-511;Shisheika;Kamchatka;Radiocarbon;57,15;N;;161,0833333;E;379;Lava dome;D7
+1000-512;10;00;-512;Terpuk;Kamchatka;Radiocarbon;57,2;N;;159,8333333;E;765;Shield volcano;D7
+1000-52-;10;00;-52-;Sedankinsky;Kamchatka;Radiocarbon;57,26666667;N;;160,0833333;E;1241;Shield volcano;D7
+1000-53-;10;00;-53-;Leutongey;Kamchatka;Holocene?;57,3;N;;159,8333333;E;1333;Shield volcano;?
+1000-54-;10;00;-54-;Tuzovsky;Kamchatka;Holocene?;57,31666667;N;;159,9666667;E;1533;Shield volcanoes;?
+1000-55-;10;00;-55-;Gorny Institute;Kamchatka;Radiocarbon;57,33333333;N;;160,2;E;2125;Stratovolcano;D6
+1000-551;10;00;-551;Kinenin;Kamchatka;Radiocarbon;57,35;N;;160,9666667;E;583;Maar;D6
+1000-552;10;00;-552;Bliznetsy;Kamchatka;Radiocarbon;57,35;N;;161,3666667;E;265;Lava cone;D7
+1000-56-;10;00;-56-;Titila;Kamchatka;Radiocarbon;57,4;N;;160,1;E;1559;Shield volcanoes;D7
+1000-57-;10;00;-57-;Mezhdusopochny;Kamchatka;Holocene?;57,46666667;N;;160,25;E;1641;Shield volcano;?
+1000-58-;10;00;-58-;Shishel;Kamchatka;Holocene?;57,45;N;;160,3666667;E;2525;Shield volcano;?
+1000-59-;10;00;-59-;Elovsky;Kamchatka;Tephrochronology;57,55;N;;160,5333333;E;1381;Shield volcanoes;D7
+1000-60-;10;00;-60-;Alngey;Kamchatka;Holocene?;57,7;N;;160,4;E;1853;Stratovolcano;?
+1000-61-;10;00;-61-;Uka;Kamchatka;Holocene?;57,7;N;;160,5833333;E;1643;Shield volcano;?
+1000-62-;10;00;-62-;Kaileney;Kamchatka;Holocene?;57,8;N;;160,6666667;E;1582;Shield volcano;?
+1000-63-;10;00;-63-;Plosky;Kamchatka;Holocene?;57,83333333;N;;160,25;E;1255;Shield volcano;?
+1000-64-;10;00;-64-;Bely;Kamchatka;Holocene?;57,88333333;N;;160,5333333;E;2080;Shield volcanoes;?
+1000-65-;10;00;-65-;Nylgimelkin;Kamchatka;Radiocarbon;57,96666667;N;;160,65;E;1764;Shield volcanoes;D7
+1000-66-;10;00;-66-;Snezhniy;Kamchatka;Holocene?;58,01666667;N;;160,8;E;2169;Shield volcano;?
+1000-67-;10;00;-67-;Iktunup;Kamchatka;Holocene?;58,08333333;N;;160,7666667;E;2300;Shield volcanoes;?
+1000-671;10;00;-671;Spokoiny;Kamchatka;Radiocarbon;58,13333333;N;;160,8166667;E;2171;Stratovolcano;D7
+1000-68-;10;00;-68-;Ostry;Kamchatka;Holocene;58,18333333;N;;160,8166667;E;2552;Stratovolcano;D7
+1000-69-;10;00;-69-;Snegovoy;Kamchatka;Holocene?;58,2;N;;160,9666667;E;2169;Shield volcano;?
+1000-70-;10;00;-70-;Severny;Kamchatka;Radiocarbon;58,28333333;N;;160,8666667;E;1936;Shield volcano;D7
+1000-71-;10;00;-71-;Iettunup;Kamchatka;Holocene?;58,4;N;;161,0833333;E;1340;Shield volcanoes;?
+1000-72-;10;00;-72-;Voyampolsky;Kamchatka;Holocene?;58,36666667;N;;160,6166667;E;1225;Shield volcanoes;?
+1002-01-;10;02;-01-;Sikhote-Alin;Russia-SE;Holocene;47;N;*;137,5;E;;Volcanic field;U
+1002-03-;10;02;-03-;Udokan Plateau;Russia-SE;Radiocarbon;56,28333333;N;*;117,7666667;E;2180;Pyroclastic cones;D7
+1002-04-;10;02;-04-;Vitim Plateau;Russia-SE;Holocene;53,7;N;*;113,3;E;1250;Cinder cones;U
+1002-05-;10;02;-05-;Tunkin Depression;Russia-SE;Holocene?;51,5;N;*;102,5;E;1200;Volcanic field;?
+1002-06-;10;02;-06-;Oka Plateau;Russia-SE;Holocene;52,7;N;*;98,98333333;E;2077;Cinder cones;U
+1002-07-;10;02;-07-;Azas Plateau;Russia-SE;Holocene;52,51666667;N;*;98,6;E;2765;Volcanic field;U
+1003-01-;10;03;-01-;Taryatu-Chulutu;Mongolia;Radiocarbon;48,16666667;N;*;99,7;E;2400;Volcanic field;D7
+1003-02-;10;03;-02-;Khanuy Gol;Mongolia;Holocene;48,66666667;N;*;102,75;E;1886;Volcanic field;U
+1003-03-;10;03;-03-;Bus-Obo;Mongolia;Holocene?;47,11666667;N;;109,0833333;E;1162;Cinder cone;?
+1003-04-;10;03;-04-;Dariganga Volc Field;Mongolia;Holocene;45,33333333;N;*;114;E;1778;Cinder cones;U
+1003-05-;10;03;-05-;Middle Gobi;Mongolia;Holocene?;45,28333333;N;*;106,7;E;1120;Cinder cones;?
+1004-01-;10;04;-01-;Turfan;China-W;Historical;42,9;N;;89,25;E;;Cone;D6
+1004-02-;10;04;-02-;Tianshan Volc Group;China-W;Historical;42,5;N;*;82,5;E;;Volcanic field;D6
+1004-03-;10;04;-03-;Kunlun Volc Group;China-W;Historical;35,51666667;N;*;80,2;E;5808;Pyroclastic cones;D2
+1004-04-;10;04;-04-;Unnamed;China-W;Uncertain;35,85;N;*;91,7;E;5400;Volcanic field;?
+1005-01-;10;05;-01-;Honggeertu;China-E;Holocene?;41,46666667;N;*;113;E;1700;Cinder cones;?
+1005-011;10;05;-011;Arshan;China-E;Radiocarbon;47,5;N;*;120,7;E;;Cinder cones;D
+1005-02-;10;05;-02-;Keluo Group;China-E;Holocene;49,36666667;N;*;125,9166667;E;670;Pyroclastic cones;U
+1005-03-;10;05;-03-;Wudalianchi;China-E;Historical;48,71666667;N;*;126,1166667;E;597;Volcanic field;D4
+1005-04-;10;05;-04-;Jingbo;China-E;Radiocarbon;44,08333333;N;*;128,8333333;E;1000;Volcanic field;D7
+1005-05-;10;05;-05-;Longgang Group;China-E;Radiocarbon;42,33333333;N;*;126,5;E;1000;Cinder cones;D6
+1005-06-;10;05;-06-;Changbaishan;China-E;Historical;41,98333333;N;;128,0833333;E;2744;Stratovolcano;D2
+1006-01-;10;06;-01-;Xianjindao;Korea;Uncertain;41,33333333;N;;128;E;;Unknown;?
+1006-02-;10;06;-02-;Ch'uga-ryong;Korea;Holocene?;38,33333333;N;;127,3333333;E;452;Shield volcano;?
+1006-03-;10;06;-03-;Ulreung;Korea;Radiocarbon;37,5;N;;130,8666667;E;984;Stratovolcano;D7
+1006-04-;10;06;-04-;Halla;Korea;Historical;33,36666667;N;;126,5333333;E;1950;Shield volcano;D6
+1101-01-;11;01;-01-;Buldir;Aleutian Is;Holocene?;52,35;N;;175,9105556;E;656;Stratovolcano;?
+1101-02-;11;01;-02-;Kiska;Aleutian Is;Historical;52,10277778;N;;177,6019444;E;1220;Stratovolcano;D2
+1101-03-;11;01;-03-;Segula;Aleutian Is;Holocene;52,01527778;N;;178,1355556;E;1160;Stratovolcano;U
+1101-04-;11;01;-04-;Davidof;Aleutian Is;Holocene?;51,96666667;N;;178,3333333;E;328;Stratovolcano;?
+1101-05-;11;01;-05-;Little Sitkin;Aleutian Is;Historical;51,95;N;;178,5430556;E;1174;Stratovolcano;D3
+1101-06-;11;01;-06-;Semisopochnoi;Aleutian Is;Historical;51,93333333;N;;179,5833333;E;1221;Stratovolcano;D2
+1101-07-;11;01;-07-;Gareloi;Aleutian Is;Historical;51,79027778;N;;-178,7938889;W;1573;Stratovolcano;D2
+1101-08-;11;01;-08-;Tanaga;Aleutian Is;Historical;51,885;N;;-178,1458333;W;1806;Stratovolcanoes;D2
+1101-09-;11;01;-09-;Takawangha;Aleutian Is;Radiocarbon;51,87277778;N;;-178,0055556;W;1449;Stratovolcano;D5
+1101-10-;11;01;-10-;Bobrof;Aleutian Is;Holocene?;51,91;N;;-177,4383333;W;738;Stratovolcano;?
+1101-11-;11;01;-11-;Kanaga;Aleutian Is;Historical;51,92277778;N;;-177,1677778;W;1307;Stratovolcano;D2
+1101-111;11;01;-111;Moffett;Aleutian Is;Radiocarbon;51,94388889;N;;-176,7466667;W;1196;Stratovolcano;D7
+1101-12-;11;01;-12-;Great Sitkin;Aleutian Is;Historical;52,07611111;N;;-176,13;W;1740;Stratovolcano;D2
+1101-13-;11;01;-13-;Kasatochi;Aleutian Is;Historical;52,1775;N;;-175,5083333;W;314;Stratovolcano;D1
+1101-14-;11;01;-14-;Koniuji;Aleutian Is;Ar/Ar;52,21666667;N;;-175,1333333;W;273;Stratovolcano;D7
+1101-15-;11;01;-15-;Sergief;Aleutian Is;Uncertain;52,05;N;;-174,95;W;560;Stratovolcano;?
+1101-16-;11;01;-16-;Atka;Aleutian Is;Historical;52,33166667;N;;-174,1366667;W;1451;Stratovolcanoes;D2
+1101-161;11;01;-161;Korovin;Aleutian Is;Historical;52,38111111;N;;-174,1541667;W;1533;Stratovolcanoes;D1
+1101-18-;11;01;-18-;Seguam;Aleutian Is;Historical;52,31527778;N;;-172,5097222;W;1054;Stratovolcanoes;D2
+1101-19-;11;01;-19-;Amukta;Aleutian Is;Historical;52,5;N;;-171,2522222;W;1066;Stratovolcano;D2
+1101-20-;11;01;-20-;Chagulak;Aleutian Is;Holocene;52,57666667;N;;-171,1333333;W;1142;Stratovolcano;U
+1101-21-;11;01;-21-;Yunaska;Aleutian Is;Historical;52,64277778;N;;-170,6286111;W;550;Shield volcano;D2
+1101-22-;11;01;-22-;Herbert;Aleutian Is;Holocene;52,74222222;N;;-170,1105556;W;1280;Stratovolcano;U
+1101-23-;11;01;-23-;Carlisle;Aleutian Is;Historical;52,89388889;N;;-170,0541667;W;1620;Stratovolcano;D3
+1101-24-;11;01;-24-;Cleveland;Aleutian Is;Historical;52,825;N;;-169,9438889;W;1730;Stratovolcano;D1
+1101-241;11;01;-241;Tana;Aleutian Is;Holocene;52,83333333;N;;-169,7666667;W;1170;Stratovolcanoes;U
+1101-25-;11;01;-25-;Uliaga;Aleutian Is;Holocene;53,065;N;;-169,7666667;W;888;Stratovolcano;U
+1101-26-;11;01;-26-;Kagamil;Aleutian Is;Historical;52,97361111;N;;-169,7166667;W;893;Stratovolcano;D2
+1101-27-;11;01;-27-;Vsevidof;Aleutian Is;Historical;53,13;N;;-168,6930556;W;2149;Stratovolcano;D3
+1101-28-;11;01;-28-;Recheschnoi;Aleutian Is;Holocene;53,15666667;N;;-168,5388889;W;1984;Stratovolcano;U
+1101-29-;11;01;-29-;Okmok;Aleutian Is;Historical;53,43333333;N;;-168,1333333;W;1073;Shield volcano;D1
+1101-30-;11;01;-30-;Bogoslof;Aleutian Is;Historical;53,93333333;N;;-168,0333333;W;150;Submarine volcano;D2
+1101-31-;11;01;-31-;Makushin;Aleutian Is;Historical;53,89083333;N;;-166,9227778;W;1800;Stratovolcano;D2
+1101-32-;11;01;-32-;Akutan;Aleutian Is;Historical;54,13444444;N;;-165,9861111;W;1303;Stratovolcano;D2
+1101-34-;11;01;-34-;Westdahl;Aleutian Is;Historical;54,51833333;N;;-164,65;W;1654;Stratovolcano?;D2
+1101-35-;11;01;-35-;Fisher;Aleutian Is;Historical;54,65;N;;-164,4333333;W;1112;Stratovolcano;D3
+1101-36-;11;01;-36-;Shishaldin;Aleutian Is;Historical;54,75555556;N;;-163,9666667;W;2857;Stratovolcano;D1
+1101-37-;11;01;-37-;Isanotski;Aleutian Is;Uncertain;54,765;N;;-163,7225;W;2446;Stratovolcano;?
+1101-38-;11;01;-38-;Roundtop;Aleutian Is;Radiocarbon;54,8;N;;-163,5888889;W;1871;Stratovolcano;D7
+1101-39-;11;01;-39-;Amak;Aleutian Is;Historical;55,42388889;N;;-163,1491667;W;488;Stratovolcano;D4
+1102-01-;11;02;-01-;Frosty;Alaska Peninsula;Holocene;55,08166667;N;;-162,8138889;W;2012;Stratovolcanoes;U
+1102-011;11;02;-011;Dutton;Alaska Peninsula;Holocene;55,16805556;N;;-162,2716667;W;1506;Stratovolcano;U
+1102-02-;11;02;-02-;Emmons Lake;Alaska Peninsula;Holocene;55,34055556;N;;-162,0786111;W;1436;Caldera;U
+1102-03-;11;02;-03-;Pavlof;Alaska Peninsula;Historical;55,41666667;N;;-161,8875;W;2519;Stratovolcano;D1
+1102-04-;11;02;-04-;Pavlof Sister;Alaska Peninsula;Holocene;55,45277778;N;;-161,8430556;W;2142;Stratovolcano;U
+1102-05-;11;02;-05-;Dana;Alaska Peninsula;Radiocarbon;55,64111111;N;;-161,2138889;W;1354;Stratovolcano;D7
+1102-051;11;02;-051;Stepovak Bay 2;Alaska Peninsula;Holocene;55,9125;N;;-160,0408333;W;1323;Cinder cone;U
+1102-052;11;02;-052;Stepovak Bay 3;Alaska Peninsula;Holocene?;55,92916667;N;;-160,0019444;W;1555;Cinder cone;?
+1102-053;11;02;-053;Stepovak Bay 4;Alaska Peninsula;Pleistocene;55,95416667;N;;-159,9541667;W;1557;Stratovolcano;P
+1102-06-;11;02;-06-;Kupreanof;Alaska Peninsula;Historical;56,01111111;N;;-159,7972222;W;1895;Stratovolcano;D2
+1102-07-;11;02;-07-;Veniaminof;Alaska Peninsula;Historical;56,16666667;N;;-159,3833333;W;2507;Stratovolcano;D1
+1102-08-;11;02;-08-;Black Peak;Alaska Peninsula;Radiocarbon;56,5525;N;;-158,7847222;W;1032;Stratovolcano;D7
+1102-09-;11;02;-09-;Aniakchak;Alaska Peninsula;Historical;56,88333333;N;;-158,1666667;W;1341;Caldera;D2
+1102-10-;11;02;-10-;Yantarni;Alaska Peninsula;Tephrochronology;57,01861111;N;;-157,185;W;1345;Stratovolcano;D7
+1102-11-;11;02;-11-;Chiginagak;Alaska Peninsula;Historical;57,135;N;;-156,99;W;2221;Stratovolcano;D2
+1102-12-;11;02;-12-;Kialagvik;Alaska Peninsula;Holocene;57,20277778;N;;-156,7452778;W;1677;Stratovolcano;U
+1102-13-;11;02;-13-;Ugashik-Peulik;Alaska Peninsula;Historical;57,75083333;N;;-156,3680556;W;1474;Stratovolcano;D3
+1102-131;11;02;-131;Ukinrek Maars;Alaska Peninsula;Historical;57,83166667;N;;-156,5097222;W;91;Maars;D2
+1102-132;11;02;-132;Unnamed;Alaska Peninsula;Holocene;57,86666667;N;;-155,4166667;W;300;Lava dome;U
+1102-14-;11;02;-14-;Martin;Alaska Peninsula;Historical;58,17222222;N;;-155,3611111;W;1863;Stratovolcano;D2
+1102-15-;11;02;-15-;Mageik;Alaska Peninsula;Radiocarbon;58,19472222;N;;-155,2527778;W;2165;Stratovolcano;D7
+1102-16-;11;02;-16-;Trident;Alaska Peninsula;Historical;58,23555556;N;;-155,1;W;1864;Stratovolcano;D2
+1102-17-;11;02;-17-;Katmai;Alaska Peninsula;Historical;58,27972222;N;;-154,9633333;W;2047;Stratovolcano;D2
+1102-18-;11;02;-18-;Novarupta;Alaska Peninsula;Historical;58,26666667;N;;-155,1566667;W;841;Caldera;D2
+1102-19-;11;02;-19-;Griggs;Alaska Peninsula;Radiocarbon;58,35388889;N;;-155,0916667;W;2317;Stratovolcano;D7
+1102-20-;11;02;-20-;Snowy Mountain;Alaska Peninsula;Radiocarbon;58,33555556;N;;-154,6819444;W;2162;Stratovolcanoes;D4
+1102-21-;11;02;-21-;Denison;Alaska Peninsula;Holocene?;58,41777778;N;;-154,4491667;W;2287;Stratovolcano;?
+1102-22-;11;02;-22-;Steller;Alaska Peninsula;Holocene;58,43333333;N;;-154,4;W;2272;Stratovolcano;U
+1102-23-;11;02;-23-;Kukak;Alaska Peninsula;Fumarolic;58,45277778;N;;-154,355;W;2043;Stratovolcano;U
+1102-25-;11;02;-25-;Kaguyak;Alaska Peninsula;Holocene;58,60833333;N;;-154,0277778;W;901;Lava domes;D7
+1102-26-;11;02;-26-;Fourpeaked;Alaska Peninsula;Historical;58,77;N;;-153,6722222;W;2105;Stratovolcano;D1
+1102-27-;11;02;-27-;Douglas;Alaska Peninsula;Holocene;58,85527778;N;;-153,5419444;W;2140;Stratovolcano;U
+1103-01-;11;03;-01-;Augustine;Alaska-SW;Historical;59,36333333;N;;-153,4333333;W;1252;Lava domes;D1
+1103-02-;11;03;-02-;Iliamna;Alaska-SW;Historical;60,03194444;N;;-153,0902778;W;3053;Stratovolcano;D3
+1103-03-;11;03;-03-;Redoubt;Alaska-SW;Historical;60,48527778;N;;-152,7419444;W;3108;Stratovolcano;D1
+1103-04-;11;03;-04-;Spurr;Alaska-SW;Historical;61,29944444;N;;-152,2511111;W;3374;Stratovolcano;D2
+1103-05-;11;03;-05-;Hayes;Alaska-SW;Radiocarbon;61,64027778;N;;-152,4113889;W;3034;Stratovolcano;D6
+1104-01-;11;04;-01-;St. Paul Island;Alaska-W;Radiocarbon;57,18333333;N;*;-170,3;W;203;Shield volcano;D7
+1104-02-;11;04;-02-;Nunivak Island;Alaska-W;Holocene;60,01666667;N;*;-166,3333333;W;511;Shield volcano;U
+1104-03-;11;04;-03-;Ingakslugwat Hills;Alaska-W;Holocene;61,43333333;N;*;-164,4666667;W;190;Cinder cones;U
+1104-04-;11;04;-04-;St. Michael;Alaska-W;Anthropology;63,45;N;*;-162,1166667;W;715;Shield volcanoes;U
+1104-05-;11;04;-05-;Kookooligit Mountains;Alaska-W;Holocene;63,6;N;*;-170,4333333;W;673;Shield volcano;U
+1104-06-;11;04;-06-;Imuruk Lake;Alaska-W;Radiocarbon;65,6;N;*;-163,9166667;W;610;Shield volcanoes;D6
+1105-001;11;05;-001;Buzzard Creek;Alaska-E;Radiocarbon;64,06666667;N;;-148,4166667;W;830;Tuff rings;D7
+1105-01-;11;05;-01-;Sanford;Alaska-E;Holocene?;62,21666667;N;;-144,1333333;W;4949;Shield volcano;?
+1105-02-;11;05;-02-;Wrangell;Alaska-E;Historical;62;N;;-144,0166667;W;4317;Shield volcano;D1
+1105-021;11;05;-021;Gordon;Alaska-E;Holocene?;62,13333333;N;;-143,0833333;W;2755;Cinder cones;?
+1105-03-;11;05;-03-;Churchill;Alaska-E;Radiocarbon;61,38333333;N;;-141,75;W;5005;Stratovolcano;D6
+1105-04-;11;05;-04-;Edgecumbe;Alaska-E;Radiocarbon;57,05;N;;-135,75;W;970;Stratovolcanoes;D7
+1105-05-;11;05;-05-;Duncan Canal;Alaska-E;Holocene;56,5;N;*;-133,1;W;15;Volcanic field;U
+1105-06-;11;05;-06-;Tlevak Strait-Suemez Is.;Alaska-E;Holocene;55,25;N;*;-133,3;W;50;Volcanic field;U
+1105-07-;11;05;-07-;Behm Canal-Rudyerd Bay;Alaska-E;Holocene?;55,31666667;N;*;-131,05;W;500;Cinder cones;?
+1200-01-;12;00;-01-;Fort Selkirk;Canada;Holocene?;62,93333333;N;*;-137,3833333;W;1239;Volcanic field;?
+1200-02-;12;00;-02-;Alligator Lake;Canada;Holocene;60,41666667;N;*;-135,4166667;W;2217;Volcanic field;U
+1200-03-;12;00;-03-;Atlin Volc Field;Canada;Holocene;59,68333333;N;*;-133,3166667;W;1880;Cinder cones;U
+1200-031;12;00;-031;Tuya Volc Field;Canada;Holocene;59,36666667;N;*;-130,5833333;W;2123;Volcanic field;U
+1200-04-;12;00;-04-;Heart Peaks;Canada;Holocene?;58,6;N;;-131,9666667;W;2012;Shield volcano;?
+1200-05-;12;00;-05-;Level Mountain;Canada;Holocene?;58,41666667;N;;-131,35;W;2190;Shield volcano;?
+1200-06-;12;00;-06-;Edziza;Canada;Radiocarbon;57,71666667;N;;-130,6333333;W;2786;Stratovolcano;D6
+1200-07-;12;00;-07-;Spectrum Range;Canada;Holocene;57,43333333;N;;-130,6833333;W;2430;Shield volcano;U
+1200-08-;12;00;-08-;Hoodoo Mountain;Canada;Tephrochronology;56,78333333;N;;-131,2833333;W;1850;Subglacial volcano;D7
+1200-09-;12;00;-09-;Iskut-Unuk River Cones;Canada;Radiocarbon;56,58333333;N;*;-130,55;W;1880;Cinder cones;D3
+1200-10-;12;00;-10-;Tseax River Cone;Canada;Radiocarbon;55,11666667;N;;-128,9;W;609;Pyroclastic cone;D5
+1200-11-;12;00;-11-;Crow Lagoon;Canada;Holocene;54,7;N;;-130,2333333;W;335;Pyroclastic cone;U
+1200-12-;12;00;-12-;Milbanke Sound Group;Canada;Holocene;52,5;N;*;-128,7333333;W;335;Cinder cones;U
+1200-13-;12;00;-13-;Satah Mountain;Canada;Holocene;52,46666667;N;*;-124,7;W;1921;Volcanic field;U
+1200-14-;12;00;-14-;Nazko;Canada;Radiocarbon;52,9;N;;-123,7333333;W;1230;Cinder cones;D7
+1200-15-;12;00;-15-;Wells Gray-Clearwater;Canada;Dendrochronology;52,33333333;N;*;-120,5666667;W;2015;Cinder cones;D5
+1200-16-;12;00;-16-;Silverthrone;Canada;Holocene;51,43333333;N;;-126,3;W;3160;Caldera;U
+1200-17-;12;00;-17-;Bridge River Cones;Canada;Holocene;50,8;N;*;-123,4;W;2500;Volcanic field;U
+1200-18-;12;00;-18-;Meager;Canada;Radiocarbon;50,63333333;N;;-123,5;W;2680;Complex volcano;D7
+1200-19-;12;00;-19-;Garibaldi Lake;Canada;Holocene;49,91666667;N;*;-123,0333333;W;2316;Volcanic field;U
+1200-20-;12;00;-20-;Garibaldi;Canada;Radiocarbon;49,85;N;;-123;W;2678;Stratovolcano;D7
+1201-01=;12;01;-01-;Baker;US-Washington;Historical;48,77666667;N;;-121,8130556;W;3285;Stratovolcanoes;D3
+1201-02-;12;01;-02-;Glacier Peak;US-Washington;Tephrochronology;48,11166667;N;;-121,1127778;W;3213;Stratovolcano;D4
+1201-03-;12;01;-03-;Rainier;US-Washington;Historical;46,85277778;N;;-121,7602778;W;4392;Stratovolcano;D3
+1201-04-;12;01;-04-;Adams;US-Washington;Tephrochronology;46,20555556;N;;-121,4897222;W;3742;Stratovolcano;D6
+1201-05-;12;01;-05-;St. Helens;US-Washington;Historical;46,2;N;;-122,1833333;W;2549;Stratovolcano;D1
+1201-06-;12;01;-06-;West Crater;US-Washington;Radiocarbon;45,88333333;N;*;-122,0833333;W;1329;Volcanic field;D7
+1201-07-;12;01;-07-;Indian Heaven;US-Washington;Radiocarbon;45,93333333;N;*;-121,8166667;W;1806;Shield volcanoes;D7
+1202-01-;12;02;-01-;Hood;US-Oregon;Historical;45,37361111;N;;-121,6947222;W;3426;Stratovolcano;D3
+1202-02-;12;02;-02-;Jefferson;US-Oregon;Varve Count;44,67416667;N;;-121,7997222;W;3199;Stratovolcano;D6
+1202-03-;12;02;-03-;Blue Lake Crater;US-Oregon;Radiocarbon;44,41138889;N;;-121,7738889;W;1230;Maar;D6
+1202-04-;12;02;-04-;Sand Mountain Field;US-Oregon;Radiocarbon;44,38333333;N;*;-121,9333333;W;1664;Cinder cones;D6
+1202-06-;12;02;-06-;Belknap;US-Oregon;Radiocarbon;44,28527778;N;;-121,8411111;W;2095;Shield volcanoes;D6
+1202-07-;12;02;-07-;North Sister Field;US-Oregon;Radiocarbon;44,16666667;N;;-121,7666667;W;3074;Complex volcano;D6
+1202-08-;12;02;-08-;South Sister;US-Oregon;Radiocarbon;44,10277778;N;;-121,7683333;W;3157;Complex volcano;D7
+1202-09-;12;02;-09-;Bachelor;US-Oregon;Tephrochronology;43,97944444;N;;-121,6875;W;2763;Stratovolcano;D7
+1202-10-;12;02;-10-;Davis Lake;US-Oregon;Radiocarbon;43,56666667;N;*;-121,8166667;W;2163;Volcanic field;D7
+1202-11-;12;02;-11-;Newberry;US-Oregon;Radiocarbon;43,72222222;N;;-121,2288889;W;2434;Shield volcano;D6
+1202-12-;12;02;-12-;Devils Garden;US-Oregon;Holocene?;43,51166667;N;*;-120,8613889;W;1698;Volcanic field;?
+1202-13-;12;02;-13-;Squaw Ridge Lava Field;US-Oregon;Holocene?;43,47222222;N;*;-120,7536111;W;1711;Volcanic field;?
+1202-14-;12;02;-14-;Four Craters Lava Field;US-Oregon;Holocene?;43,36111111;N;*;-120,6694444;W;1501;Volcanic field;?
+1202-15-;12;02;-15-;Cinnamon Butte;US-Oregon;Holocene?;43,24111111;N;*;-122,1083333;W;1956;Cinder cones;?
+1202-16-;12;02;-16-;Crater Lake;US-Oregon;Radiocarbon;42,93333333;N;;-122,1166667;W;2487;Caldera;D7
+1202-17-;12;02;-17-;Diamond Craters;US-Oregon;Holocene?;43,1;N;*;-118,75;W;1435;Volcanic field;?
+1202-19-;12;02;-19-;Jordan Craters;US-Oregon;Radiocarbon;43,14722222;N;;-117,4597222;W;1473;Volcanic field;D7
+1203-01-;12;03;-01-;Shasta;US-California;Historical;41,40888889;N;;-122,1933333;W;4317;Stratovolcano;D4
+1203-02-;12;03;-02-;Medicine Lake;US-California;Radiocarbon;41,61111111;N;;-121,5536111;W;2412;Shield volcano;D6
+1203-03-;12;03;-03-;Brushy Butte;US-California;Holocene?;41,17777778;N;;-121,4433333;W;1174;Shield volcano;?
+1203-04-;12;03;-04-;Twin Buttes;US-California;Holocene?;40,7775;N;*;-121,5905556;W;1631;Cinder cones;?
+1203-05-;12;03;-05-;Silver Lake;US-California;Holocene?;40,73055556;N;;-121,8408333;W;1535;Cinder cones;?
+1203-06-;12;03;-06-;Tumble Buttes;US-California;Holocene?;40,68333333;N;*;-121,55;W;2191;Cinder cones;?
+1203-08-;12;03;-08-;Lassen Volc Center;US-California;Historical;40,49166667;N;;-121,5083333;W;3187;Stratovolcano;D2
+1203-09-;12;03;-09-;Eagle Lake Field;US-California;Holocene?;40,63333333;N;*;-120,8333333;W;1652;Fissure vents;?
+1203-10-;12;03;-10-;Clear Lake;US-California;Holocene;38,96666667;N;*;-122,7666667;W;1439;Volcanic field;U
+1203-11-;12;03;-11-;Mono Lake Volc Field;US-California;Tephrochronology;38;N;*;-119,0333333;W;2121;Cinder cones;D4
+1203-12-;12;03;-12-;Mono Craters;US-California;Radiocarbon;37,88333333;N;;-119;W;2796;Lava domes;D6
+1203-13-;12;03;-13-;Inyo Craters;US-California;Radiocarbon;37,69166667;N;;-119,0166667;W;2629;Lava domes;D6
+1203-15-;12;03;-15-;Mammoth Mountain;US-California;Radiocarbon;37,63055556;N;;-119,0316667;W;3369;Lava domes;D6
+1203-16-;12;03;-16-;Ubehebe Craters;US-California;Anthropology;37,01666667;N;;-117,45;W;752;Maars;D7
+1203-17-;12;03;-17-;Golden Trout Creek;US-California;Tephrochronology;36,35833333;N;*;-118,3166667;W;2886;Volcanic field;D7
+1203-18-;12;03;-18-;Coso Volc Field;US-California;Holocene?;36,03333333;N;*;-117,8166667;W;2400;Lava domes;?
+1203-19-;12;03;-19-;Lavic Lake;US-California;Holocene?;34,75;N;*;-116,625;W;1495;Volcanic field;?
+1203-20-;12;03;-20-;Salton Buttes;US-California;Hydration Rind;33,2;N;;-115,6166667;W;-40;Lava domes;D7
+1204-01-;12;04;-01-;Shoshone Lava Field;US-Idaho;Holocene;43,18333333;N;;-114,35;W;1478;Shield volcano;D7
+1204-02-;12;04;-02-;Craters of the Moon;US-Idaho;Radiocarbon;43,41666667;N;*;-113,5;W;2005;Cinder cones;D7
+1204-03-;12;04;-03-;Wapi Lava Field;US-Idaho;Radiocarbon;42,88333333;N;*;-113,2166667;W;1604;Shield volcano;D7
+1204-04-;12;04;-04-;Hell's Half Acre;US-Idaho;Radiocarbon;43,5;N;;-112,45;W;1631;Shield volcano;D7
+1205-01-;12;05;-01-;Yellowstone;US-Wyoming;Tephrochronology;44,43333333;N;;-110,6666667;W;2805;Calderas;D7
+1206-01-;12;06;-01-;Soda Lakes;US-Nevada;Holocene;39,53333333;N;;-118,8666667;W;1251;Maars;U
+1207-01-;12;07;-01-;Santa Clara;US-Utah;Holocene?;37,25694444;N;*;-113,625;W;1465;Volcanic field;?
+1207-03-;12;07;-03-;Bald Knoll;US-Utah;Holocene;37,32777778;N;;-112,4077778;W;2135;Cinder cones;U
+1207-04-;12;07;-04-;Markagunt Plateau;US-Utah;Dendrochronology;37,58333333;N;*;-112,6666667;W;2840;Volcanic field;D6
+1207-05-;12;07;-05-;Black Rock Desert;US-Utah;Radiocarbon;38,96666667;N;*;-112,5;W;1800;Volcanic field;D6
+1208-01-;12;08;-01-;Dotsero;US-Colorado;Radiocarbon;39,66055556;N;;-107,035;W;2230;Maar;D7
+1209-01-;12;09;-01-;Uinkaret Field;US-Arizona;Anthropology;36,38333333;N;*;-113,1333333;W;1555;Volcanic field;D6
+1209-02-;12;09;-02-;Sunset Crater;US-Arizona;Dendrochronology;35,36666667;N;*;-111,5;W;2447;Cinder cone;D6
+1210-01-;12;10;-01-;Carrizozo;US-New Mexico;Surface Exposure;33,78333333;N;;-105,9333333;W;1731;Cinder cones;D7
+1210-02-;12;10;-02-;Zuni-Bandera;US-New Mexico;Anthropology;34,8;N;*;-108;W;2550;Volcanic field;D7
+1301-01-;13;01;-01-;Endeavour Ridge;Pacific-NE;Uranium-series;47,95;N;;-129,1;W;-2050;Submarine volcano;D7
+1301-011;13;01;-011;Cobb Segment;Pacific-NE;Uranium-series;46,88333333;N;;-129,3333333;W;-2100;Submarine volcano;D7
+1301-02-;13;01;-02-;CoAxial Segment;Pacific-NE;Historical;46,51666667;N;;-129,5833333;W;-2400;Submarine volcano;D2
+1301-021;13;01;-021;Axial Seamount;Pacific-NE;Historical;45,95;N;;-130;W;-1410;Submarine volcano;D2
+1301-03-;13;01;-03-;Cleft Segment;Pacific-NE;Historical;44,83333333;N;;-130,3;W;-2140;Submarine volcano;D2
+1301-031;13;01;-031;North Gorda Ridge;Pacific-NE;Historical;42,66666667;N;;-126,7833333;W;-3000;Submarine volcano;D2
+1301-04-;13;01;-04-;Escanaba Segment;Pacific-NE;Uranium-series;40,98333333;N;;-127,5;W;-1700;Submarine volcano;D7
+1301-05-;13;01;-05-;Unnamed;Pacific-NE;Uncertain;31,75;N;;-124,25;W;-2533;Submarine volcano?;?
+1302-00-;13;02;-00-;Loihi;Hawaiian Is;Historical;18,91666667;N;;-155,2666667;W;-975;Submarine volcano;D2
+1302-01-;13;02;-01-;Kilauea;Hawaiian Is;Historical;19,42111111;N;;-155,2866667;W;1222;Shield volcano;D1
+1302-02=;13;02;-02-;Mauna Loa;Hawaiian Is;Historical;19,475;N;;-155,6083333;W;4170;Shield volcano;D2
+1302-03-;13;02;-03-;Mauna Kea;Hawaiian Is;Radiocarbon;19,81666667;N;;-155,4666667;W;4205;Shield volcano;D7
+1302-04-;13;02;-04-;Hualalai;Hawaiian Is;Historical;19,69166667;N;;-155,8666667;W;2523;Shield volcano;D3
+1302-06-;13;02;-06-;Haleakala;Hawaiian Is;Anthropology;20,70833333;N;;-156,25;W;3055;Shield volcano;D4
+1302-08-;13;02;-08-;Unnamed;Hawaiian Is;Uncertain;21,75;N;;-158,75;W;-3000;Submarine volcano?;?
+1302-09-;13;02;-09-;Unnamed;Hawaiian Is;Historical;23,58333333;N;;-163,8333333;W;-4000;Submarine volcano;D2
+1303-01-;13;03;-01-;Teahitia;Society Is-C Pacific;Seismicity;-17,56666667;S;;-148,85;W;-1400;Submarine volcano;D2
+1303-02-;13;03;-02-;Rocard;Society Is-C Pacific;Seismicity;-17,64166667;S;;-148,6;W;-2100;Submarine volcano;D2
+1303-03-;13;03;-03-;Moua Pihaa;Society Is-C Pacific;Seismicity;-18,31666667;S;;-148,6666667;W;-160;Submarine volcano;D2
+1303-04-;13;03;-04-;Mehetia;Society Is-C Pacific;Anthropology;-17,86666667;S;;-148,0666667;W;435;Stratovolcano;U
+1303-05-;13;03;-05-;Adams Seamount;Pacific-C;Potassium-Argon;-25,36666667;S;;-129,2666667;W;-39;Submarine volcano;D7
+1303-06-;13;03;-06-;Macdonald;Austral Is-C Pacific;Historical;-28,98333333;S;;-140,25;W;-39;Submarine volcano;D2
+1304-02-;13;04;-02-;Northern EPR-Segment RO2;Pacific-E;Magnetism;16,55;N;;-105,3166667;W;-2700;Submarine volcano;D7
+1304-021;13;04;-021;Northern EPR-Segment RO3;Pacific-E;Magnetism;15,83333333;N;;-105,4333333;W;-2300;Submarine volcano;D7
+1304-04-;13;04;-04-;Unnamed;Pacific-E;Historical;10,73333333;N;;-103,5833333;W;;Submarine volcano;D1
+1304-05-;13;04;-05-;Unnamed;Pacific-E;Historical;9,833333333;N;;-104,3;W;-2500;Submarine volcano;D1
+1304-07-;13;04;-07-;Galápagos Rift;Pacific-E;Historical;0,791666667;N;;-86,15;W;-2430;Submarine volcano;D2
+1304-10-;13;04;-10-;Unnamed;Pacific-E;Historical;-8,266666667;S;;-107,95;W;-2800;Submarine volcano;D2
+1304-12-;13;04;-12-;Southern EPR-Segment K;Pacific-E;Historical;-17,43611111;S;;-113,2061111;W;-2566;Submarine volcano;D2
+1304-13-;13;04;-13-;Southern EPR-Segment J;Pacific-E;Magnetism;-18,175;S;;-113,35;W;-2650;Submarine volcano;D3
+1304-14-;13;04;-14-;Southern EPR-Segment I;Pacific-E;Magnetism;-18,53333333;S;;-113,4166667;W;-2600;Submarine volcano;D2
+1305-01-;13;05;-01-;Antipodes Island;Pacific-S;Holocene?;-49,68333333;S;;178,7666667;E;402;Pyroclastic cones;?
+1305-02-;13;05;-02-;Unnamed;Pacific-S;Uncertain;-53,9;S;;-140,3;W;-1000;Submarine volcano;?
+1305-03-;13;05;-03-;Unnamed;Pacific-S;Uncertain;-55,96666667;S;;-143,1666667;W;;Submarine volcano;?
+1401-00-;14;01;-00-;Prieto, Cerro;México;Holocene?;32,41833333;N;;-115,305;W;223;Lava dome;?
+1401-001;14;01;-001;Pinacate;México;Holocene;31,7725;N;*;-113,4983333;W;1200;Cinder cones;U
+1401-002;14;01;-002;San Quintín Volc Field;México;Holocene?;30,46777778;N;*;-115,9963889;W;260;Cinder cones;?
+1401-003;14;01;-003;San Luis, Isla;México;Holocene;29,96666667;N;;-114,4;W;180;Tuff cone;U
+1401-004;14;01;-004;Jaraguay Volc Field;México;Holocene;29,33333333;N;*;-114,5;W;960;Cinder cones;U
+1401-005;14;01;-005;Coronado;México;Fumarolic;29,08333333;N;;-113,5133333;W;440;Stratovolcano;U
+1401-006;14;01;-006;Guadalupe;México;Holocene;29,06666667;N;;-118,2833333;W;1100;Shield volcano;U
+1401-007;14;01;-007;San Borja Volc Field;México;Holocene;28,5;N;*;-113,75;W;1360;Cinder cones;U
+1401-008;14;01;-008;Unnamed;México;Uncertain;28;N;;-115;W;;Submarine volcano?;?
+1401-011;14;01;-011;Tortuga, Isla;México;Holocene;27,43333333;N;;-111,8833333;W;210;Shield volcano;U
+1401-012;14;01;-012;Comondú-La Purísima;México;Holocene?;26;N;*;-111,9166667;W;780;Volcanic field;?
+1401-01=;14;01;-01-;Tres Vírgenes;México;Holocene?;27,46972222;N;;-112,5911111;W;1940;Stratovolcanoes;?
+1401-021;14;01;-021;Socorro;México-Is;Historical;18,78333333;N;;-110,95;W;1050;Shield volcano;D2
+1401-022;14;01;-022;Durango Volc Field;México;Holocene;24,15;N;*;-104,45;W;2075;Cinder cones;U
+1401-023;14;01;-023;Isabel, Isla;México;Holocene?;21,84833333;N;;-105,8861111;W;95;Tuff cones;?
+1401-024;14;01;-024;Sangangüey;México;Holocene;21,45;N;;-104,7333333;W;2340;Stratovolcano;U
+1401-02=;14;01;-02-;Bárcena;México-Is;Historical;19,3;N;;-110,8166667;W;332;Cinder cones;D2
+1401-031;14;01;-031;Mascota Volc Field;México;Holocene;20,61666667;N;*;-104,8333333;W;2560;Cinder cones;U
+1401-03=;14;01;-03-;Ceboruco;México;Historical;21,125;N;;-104,5083333;W;2280;Stratovolcano;D3
+1401-04=;14;01;-04-;Colima;México;Historical;19,51388889;N;;-103,6166667;W;3850;Stratovolcanoes;D1
+1401-061;14;01;-061;Zitácuaro-Valle de Bravo;México;Ar/Ar;19,4;N;*;-100,25;W;3500;Caldera;D7
+1401-062;14;01;-062;Jocotitlán;México;Radiocarbon;19,73333333;N;;-99,75833333;W;3900;Stratovolcano;D6
+1401-06=;14;01;-06-;Michoacán-Guanajuato;México;Historical;19,85;N;*;-101,75;W;3860;Cinder cones;D2
+1401-07-;14;01;-07-;Toluca, Nevado de;México;Radiocarbon;19,10833333;N;;-99,75833333;W;4680;Stratovolcano;D7
+1401-081;14;01;-081;Papayo;México;Holocene;19,30833333;N;;-98,7;W;3600;Lava dome;U
+1401-082;14;01;-082;Iztaccíhuatl;México;Holocene;19,17888889;N;;-98,64166667;W;5230;Stratovolcano;U
+1401-08=;14;01;-08-;Chichinautzin;México;Radiocarbon;19,08333333;N;*;-99,13333333;W;3930;Volcanic field;D6
+1401-091;14;01;-091;Malinche, La;México;Radiocarbon;19,23083333;N;;-98,03194444;W;4461;Stratovolcano;D7
+1401-092;14;01;-092;Serdán-Oriental;México;Holocene;19,26666667;N;*;-97,46666667;W;3485;Tuff cones;U
+1401-093;14;01;-093;Humeros, Los;México;Holocene?;19,68333333;N;;-97,45;W;3150;Calderas;?
+1401-094;14;01;-094;Atlixcos, Los;México;Holocene;19,80888889;N;;-96,52638889;W;800;Shield volcano;U
+1401-095;14;01;-095;Naolinco Volc Field;México;Radiocarbon;19,66666667;N;*;-96,75;W;2000;Pyroclastic cones;D7
+1401-096;14;01;-096;Cofre de Perote;México;Radiocarbon;19,49166667;N;;-97,15;W;4282;Shield volcanoes;D6
+1401-097;14;01;-097;Gloria, La;México;Holocene;19,33333333;N;*;-97,25;W;3500;Volcanic field;U
+1401-098;14;01;-098;Cumbres,  Las;México;Radiocarbon;19,15;N;;-97,26666667;W;3940;Stratovolcano;D7
+1401-09=;14;01;-09-;Popocatépetl;México;Historical;19,02333333;N;;-98,62222222;W;5426;Stratovolcanoes;D1
+1401-10=;14;01;-10-;Orizaba, Pico de;México;Historical;19,03;N;;-97,26805556;W;5675;Stratovolcano;D3
+1401-11=;14;01;-11-;San Martín;México;Historical;18,56666667;N;;-95,2;W;1650;Shield volcano;D4
+1401-12=;14;01;-12-;Chichón, El;México;Historical;17,36;N;;-93,22777778;W;1150;Lava domes;D2
+1401-13=;14;01;-13-;Tacaná;México;Historical;15,13;N;;-92,1125;W;4060;Stratovolcano;D2
+1402-02=;14;02;-02-;Tajumulco;Guatemala;Holocene;15,03444444;N;;-91,90333333;W;4220;Stratovolcano;U
+1402-03=;14;02;-03-;Santa María;Guatemala;Historical;14,75583333;N;;-91,55166667;W;3772;Stratovolcano;D1
+1402-04=;14;02;-04-;Almolonga;Guatemala;Historical;14,81666667;N;;-91,48333333;W;3197;Stratovolcano;D3
+1402-06=;14;02;-06-;Atitlán;Guatemala;Historical;14,58277778;N;;-91,18638889;W;3535;Stratovolcano;D3
+1402-07=;14;02;-07-;Tolimán;Guatemala;Holocene;14,6125;N;;-91,18916667;W;3158;Stratovolcano;U
+1402-08=;14;02;-08-;Acatenango;Guatemala;Historical;14,50055556;N;;-90,87583333;W;3976;Stratovolcano;D2
+1402-09=;14;02;-09-;Fuego;Guatemala;Historical;14,47277778;N;;-90,88027778;W;3763;Stratovolcano;D1
+1402-10=;14;02;-10-;Agua;Guatemala;Holocene;14,46472222;N;;-90,74305556;W;3760;Stratovolcano;U
+1402-111;14;02;-111;Cuilapa-Barbarena;Guatemala;Holocene;14,33333333;N;*;-90,4;W;1454;Volcanic field;U
+1402-11=;14;02;-11-;Pacaya;Guatemala;Historical;14,38083333;N;;-90,60111111;W;2552;Complex volcano;D1
+1402-121;14;02;-121;Jumaytepeque;Guatemala;Holocene?;14,33555556;N;;-90,26944444;W;1815;Stratovolcano;?
+1402-12=;14;02;-12-;Tecuamburro;Guatemala;Radiocarbon;14,15611111;N;;-90,40694444;W;1845;Stratovolcano;D7
+1402-13-;14;02;-13-;Moyuta;Guatemala;Hot Springs;14,03333333;N;;-90,1;W;1662;Stratovolcano;U
+1402-14-;14;02;-14-;Flores;Guatemala;Holocene;14,30777778;N;*;-89,99222222;W;1600;Volcanic field;U
+1402-141;14;02;-141;Tahual;Guatemala;Holocene;14,43333333;N;;-89,9;W;1716;Stratovolcano;U
+1402-15-;14;02;-15-;Santiago, Cerro;Guatemala;Holocene;14,33333333;N;*;-89,86666667;W;1192;Volcanic field;U
+1402-16-;14;02;-16-;Suchitán;Guatemala;Holocene;14,4;N;;-89,78333333;W;2042;Stratovolcanoes;U
+1402-17-;14;02;-17-;Chingo;Guatemala;Holocene;14,11666667;N;*;-89,73333333;W;1775;Stratovolcano;U
+1402-18-;14;02;-18-;Ixtepeque;Guatemala;Holocene;14,41666667;N;*;-89,68333333;W;1292;Lava domes;U
+1402-19-;14;02;-19-;Ipala;Guatemala;Holocene;14,55;N;;-89,63333333;W;1650;Stratovolcano;U
+1402-20-;14;02;-20-;Chiquimula Volc Field;Guatemala;Holocene;14,83333333;N;*;-89,55;W;1192;Cinder cones;U
+1402-21-;14;02;-21-;Quezaltepeque;Guatemala;Holocene;14,56666667;N;;-89,45;W;1200;Volcanic field;U
+1403-001;14;03;-001;San Diego;El Salvador;Holocene;14,26666667;N;*;-89,48333333;W;781;Volcanic field;U
+1403-002;14;03;-002;Singüil, Cerro;El Salvador;Holocene;14,05;N;*;-89,65;W;957;Cinder cones;U
+1403-01=;14;03;-01-;Apaneca Range;El Salvador;Holocene;13,89083333;N;;-89,78611111;W;2036;Stratovolcanoes;U
+1403-02=;14;03;-02-;Santa Ana;El Salvador;Historical;13,85333333;N;;-89,63;W;2381;Stratovolcano;D1
+1403-03=;14;03;-03-;Izalco;El Salvador;Historical;13,8125;N;;-89,63277778;W;1950;Stratovolcano;D2
+1403-041;14;03;-041;Coatepeque Caldera;El Salvador;Holocene;13,86666667;N;;-89,55;W;746;Caldera;U
+1403-051;14;03;-051;Cinotepeque, Cerro;El Salvador;Holocene;14,01666667;N;;-89,25;W;665;Volcanic field;U
+1403-052;14;03;-052;Guazapa;El Salvador;Holocene?;13,9;N;;-89,11666667;W;1438;Stratovolcano;?
+1403-05=;14;03;-05-;San Salvador;El Salvador;Historical;13,73416667;N;;-89,29388889;W;1893;Stratovolcano;D2
+1403-06=;14;03;-06-;Ilopango;El Salvador;Historical;13,67166667;N;;-89,05333333;W;450;Caldera;D3
+1403-071;14;03;-071;Apastepeque Field;El Salvador;Holocene;13,71666667;N;*;-88,76666667;W;700;Volcanic field;U
+1403-072;14;03;-072;Taburete;El Salvador;Holocene?;13,435;N;;-88,53194444;W;1172;Stratovolcano;?
+1403-07=;14;03;-07-;San Vicente;El Salvador;Holocene;13,59527778;N;;-88,8375;W;2182;Stratovolcano;U
+1403-081;14;03;-081;Usulután;El Salvador;Holocene;13,41888889;N;;-88,47055556;W;1449;Stratovolcano;U
+1403-082;14;03;-082;Tigre, El;El Salvador;Holocene;13,46666667;N;;-88,43333333;W;1640;Stratovolcano;U
+1403-08=;14;03;-08-;Tecapa;El Salvador;Holocene;13,49388889;N;;-88,50222222;W;1593;Stratovolcano;U
+1403-09=;14;03;-09-;Chinameca;El Salvador;Holocene;13,47777778;N;;-88,33027778;W;1300;Stratovolcano;U
+1403-101;14;03;-101;Aramuaca, Laguna;El Salvador;Holocene;13,42833333;N;;-88,105;W;181;Maar;U
+1403-10=;14;03;-10-;San Miguel;El Salvador;Historical;13,43388889;N;;-88,26916667;W;2130;Stratovolcano;D1
+1403-11=;14;03;-11-;Conchagua;El Salvador;Uncertain;13,275;N;;-87,845;W;1225;Stratovolcano;?
+1403-12=;14;03;-12-;Conchagüita;El Salvador;Historical;13,22861111;N;;-87,7675;W;505;Stratovolcano;D3
+1403-13-;14;03;-13-;Tigre, Isla el;Honduras;Holocene;13,27222222;N;;-87,64055556;W;783;Stratovolcano;U
+1403-14-;14;03;-14-;Zacate Grande, Isla;Honduras;Holocene;13,33333333;N;;-87,63333333;W;640;Stratovolcano;U
+1403-15-;14;03;-15-;Yojoa, Lake;Honduras;Holocene;14,98333333;N;*;-87,98333333;W;1090;Volcanic field;U
+1403-16-;14;03;-16-;Utila Island;Honduras;Holocene;16,1;N;*;-86,9;W;74;Pyroclastic cones;U
+1404-01=;14;04;-01-;Cosigüina;Nicaragua;Historical;12,98333333;N;;-87,56666667;W;872;Stratovolcano;D3
+1404-02=;14;04;-02-;San Cristóbal;Nicaragua;Historical;12,70166667;N;;-87,00361111;W;1745;Stratovolcano;D1
+1404-04=;14;04;-04-;Telica;Nicaragua;Historical;12,6025;N;;-86,845;W;1061;Stratovolcanoes;D1
+1404-06-;14;04;-06-;Rota;Nicaragua;Holocene;12,55;N;;-86,75;W;832;Stratovolcano;U
+1404-07=;14;04;-07-;Negro, Cerro;Nicaragua;Historical;12,50611111;N;;-86,70194444;W;728;Cinder cones;D2
+1404-08=;14;04;-08-;Pilas, Las;Nicaragua;Historical;12,49472222;N;;-86,68833333;W;1088;Complex volcano;D2
+1404-091;14;04;-091;Apoyeque;Nicaragua;Radiocarbon;12,24166667;N;;-86,34166667;W;518;Pyroclastic shield;D7
+1404-092;14;04;-092;Nejapa-Miraflores;Nicaragua;Tephrochronology;12,11666667;N;;-86,31666667;W;360;Fissure vents;D6
+1404-09=;14;04;-09-;Momotombo;Nicaragua;Historical;12,4225;N;;-86,54;W;1297;Stratovolcano;D2
+1404-101;14;04;-101;Granada;Nicaragua;Holocene;11,91666667;N;;-85,98333333;W;300;Fissure vents;U
+1404-10=;14;04;-10-;Masaya;Nicaragua;Historical;11,98416667;N;;-86,16083333;W;635;Caldera;D1
+1404-111;14;04;-111;Zapatera;Nicaragua;Holocene;11,73333333;N;;-85,81666667;W;629;Shield volcano;U
+1404-11=;14;04;-11-;Mombacho;Nicaragua;Holocene;11,82611111;N;;-85,9675;W;1344;Stratovolcano;U
+1404-12=;14;04;-12-;Concepción;Nicaragua;Historical;11,53777778;N;;-85,6225;W;1700;Stratovolcano;D1
+1404-13-;14;04;-13-;Maderas;Nicaragua;Holocene;11,44555556;N;;-85,515;W;1394;Stratovolcano;U
+1404-131;14;04;-131;Estelí;Nicaragua;Holocene?;13,16666667;N;*;-86,4;W;899;Fissure vents;?
+1404-132;14;04;-132;Ciguatepe, Cerro el;Nicaragua;Holocene?;12,53333333;N;;-86,14166667;W;603;Stratovolcano;?
+1404-133;14;04;-133;Lajas, Las;Nicaragua;Holocene?;12,3;N;;-85,73333333;W;926;Shield volcano;?
+1404-14-;14;04;-14-;Azul, Volcán;Nicaragua;Holocene;12,53333333;N;*;-83,86666667;W;201;Cinder cones;U
+1405-01=;14;05;-01-;Orosí;Costa Rica;Holocene?;10,98;N;;-85,47333333;W;1659;Stratovolcanoes;?
+1405-02=;14;05;-02-;Rincón de la Vieja;Costa Rica;Historical;10,83;N;;-85,32388889;W;1916;Complex volcano;D2
+1405-031;14;05;-031;Tenorio;Costa Rica;Holocene;10,67277778;N;;-85,015;W;1916;Stratovolcanoes;U
+1405-033;14;05;-033;Arenal;Costa Rica;Historical;10,46333333;N;;-84,70333333;W;1670;Stratovolcano;D1
+1405-034;14;05;-034;Platanar;Costa Rica;Holocene;10,3;N;;-84,36583333;W;2267;Stratovolcanoes;U
+1405-03=;14;05;-03-;Miravalles;Costa Rica;Historical;10,74833333;N;;-85,15277778;W;2028;Stratovolcano;D2
+1405-04=;14;05;-04-;Poás;Costa Rica;Historical;10,2;N;;-84,23277778;W;2708;Stratovolcano;D1
+1405-05=;14;05;-05-;Barva;Costa Rica;Tephrochronology;10,135;N;;-84,1;W;2906;Complex volcano;D7
+1405-06=;14;05;-06-;Irazú;Costa Rica;Historical;9,979166667;N;;-83,8525;W;3432;Stratovolcano;D2
+1405-07=;14;05;-07-;Turrialba;Costa Rica;Historical;10,025;N;;-83,76694444;W;3340;Stratovolcano;D3
+1406-01-;14;06;-01-;Barú;Panamá;Historical;8,807777778;N;;-82,54277778;W;3474;Stratovolcano;D5
+1406-03-;14;06;-03-;Valle, El;Panamá;Holocene?;8,583333333;N;;-80,16666667;W;1185;Stratovolcano;?
+1501-011;15;01;-011;Romeral;Colombia;Radiocarbon;5,205833333;N;;-75,36416667;W;3858;Stratovolcano;D7
+1501-012;15;01;-012;Bravo, Cerro;Colombia;Radiocarbon;5,091666667;N;;-75,3;W;4000;Stratovolcano;D4
+1501-021;15;01;-021;Santa Isabel;Colombia;Radiocarbon;4,816666667;N;;-75,36666667;W;4950;Shield volcano;D7
+1501-02=;15;01;-02-;Ruiz, Nevado del;Colombia;Historical;4,895277778;N;;-75,3225;W;5321;Stratovolcano;D2
+1501-03=;15;01;-03-;Tolima, Nevado del;Colombia;Historical;4,666666667;N;;-75,33333333;W;5200;Stratovolcano;D2
+1501-04=;15;01;-04-;Machín;Colombia;Radiocarbon;4,483333333;N;;-75,39166667;W;2650;Stratovolcano;D6
+1501-05=;15;01;-05-;Huila, Nevado del;Colombia;Historical;2,933333333;N;;-76,03333333;W;5364;Stratovolcano;D1
+1501-061;15;01;-061;Sotará;Colombia;Holocene;2,108333333;N;;-76,59166667;W;4400;Stratovolcano;U
+1501-062;15;01;-062;Petacas;Colombia;Holocene?;1,566666667;N;;-76,78333333;W;4054;Lava dome;?
+1501-06=;15;01;-06-;Puracé;Colombia;Historical;2,316666667;N;;-76,4;W;4650;Stratovolcanoes;D2
+1501-07=;15;01;-07-;Doña Juana;Colombia;Historical;1,466666667;N;;-76,91666667;W;4150;Stratovolcano;D2
+1501-08=;15;01;-08-;Galeras;Colombia;Historical;1,216666667;N;;-77,36666667;W;4276;Complex volcano;D1
+1501-09=;15;01;-09-;Azufral;Colombia;Radiocarbon;1,083333333;N;;-77,68333333;W;4070;Stratovolcano;D7
+1501-10=;15;01;-10-;Cumbal;Colombia;Historical;0,95;N;;-77,86666667;W;4764;Stratovolcano;D2
+1501-11=;15;01;-11-;Negro de Mayasquer, Cerro;Colombia;Holocene?;0,8275;N;;-77,96444444;W;4445;Stratovolcano;D2
+1502-001;15;02;-001;Soche;Ecuador;Radiocarbon;0,552222222;N;;-77,57972222;W;3955;Stratovolcano;D7
+1502-002;15;02;-002;Chachimbiro;Ecuador;Radiocarbon;0,468055556;N;;-78,28722222;W;4106;Stratovolcano;D7
+1502-003;15;02;-003;Cuicocha;Ecuador;Radiocarbon;0,308333333;N;;-78,36388889;W;3246;Caldera;D6
+1502-004;15;02;-004;Imbabura;Ecuador;Radiocarbon;0,2575;N;;-78,18277778;W;4609;Compound volcano;D7
+1502-005;15;02;-005;Mojanda;Ecuador;Holocene?;0,133333333;N;;-78,26666667;W;4263;Stratovolcanoes;?
+1502-006;15;02;-006;Cayambe;Ecuador;Historical;0,029166667;N;;-77,98583333;W;5790;Compound volcano;D4
+1502-011;15;02;-011;Pululagua;Ecuador;Radiocarbon;0,038333333;N;;-78,46333333;W;3356;Caldera;D6
+1502-01=;15;02;-01-;Reventador;Ecuador;Historical;-0,0775;S;;-77,65583333;W;3562;Stratovolcano;D1
+1502-021;15;02;-021;Atacazo;Ecuador;Radiocarbon;-0,352777778;S;;-78,61694444;W;4463;Stratovolcano;D7
+1502-022;15;02;-022;Chacana;Ecuador;Historical;-0,375;S;;-78,25;W;4643;Caldera;D4
+1502-02=;15;02;-02-;Guagua Pichincha;Ecuador;Historical;-0,170833333;S;;-78,59833333;W;4784;Stratovolcano;D1
+1502-03=;15;02;-03-;Antisana;Ecuador;Historical;-0,481388889;S;;-78,14083333;W;5753;Stratovolcano;D3
+1502-041;15;02;-041;Illiniza;Ecuador;Holocene;-0,659444444;S;;-78,71361111;W;5248;Stratovolcano;U
+1502-04=;15;02;-04-;Sumaco;Ecuador;Historical;-0,538055556;S;;-77,62583333;W;3990;Stratovolcano;D3
+1502-05=;15;02;-05-;Cotopaxi;Ecuador;Historical;-0,677222222;S;;-78,43611111;W;5911;Stratovolcano;D2
+1502-06=;15;02;-06-;Quilotoa;Ecuador;Radiocarbon;-0,85;S;;-78,9;W;3914;Caldera;D6
+1502-071;15;02;-071;Chimborazo;Ecuador;Radiocarbon;-1,463888889;S;;-78,815;W;6310;Stratovolcano;D6
+1502-081;15;02;-081;Licto;Ecuador;Holocene?;-1,780277778;S;*;-78,61333333;W;3336;Scoria cones;?
+1502-08=;15;02;-08-;Tungurahua;Ecuador;Historical;-1,466944444;S;;-78,44166667;W;5023;Stratovolcano;D1
+1502-09=;15;02;-09-;Sangay;Ecuador;Historical;-2,0025;S;;-78,34083333;W;5230;Stratovolcano;D1
+1503-011;15;03;-011;Ecuador;Galápagos;Surface Exposure;-0,016666667;S;;-91,54583333;W;790;Shield volcano;D6
+1503-01=;15;03;-01-;Fernandina;Galápagos;Historical;-0,366666667;S;;-91,55;W;1476;Shield volcano;D1
+1503-02=;15;03;-02-;Wolf;Galápagos;Historical;0,016666667;N;;-91,35;W;1710;Shield volcano;D2
+1503-03=;15;03;-03-;Darwin;Galápagos;Surface Exposure;-0,183333333;S;;-91,28333333;W;1330;Shield volcano;D3
+1503-04=;15;03;-04-;Alcedo;Galápagos;Historical;-0,433333333;S;;-91,11666667;W;1130;Shield volcano;D2
+1503-05=;15;03;-05-;Negra, Sierra;Galápagos;Historical;-0,833333333;S;;-91,16666667;W;1124;Shield volcano;D1
+1503-06=;15;03;-06-;Azul, Cerro;Galápagos;Historical;-0,916666667;S;;-91,40833333;W;1640;Shield volcano;D1
+1503-07=;15;03;-07-;Pinta;Galápagos;Historical;0,583333333;N;;-90,75;W;780;Shield volcano;D2
+1503-081;15;03;-081;Genovesa;Galápagos;Holocene;0,316666667;N;;-89,95833333;W;64;Shield volcano;U
+1503-08=;15;03;-08-;Marchena;Galápagos;Historical;0,333333333;N;;-90,46666667;W;343;Shield volcano;D2
+1503-091;15;03;-091;Santa Cruz;Galápagos;Holocene;-0,616666667;S;;-90,33333333;W;864;Shield volcano;U
+1503-09=;15;03;-09-;Santiago;Galápagos;Historical;-0,216666667;S;;-90,76666667;W;920;Shield volcano;D2
+1503-12-;15;03;-12-;San Cristóbal;Galápagos;Holocene;-0,883333333;S;;-89,5;W;759;Shield volcano;U
+1504-00-;15;04;-00-;Quimsachata;Perú;Radiocarbon;-14,2;S;;-71,33333333;W;3923;Lava dome;D7
+1504-001;15;04;-001;Auquihuato, Cerro;Perú;Holocene?;-15,06666667;S;;-73,18333333;W;4980;Cinder cone;?
+1504-002;15;04;-002;Sara Sara;Perú;Holocene;-15,33333333;S;;-73,45;W;5522;Stratovolcano;U
+1504-003;15;04;-003;Coropuna;Perú;Holocene;-15,51666667;S;;-72,65;W;6377;Stratovolcano;U
+1504-004;15;04;-004;Andahua-Orcopampa;Perú;Radiocarbon;-15,41666667;S;*;-72,33333333;W;4713;Cinder cones;D6
+1504-005;15;04;-005;Huambo;Perú;Radiocarbon;-15,83333333;S;;-72,13333333;W;4550;Volcanic field;D7
+1504-006;15;04;-006;Sabancaya;Perú;Historical;-15,78333333;S;;-71,85;W;5967;Stratovolcanoes;D1
+1504-007;15;04;-007;Chachani, Nevado;Perú;Holocene?;-16,19138889;S;;-71,52972222;W;6057;Stratovolcano;?
+1504-008;15;04;-008;Nicholson, Cerro;Perú;Holocene;-16,25833333;S;;-71,75333333;W;2520;Cinder cone;U
+1504-01=;15;04;-01-;Misti, El;Perú;Historical;-16,29444444;S;;-71,40888889;W;5822;Stratovolcano;D2
+1504-02=;15;04;-02-;Ubinas;Perú;Historical;-16,355;S;;-70,90305556;W;5672;Stratovolcano;D1
+1504-031;15;04;-031;Ticsani;Perú;Tephrochronology;-16,755;S;;-70,595;W;5408;Lava domes;D3
+1504-03=;15;04;-03-;Huaynaputina;Perú;Historical;-16,60833333;S;;-70,85;W;4850;Stratovolcano;D5
+1504-04=;15;04;-04-;Tutupaca;Perú;Holocene;-17,02527778;S;;-70,35833333;W;5815;Stratovolcano;U
+1504-05-;15;04;-05-;Yucamane;Perú;Historical;-17,18333333;S;;-70,2;W;5550;Stratovolcanoes;D2
+1504-06-;15;04;-06-;Casiri, Nevados;Perú;Holocene;-17,46666667;S;;-69,81333333;W;5650;Stratovolcanoes;U
+1505-011;15;05;-011;Taapaca;Chile-N;Radiocarbon;-18,1;S;;-69,5;W;5860;Complex volcano;D7
+1505-012;15;05;-012;Parinacota;Chile-N;Surface Exposure;-18,16666667;S;;-69,15;W;6348;Stratovolcano;D6
+1505-01=;15;05;-01-;Tacora;Chile-N;Fumarolic;-17,71666667;S;;-69,76666667;W;5980;Stratovolcano;U
+1505-021;15;05;-021;Tambo Quemado;Bolivia;Holocene;-18,61666667;S;;-68,75;W;4215;Pyroclastic shield;U
+1505-02=;15;05;-02-;Guallatiri;Chile-N;Historical;-18,41666667;S;;-69,09166667;W;6071;Stratovolcano;D2
+1505-032;15;05;-032;Tata Sabaya;Bolivia;Holocene;-19,13333333;S;;-68,53333333;W;5430;Stratovolcano;U
+1505-035;15;05;-035;Jayu Khota, Laguna;Bolivia;Holocene;-19,45;S;;-67,41666667;W;3650;Maars;U
+1505-036;15;05;-036;Nuevo Mundo;Bolivia;Holocene?;-19,78333333;S;;-66,48333333;W;5438;Lava domes;?
+1505-03=;15;05;-03-;Isluga;Chile-N;Historical;-19,15;S;;-68,83333333;W;5550;Stratovolcano;D2
+1505-042;15;05;-042;Pampa Luxsar;Bolivia;Holocene?;-20,85;S;*;-68,2;W;5543;Volcanic field;?
+1505-04=;15;05;-04-;Irruputuncu;Chile-N;Historical;-20,73333333;S;;-68,55;W;5163;Stratovolcano;D2
+1505-05=;15;05;-05-;Olca-Paruma;Chile-N;Historical;-20,93333333;S;;-68,48333333;W;5407;Stratovolcanoes;D3
+1505-061;15;05;-061;Azufre, Cerro del;Chile-N;Holocene?;-21,78722222;S;;-68,2375;W;5846;Stratovolcano;?
+1505-06=;15;05;-06-;Ollagüe;Chile-N;Holocene?;-21,3;S;;-68,18333333;W;5868;Stratovolcano;?
+1505-07=;15;05;-07-;San Pedro;Chile-N;Historical;-21,88333333;S;;-68,4;W;6145;Stratovolcanoes;D2
+1505-091;15;05;-091;Sairecabur;Chile-N;Holocene;-22,71666667;S;;-67,89166667;W;5971;Stratovolcanoes;U
+1505-092;15;05;-092;Licancabur;Chile-N;Holocene;-22,83333333;S;;-67,88333333;W;5916;Stratovolcano;U
+1505-093;15;05;-093;Guayaques;Chile-N;Holocene;-22,895;S;;-67,56583333;W;5598;Lava domes;U
+1505-094;15;05;-094;Purico Complex;Chile-N;Holocene;-23;S;;-67,75;W;5703;Pyroclastic shield;U
+1505-095;15;05;-095;Colachi;Chile-N;Holocene;-23,23638889;S;;-67,645;W;5631;Stratovolcano;U
+1505-096;15;05;-096;Acamarachi;Chile-N;Holocene;-23,3;S;;-67,61666667;W;6046;Stratovolcano;U
+1505-097;15;05;-097;Overo, Cerro;Chile-N;Holocene?;-23,51666667;S;;-67,66666667;W;4555;Maar;?
+1505-098;15;05;-098;Chiliques;Chile-N;Holocene?;-23,58333333;S;;-67,7;W;5778;Stratovolcano;?
+1505-09=;15;05;-09-;Putana;Chile-N;Historical;-22,55;S;;-67,85;W;5890;Stratovolcano;D3
+1505-101;15;05;-101;Cordón de Puntas Negras;Chile-N;Holocene;-23,74277778;S;;-67,53416667;W;5852;Stratovolcanoes;U
+1505-102;15;05;-102;Miñiques;Chile-N;Holocene?;-23,81666667;S;;-67,76666667;W;5910;Stratovolcanoes;?
+1505-103;15;05;-103;Tujle, Cerro;Chile-N;Holocene;-23,83333333;S;;-67,95;W;3550;Maar;U
+1505-104;15;05;-104;Caichinque;Chile-N;Holocene?;-23,95;S;;-67,73333333;W;4450;Stratovolcanoes;?
+1505-105;15;05;-105;Tilocalar;Chile-N;Holocene?;-23,96666667;S;;-68,13333333;W;3116;Stratovolcanoes;?
+1505-106;15;05;-106;Negrillar, El;Chile-N;Holocene;-24,18333333;S;*;-68,25;W;3500;Pyroclastic cones;U
+1505-107;15;05;-107;Pular;Chile-N;Holocene?;-24,1875;S;;-68,05416667;W;6233;Stratovolcanoes;?
+1505-108;15;05;-108;Negrillar, La;Chile-N;Holocene?;-24,28333333;S;;-68,6;W;4109;Pyroclastic cones;?
+1505-109;15;05;-109;Socompa;Chile-N;Radiocarbon;-24,4;S;;-68,25;W;6051;Stratovolcano;D7
+1505-10=;15;05;-10-;Láscar;Chile-N;Historical;-23,36666667;S;;-67,73333333;W;5592;Stratovolcanoes;D1
+1505-112;15;05;-112;Escorial, Cerro;Chile-N;Holocene?;-25,08333333;S;;-68,36666667;W;5447;Stratovolcano;?
+1505-11=;15;05;-11-;Llullaillaco;Chile-N;Historical;-24,71666667;S;;-68,53333333;W;6739;Stratovolcano;D3
+1505-121;15;05;-121;Cordón del Azufre;Chile-N;Holocene;-25,33333333;S;;-68,51666667;W;5463;Complex volcano;U
+1505-122;15;05;-122;Bayo, Cerro;Chile-N;Holocene;-25,41666667;S;;-68,58333333;W;5401;Complex volcano;U
+1505-123;15;05;-123;Nevada, Sierra;Chile-N;Holocene;-26,48333333;S;*;-68,58333333;W;6127;Complex volcano;U
+1505-124;15;05;-124;Falso Azufre;Chile-N;Holocene?;-26,8;S;;-68,36666667;W;5890;Complex volcano;?
+1505-125;15;05;-125;Incahuasi, Nevado de;Chile-N;Holocene?;-27,04166667;S;;-68,28333333;W;6621;Stratovolcanoes;?
+1505-12=;15;05;-12-;Lastarria;Chile-N;Holocene;-25,16666667;S;;-68,5;W;5697;Stratovolcano;U
+1505-131;15;05;-131;Solo, El;Chile-N;Holocene;-27,10833333;S;;-68,71666667;W;6190;Stratovolcano;U
+1505-13=;15;05;-13-;Ojos del Salado, Nevados;Chile-N;Tephrochronology;-27,11666667;S;;-68,55;W;6887;Stratovolcano;D6
+1505-14-;15;05;-14-;Copiapó;Chile-N;Uncertain;-27,3;S;;-69,13333333;W;6052;Stratovolcano;?
+1505-15-;15;05;-15-;Tuzgle, Cerro;Argentina;Holocene?;-24,05;S;;-66,48333333;W;5500;Stratovolcano;?
+1505-16-;15;05;-16-;Aracar;Argentina;Uncertain;-24,25;S;;-67,76666667;W;6082;Stratovolcano;?
+1505-161;15;05;-161;Unnamed;Argentina;Holocene?;-25,1;S;;-68,26666667;W;;Pyroclastic cone;?
+1505-18-;15;05;-18-;Antofagasta de la Sierra;Argentina;Holocene;-26,08333333;S;*;-67,5;W;4000;Scoria cones;U
+1505-19-;15;05;-19-;Cóndor, Cerro el;Argentina;Holocene;-26,61666667;S;;-68,35;W;6532;Stratovolcano;U
+1505-20-;15;05;-20-;Peinado;Argentina;Holocene;-26,61666667;S;;-68,15;W;5740;Stratovolcano;U
+1505-21-;15;05;-21-;Robledo;Argentina;Holocene;-26,76666667;S;;-67,71666667;W;4400;Caldera;U
+1505-22-;15;05;-22-;Tipas;Argentina;Holocene;-27,2;S;;-68,55;W;6660;Complex volcano;U
+1506-011;15;06;-011;Easter Island;Chile-Is;Holocene;-27,15;S;;-109,3833333;W;511;Shield volcanoes;U
+1506-01=;15;06;-01-;San Félix;Chile-Is;Holocene;-26,28333333;S;;-80,11666667;W;193;Shield volcano;U
+1506-02=;15;06;-02-;Robinson Crusoe;Chile-Is;Historical;-33,65833333;S;;-78,85;W;922;Shield volcanoes;D3
+1506-04=;15;06;-04-;Unnamed;Chile-Is;Uncertain;-33,61666667;S;;-76,83333333;W;-642;Submarine volcano;?
+1507-01=;15;07;-01-;Tupungatito;Chile-C;Historical;-33,4;S;;-69,8;W;6000;Stratovolcano;D2
+1507-021;15;07;-021;Maipo;Chile-C;Historical;-34,16055556;S;;-69,83277778;W;5264;Caldera;D2
+1507-022;15;07;-022;Palomo;Chile-C;Holocene;-34,60777778;S;;-70,295;W;4860;Stratovolcano;U
+1507-023;15;07;-023;Atuel, Caldera del;Argentina;Holocene;-34,65;S;*;-70,05;W;5189;Caldera;U
+1507-024;15;07;-024;Risco Plateado;Argentina;Holocene?;-34,93333333;S;;-70;W;4999;Stratovolcano;?
+1507-02=;15;07;-02-;San José;Chile-C;Historical;-33,78166667;S;;-69,89722222;W;5856;Stratovolcano;D2
+1507-03=;15;07;-03-;Tinguiririca;Chile-C;Historical;-34,81361111;S;;-70,35194444;W;4280;Stratovolcano;D2
+1507-041;15;07;-041;Infiernillo;Argentina;Radiocarbon;-35,14166667;S;*;-69,83333333;W;;Volcanic field;D7
+1507-042;15;07;-042;Calabozos;Chile-C;Holocene;-35,55833333;S;;-70,49638889;W;3508;Caldera;U
+1507-04=;15;07;-04-;Planchón-Peteroa;Chile-C;Historical;-35,24;S;;-70,57;W;4107;Stratovolcanoes;D2
+1507-05=;15;07;-05-;Descabezado Grande;Chile-C;Historical;-35,58333333;S;;-70,75;W;3953;Stratovolcanoes;D2
+1507-061;15;07;-061;Maule, Laguna del;Chile-C;Holocene;-36,01666667;S;*;-70,58333333;W;3092;Caldera;U
+1507-062;15;07;-062;San Pedro-Pellado;Chile-C;Holocene;-35,98916667;S;;-70,84944444;W;3621;Stratovolcanoes;U
+1507-063;15;07;-063;Longaví, Nevado de;Chile-C;Radiocarbon;-36,19305556;S;;-71,16083333;W;3242;Stratovolcano;D7
+1507-064;15;07;-064;Blancas, Lomas;Chile-C;Holocene;-36,28583333;S;;-71,00944444;W;2268;Stratovolcano;U
+1507-065;15;07;-065;Resago;Chile-C;Holocene;-36,45;S;;-70,91666667;W;1890;Cinder cone;U
+1507-066;15;07;-066;Payún Matru;Argentina;Holocene;-36,41666667;S;;-69,2;W;3680;Shield volcano;U
+1507-067;15;07;-067;Domuyo;Argentina;Holocene?;-36,58333333;S;;-70,41666667;W;4709;Stratovolcano;?
+1507-06=;15;07;-06-;Azul, Cerro;Chile-C;Historical;-35,65333333;S;;-70,76083333;W;3788;Stratovolcano;D2
+1507-071;15;07;-071;Cochiquito Volc Group;Argentina;Holocene;-36,76666667;S;;-69,81666667;W;1435;Stratovolcanoes;U
+1507-072;15;07;-072;Tromen;Argentina;Historical;-37,14166667;S;;-70,03333333;W;3978;Stratovolcanoes;D3
+1507-073;15;07;-073;Puesto Cortaderas;Argentina;Holocene;-37,56666667;S;;-69,61666667;W;970;Pyroclastic cone;U
+1507-07=;15;07;-07-;Chillán, Nevados de;Chile-C;Historical;-36,86333333;S;;-71,37666667;W;3212;Stratovolcano;D1
+1507-081;15;07;-081;Trocon;Argentina;Holocene?;-37,73333333;S;;-70,9;W;2500;Lava domes;?
+1507-08=;15;07;-08-;Antuco;Chile-C;Historical;-37,40583333;S;;-71,34916667;W;2979;Stratovolcano;D3
+1507-091;15;07;-091;Callaqui;Chile-C;Historical;-37,91666667;S;;-71,45;W;3164;Stratovolcano;D2
+1507-092;15;07;-092;Mariñaqui, Laguna;Chile-C;Holocene;-38,26666667;S;;-71,1;W;2143;Cinder cones;U
+1507-093;15;07;-093;Tolguaca;Chile-C;Holocene;-38,31;S;;-71,645;W;2806;Stratovolcano;U
+1507-09=;15;07;-09-;Copahue;Chile-C;Historical;-37,85;S;;-71,16666667;W;2997;Stratovolcano;D1
+1507-101;15;07;-101;Tralihue;Argentina;Holocene;-38,51666667;S;;-70,9;W;;Stratovolcano;U
+1507-10=;15;07;-10-;Lonquimay;Chile-C;Historical;-38,37666667;S;;-71,58333333;W;2865;Stratovolcano;D2
+1507-111;15;07;-111;Sollipulli;Chile-C;Radiocarbon;-38,96666667;S;;-71,51666667;W;2282;Caldera;D6
+1507-112;15;07;-112;Caburgua-Huelemolle;Chile-C;Tephrochronology;-39,25;S;*;-71,7;W;1496;Cinder cones;D7
+1507-11=;15;07;-11-;Llaima;Chile-C;Historical;-38,69166667;S;;-71,72861111;W;3125;Stratovolcano;D1
+1507-121;15;07;-121;Quetrupillan;Chile-C;Historical;-39,5;S;;-71,7;W;2360;Stratovolcano;D3
+1507-122;15;07;-122;Lanín;Chile-C;Radiocarbon;-39,63277778;S;;-71,49972222;W;3747;Stratovolcano;D6
+1507-123;15;07;-123;Huanquihue Group;Argentina;Radiocarbon;-39,88333333;S;;-71,58333333;W;2139;Stratovolcanoes;D4
+1507-12=;15;07;-12-;Villarrica;Chile-C;Historical;-39,41666667;S;;-71,93333333;W;2847;Stratovolcano;D1
+1507-13=;15;07;-13-;Mocho-Choshuenco;Chile-C;Historical;-39,9275;S;;-72,02694444;W;2422;Stratovolcanoes;D2
+1507-14=;15;07;-14-;Carrán-Los Venados;Chile-C;Historical;-40,35;S;*;-72,06666667;W;1114;Pyroclastic cones;D2
+1507-152;15;07;-152;Pantoja, Cerro;Chile-C;Holocene;-40,76666667;S;;-71,95;W;2024;Stratovolcano;U
+1507-153;15;07;-153;Antillanca Group;Chile-C;Radiocarbon;-40,77083333;S;;-72,15333333;W;1990;Stratovolcanoes;D7
+1507-15=;15;07;-15-;Puyehue-Cordón Caulle;Chile-C;Historical;-40,59027778;S;;-72,11722222;W;2236;Stratovolcano;D2
+1507-16-;15;07;-16-;Puntiagudo-Cordón Cenizos;Chile-C;Historical;-40,96944444;S;;-72,26388889;W;2493;Stratovolcano;D3
+1508-011;15;08;-011;Tronador;Chile-S;Holocene?;-41,15694444;S;;-71,88472222;W;3491;Stratovolcano;?
+1508-012;15;08;-012;Cayutué-La Viguería;Chile-S;Tephrochronology;-41,25;S;*;-72,26666667;W;506;Pyroclastic cones;D7
+1508-01=;15;08;-01-;Osorno;Chile-S;Historical;-41,1;S;;-72,49305556;W;2652;Stratovolcano;D3
+1508-021;15;08;-021;Cuernos del Diablo;Chile-S;Holocene;-41,4;S;;-72;W;1862;Stratovolcano;U
+1508-022;15;08;-022;Yate;Chile-S;Holocene;-41,75472222;S;;-72,39638889;W;2187;Stratovolcano;U
+1508-023;15;08;-023;Hornopirén;Chile-S;Holocene;-41,87444444;S;;-72,43138889;W;1572;Stratovolcano;U
+1508-024;15;08;-024;Apagado;Chile-S;Holocene;-41,88333333;S;;-72,58333333;W;1210;Pyroclastic cone;U
+1508-025;15;08;-025;Crater Basalt Volc Field;Chile-S/Argentina;Holocene;-42,01666667;S;*;-70,18333333;W;1359;Cinder cones;U
+1508-02=;15;08;-02-;Calbuco;Chile-S;Historical;-41,32611111;S;;-72,61444444;W;2003;Stratovolcano;D2
+1508-03=;15;08;-03-;Huequi;Chile-S;Historical;-42,37666667;S;;-72,57805556;W;1318;Stratovolcano;D2
+1508-041;15;08;-041;Chaitén;Chile-S;Historical;-42,83277778;S;;-72,64583333;W;1122;Caldera;D1
+1508-04=;15;08;-04-;Minchinmávida;Chile-S;Historical;-42,79305556;S;;-72,43861111;W;2404;Stratovolcano;D3
+1508-050;15;08;-050;Yanteles;Chile-S;Radiocarbon;-43,5;S;;-72,8;W;2042;Stratovolcanoes;D7
+1508-051;15;08;-051;Palena Volc Group;Chile-S;Holocene;-43,78333333;S;;-72,46666667;W;;Cinder cones;U
+1508-052;15;08;-052;Melimoyu;Chile-S;Radiocarbon;-44,08333333;S;;-72,88333333;W;2400;Stratovolcano;D6
+1508-053;15;08;-053;Puyuhuapi;Chile-S;Holocene;-44,3;S;;-72,53333333;W;524;Cinder cones;U
+1508-054;15;08;-054;Mentolat;Chile-S;Historical;-44,7;S;;-73,08333333;W;1660;Stratovolcano;D4
+1508-055;15;08;-055;Cay;Chile-S;Holocene?;-45,05916667;S;;-72,98416667;W;2090;Stratovolcano;?
+1508-056;15;08;-056;Maca;Chile-S;Radiocarbon;-45,1;S;;-73,16666667;W;2960;Stratovolcano;D6
+1508-057;15;08;-057;Hudson, Cerro;Chile-S;Historical;-45,9;S;;-72,96666667;W;1905;Stratovolcano;D2
+1508-058;15;08;-058;Río Murta;Chile-S;Holocene?;-46,16666667;S;;-72,66666667;W;;Pyroclastic cones;?
+1508-059;15;08;-059;Arenales;Chile-S;Historical;-47,2;S;;-73,48333333;W;3437;Stratovolcano;D2
+1508-05=;15;08;-05-;Corcovado;Chile-S;Historical;-43,18333333;S;;-72,8;W;2300;Stratovolcano;D7
+1508-061;15;08;-061;Viedma;Argentina;Historical;-49,35833333;S;;-73,28333333;W;1500;Subglacial volcano;D2
+1508-062;15;08;-062;Aguilera;Chile-S;Radiocarbon;-50,33333333;S;;-73,75;W;2546;Stratovolcano;D7
+1508-063;15;08;-063;Reclus;Chile-S;Historical;-50,96388889;S;;-73,58472222;W;1000;Cinder cone;D2
+1508-06=;15;08;-06-;Lautaro;Chile-S;Historical;-49,01666667;S;;-73,55;W;3607;Stratovolcano;D2
+1508-07=;15;08;-07-;Burney, Monte;Chile-S;Historical;-52,33333333;S;;-73,4;W;1758;Stratovolcano;D2
+1508-08-;15;08;-08-;Palei-Aike Volc Field;Chile-S;Anthropology;-52;S;*;-70;W;282;Cinder cones;D7
+1508-09-;15;08;-09-;Fueguino;Chile-S;Historical;-54,95;S;;-70,25;W;150;Lava domes;D3
+1600-01=;16;00;-01-;Saba;W Indies;Historical;17,63333333;N;;-63,23333333;W;887;Stratovolcano;D5
+1600-02=;16;00;-02-;Quill, The;W Indies;Radiocarbon;17,47777778;N;;-62,95972222;W;601;Stratovolcano;D6
+1600-03=;16;00;-03-;Liamuiga;W Indies;Radiocarbon;17,36666667;N;;-62,8;W;1156;Stratovolcano;D6
+1600-04=;16;00;-04-;Nevis Peak;W Indies;Holocene?;17,15;N;;-62,58333333;W;985;Stratovolcano;?
+1600-05=;16;00;-05-;Soufrière Hills;W Indies;Historical;16,71666667;N;;-62,18333333;W;915;Stratovolcano;D1
+1600-06=;16;00;-06-;Soufrière Guadeloupe;W Indies;Historical;16,05;N;;-61,66666667;W;1467;Stratovolcano;D2
+1600-08=;16;00;-08-;Diables, Morne aux;W Indies;Holocene;15,6125;N;;-61,43333333;W;861;Stratovolcano;U
+1600-09=;16;00;-09-;Diablotins, Morne;W Indies;Holocene?;15,50333333;N;;-61,39722222;W;1430;Stratovolcano;?
+1600-101;16;00;-101;Watt, Morne;W Indies;Historical;15,30666667;N;;-61,305;W;1224;Stratovolcanoes;D2
+1600-10=;16;00;-10-;Trois Pitons, Morne;W Indies;Radiocarbon;15,36666667;N;;-61,33333333;W;1387;Complex volcano;D6
+1600-11=;16;00;-11-;Plat Pays, Morne;W Indies;Radiocarbon;15,255;N;;-61,34083333;W;940;Stratovolcano;D6
+1600-12=;16;00;-12-;Pelée;W Indies;Historical;14,81666667;N;;-61,16666667;W;1397;Stratovolcano;D2
+1600-14=;16;00;-14-;Qualibou;W Indies;Historical;13,83333333;N;;-61,05;W;777;Caldera;D4
+1600-15=;16;00;-15-;Soufrière St. Vincent;W Indies;Historical;13,33333333;N;;-61,18333333;W;1220;Stratovolcano;D2
+1600-16=;16;00;-16-;Kick 'em Jenny;W Indies;Historical;12,30027778;N;;-61,64;W;-185;Submarine volcano;D1
+1600-17=;16;00;-17-;St. Catherine;W Indies;Holocene;12,15;N;;-61,66666667;W;840;Stratovolcano;U
+1700-01=;17;00;-01-;Snaefellsjökull;Iceland-W;Radiocarbon;64,8;N;;-23,78333333;W;1448;Stratovolcano;D6
+1700-02=;17;00;-02-;Helgrindur;Iceland-W;Holocene;64,86666667;N;*;-23,25;W;647;Pyroclastic cones;U
+1700-03=;17;00;-03-;Ljósufjöll;Iceland-W;Anthropology;64,86666667;N;*;-22,23333333;W;1063;Fissure vents;D6
+1701-02=;17;01;-02-;Reykjanes;Iceland-SW;Historical;63,88333333;N;*;-22,5;W;230;Crater rows;D2
+1701-03=;17;01;-03-;Krísuvík;Iceland-SW;Historical;63,93333333;N;*;-22,1;W;379;Crater rows;D6
+1701-04=;17;01;-04-;Brennisteinsfjöll;Iceland-SW;Historical;63,91666667;N;*;-21,83333333;W;621;Crater rows;D6
+1701-051;17;01;-051;Hrómundartindur;Iceland-S;Holocene?;64,07333333;N;*;-21,20166667;W;540;Stratovolcano;?
+1701-05=;17;01;-05-;Hengill;Iceland-SW;Historical;64,08333333;N;*;-21,31666667;W;803;Crater rows;D6
+1701-06=;17;01;-06-;Grímsnes;Iceland-SW;Tephrochronology;64,03333333;N;*;-20,86666667;W;214;Crater rows;D7
+1701-07=;17;01;-07-;Prestahnukur;Iceland-SW;Radiocarbon;64,6;N;*;-20,58333333;W;1400;Subglacial volcano;D7
+1701-08=;17;01;-08-;Hveravellir;Iceland-SW;Radiocarbon;64,75;N;;-19,98333333;W;1360;Subglacial volcano;D6
+1701-09=;17;01;-09-;Hofsjökull;Iceland-SW;Holocene;64,78333333;N;;-18,91666667;W;1782;Subglacial volcano;U
+1702-01=;17;02;-01-;Vestmannaeyjar;Iceland-S;Historical;63,43333333;N;*;-20,28333333;W;279;Submarine volcanoes;D2
+1702-02=;17;02;-02-;Eyjafjallajökull;Iceland-S;Historical;63,63333333;N;;-19,61666667;W;1666;Stratovolcano;D3
+1702-03=;17;02;-03-;Katla;Iceland-S;Historical;63,63333333;N;;-19,05;W;1512;Subglacial volcano;D2
+1702-04=;17;02;-04-;Tindfjallajökull;Iceland-S;Holocene?;63,78333333;N;;-19,56666667;W;1463;Stratovolcano;?
+1702-05=;17;02;-05-;Torfajökull;Iceland-S;Historical;63,91666667;N;;-19,16666667;W;1259;Stratovolcano;D6
+1702-07=;17;02;-07-;Hekla;Iceland-S;Historical;63,98333333;N;;-19,7;W;1491;Stratovolcano;D1
+1703-01=;17;03;-01-;Grímsvötn;Iceland-NE;Historical;64,41666667;N;;-17,33333333;W;1725;Caldera;D1
+1703-03=;17;03;-03-;Bárdarbunga;Iceland-NE;Historical;64,63333333;N;;-17,53333333;W;2009;Stratovolcano;D2
+1703-04=;17;03;-04-;Tungnafellsjökull;Iceland-NE;Holocene;64,73333333;N;;-17,91666667;W;1535;Stratovolcano;U
+1703-05=;17;03;-05-;Kverkfjöll;Iceland-NE;Historical;64,65;N;;-16,71666667;W;1929;Stratovolcano;D2
+1703-06=;17;03;-06-;Askja;Iceland-NE;Historical;65,03333333;N;;-16,75;W;1516;Stratovolcano;D2
+1703-07=;17;03;-07-;Fremrinamur;Iceland-NE;Tephrochronology;65,43333333;N;;-16,65;W;939;Stratovolcano;D7
+1703-08=;17;03;-08-;Krafla;Iceland-NE;Historical;65,73333333;N;;-16,78333333;W;818;Caldera;D2
+1703-09=;17;03;-09-;Theistareykjarbunga;Iceland-NE;Tephrochronology;65,88333333;N;;-16,83333333;W;564;Shield volcano;D7
+1703-10=;17;03;-10-;Tjörnes Fracture Zone;Iceland-N of;Historical;66,3;N;;-17,1;W;;Submarine volcano;D3
+1704-01=;17;04;-01-;Öraefajökull;Iceland-SE;Historical;64;N;;-16,65;W;2119;Stratovolcano;D4
+1704-02=;17;04;-02-;Esjufjöll;Iceland-SE;Uncertain;64,26666667;N;;-16,65;W;1760;Stratovolcano;?
+1705-01=;17;05;-01-;Kolbeinsey Ridge;Iceland-N of;Historical;66,66666667;N;;-18,5;W;5;Submarine volcano;D4
+1706-01=;17;06;-01-;Jan Mayen;Atlantic-N-Jan Mayen;Historical;71,08333333;N;;-8,166666667;W;2277;Stratovolcano;D2
+1707-01-;17;07;-01-;Unnamed;Arctic Ocean;Uncertain;88,26666667;N;;-65,6;W;-1500;Submarine volcano?;?
+1707-02-;17;07;-02-;Unnamed;Arctic Ocean;Holocene;85,58333333;N;;85;E;-3800;Submarine volcano;U
+1801-02=;18;01;-02-;Unnamed;Atlantic-N;Historical;49;N;;-34,5;W;-1650;Submarine volcano;D3
+1801-03=;18;01;-03-;Unnamed;Atlantic-N;Uncertain;39,95;N;;-25,83333333;W;-2835;Submarine volcano;?
+1801-04=;18;01;-04-;Unnamed;Atlantic-N;Historical;38,75;N;;-38,08333333;W;-4200;Submarine volcano;D3
+1802-001;18;02;-001;Flores;Azores;Radiocarbon;39,46222222;N;;-31,21611111;W;914;Stratovolcanoes;D7
+1802-002;18;02;-002;Corvo;Azores;Holocene;39,69888889;N;;-31,11083333;W;718;Stratovolcano;U
+1802-01=;18;02;-01-;Fayal;Azores;Historical;38,6;N;;-28,73333333;W;1043;Stratovolcano;D2
+1802-02=;18;02;-02-;Pico;Azores;Historical;38,46666667;N;;-28,4;W;2351;Stratovolcano;D4
+1802-03=;18;02;-03-;San Jorge;Azores;Historical;38,65;N;;-28,08333333;W;1053;Fissure vent;D2
+1802-04=;18;02;-04-;Graciosa;Azores;Holocene;39,01666667;N;;-27,96666667;W;402;Stratovolcano;U
+1802-05=;18;02;-05-;Terceira;Azores;Historical;38,73333333;N;;-27,31666667;W;1023;Stratovolcanoes;D1
+1802-07=;18;02;-07-;Don Joao de Castro Bank;Azores;Historical;38,23333333;N;;-26,63333333;W;-13;Submarine volcano;D4
+1802-081;18;02;-081;Picos Volc System;Azores;Historical;37,78333333;N;*;-25,66666667;W;350;Pyroclastic cones;D5
+1802-08=;18;02;-08-;Sete Cidades;Azores;Historical;37,86666667;N;;-25,78333333;W;856;Stratovolcano;D3
+1802-09=;18;02;-09-;Agua de Pau;Azores;Historical;37,76666667;N;;-25,46666667;W;947;Stratovolcano;D5
+1802-10=;18;02;-10-;Furnas;Azores;Historical;37,76666667;N;;-25,31666667;W;805;Stratovolcano;D5
+1802-11=;18;02;-11-;Monaco Bank;Azores;Historical;37,6;N;;-25,88333333;W;-197;Submarine volcano;D2
+1802-12-;18;02;-12-;Madeira;Azores;Radiocarbon;32,73333333;N;;-16,96666667;W;1862;Shield volcano;D7
+1803-01-;18;03;-01-;La Palma;Canary Is;Historical;28,56666667;N;;-17,83333333;W;2426;Stratovolcanoes;D2
+1803-02-;18;03;-02-;Hierro;Canary Is;Radiocarbon;27,73333333;N;;-18,03333333;W;1500;Shield volcano;D7
+1803-03-;18;03;-03-;Tenerife;Canary Is;Historical;28,27138889;N;;-16,64083333;W;3715;Stratovolcano;D2
+1803-04-;18;03;-04-;Gran Canaria;Canary Is;Radiocarbon;28;N;;-15,58333333;W;1950;Fissure vents;D7
+1803-05-;18;03;-05-;Fuerteventura;Canary Is;Holocene;28,35833333;N;;-14,01666667;W;529;Fissure vents;U
+1803-06-;18;03;-06-;Lanzarote;Canary Is;Historical;29,03333333;N;;-13,63333333;W;670;Fissure vents;D3
+1804-01=;18;04;-01-;Fogo;Cape Verde Is;Historical;14,95;N;;-24,35;W;2829;Stratovolcano;D2
+1804-02-;18;04;-02-;Brava;Cape Verde Is;Holocene;14,85;N;;-24,71666667;W;900;Stratovolcano;U
+1804-03-;18;04;-03-;Sao Vicente;Cape Verde Is;Holocene;16,85;N;;-24,96666667;W;725;Stratovolcano;U
+1805-01=;18;05;-01-;Unnamed;Atlantic-C;Uncertain;7;N;;-21,83333333;W;-1415;Submarine volcano?;?
+1805-02=;18;05;-02-;Unnamed;Atlantic-C;Uncertain;4,2;N;;-21,45;W;-2900;Submarine volcano;?
+1805-03=;18;05;-03-;Unnamed;Atlantic-C;Uncertain;-0,716666667;S;;-20,53333333;W;-1528;Submarine volcano;?
+1805-04=;18;05;-04-;Unnamed;Atlantic-C;Uncertain;-3,5;S;;-24,5;W;-5300;Submarine volcano;?
+1805-05-;18;05;-05-;Ascensión;Atlantic-C;Holocene;-7,95;S;;-14,36666667;W;858;Stratovolcano;U
+1805-051;18;05;-051;Trindade;Atlantic-C;Holocene;-20,51444444;S;;-29,33055556;W;600;Stratovolcano;U
+1806-011;18;06;-011;Nightingale Island;Atlantic-S;Historical;-37,41666667;S;;-12,48333333;W;365;Stratovolcano;D1
+1806-01=;18;06;-01-;Tristan da Cunha;Atlantic-S;Historical;-37,09166667;S;;-12,28333333;W;2060;Shield volcano;D2
+1806-02-;18;06;-02-;Bouvet;Atlantic-S;Magnetism;-54,41666667;S;;3,35;E;780;Shield volcano;D7
+1806-03-;18;06;-03-;Thompson Island;Atlantic-S;Uncertain;-53,93333333;S;;5,5;E;;Submarine volcano?;?
+1900-011;19;00;-011;Young Island;Antarctica;Fumarolic;-66,41666667;S;;162,4666667;E;1340;Stratovolcano;U
+1900-012;19;00;-012;Sturge Island;Antarctica;Uncertain;-67,4;S;;164,8333333;E;1167;Stratovolcano;?
+1900-013;19;00;-013;Pleiades, The;Antarctica;Potassium-Argon;-72,66666667;S;;165,5;E;3040;Stratovolcano;D7
+1900-014;19;00;-014;Unnamed;Antarctica;Holocene?;-73,45;S;*;164,5833333;E;2987;Scoria cones;?
+1900-015;19;00;-015;Melbourne;Antarctica;Tephrochronology;-74,35;S;;164,7;E;2732;Stratovolcano;D4
+1900-016;19;00;-016;Unnamed;Antarctica;Holocene?;-76,83333333;S;;163;E;-500;Submarine volcano;?
+1900-01=;19;00;-01-;Buckle Island;Antarctica;Historical;-66,78333333;S;;163,25;E;1239;Stratovolcano;D3
+1900-020;19;00;-020;Morning, Mt.;Antarctica;Holocene;-78,5;S;;163,5333333;E;2723;Shield volcano;U
+1900-021;19;00;-021;Royal Society Range;Antarctica;Holocene?;-78,25;S;*;163,3333333;E;3000;Cinder cones;?
+1900-022;19;00;-022;Berlin;Antarctica;Ar/Ar;-76,05;S;;-136;W;3478;Shield volcanoes;D7
+1900-023;19;00;-023;Andrus;Antarctica;Holocene?;-75,8;S;;-132,3333333;W;2978;Shield volcanoes;?
+1900-024;19;00;-024;Waesche;Antarctica;Holocene?;-77,16666667;S;;-126,8833333;W;3292;Shield volcanoes;?
+1900-025;19;00;-025;Siple;Antarctica;Holocene?;-73,43333333;S;;-126,6666667;W;3110;Shield volcano;?
+1900-026;19;00;-026;Toney Mountain;Antarctica;Holocene?;-75,8;S;;-115,8333333;W;3595;Shield volcano;?
+1900-027;19;00;-027;Takahe;Antarctica;Ice Core;-76,28333333;S;;-112,0833333;W;3460;Shield volcano;D7
+1900-028;19;00;-028;Hudson Mountains;Antarctica;Ice Core;-74,33333333;S;*;-99,41666667;W;749;Stratovolcanoes;D7
+1900-029;19;00;-029;Peter I Island;Antarctica;Holocene;-68,85;S;;-90,58333333;W;1640;Shield volcano;U
+1900-02=;19;00;-02-;Erebus;Antarctica;Historical;-77,53333333;S;;167,1666667;E;3794;Stratovolcano;D1
+1900-031;19;00;-031;Penguin Island;Antarctica;Lichenometry;-62,1;S;;-57,93333333;W;180;Stratovolcano;D2
+1900-03=;19;00;-03-;Deception Island;Antarctica;Historical;-62,96666667;S;;-60,65;W;576;Caldera;D2
+1900-041;19;00;-041;Paulet;Antarctica;Holocene;-63,58333333;S;;-55,76666667;W;353;Cinder cone;U
+1900-04=;19;00;-04-;Bridgeman Island;Antarctica;Uncertain;-62,05;S;;-56,75;W;240;Stratovolcano;?
+1900-05=;19;00;-05-;Seal Nunataks Group;Antarctica;Uncertain;-65,03333333;S;*;-60,05;W;368;Pyroclastic cones;?
+1900-07=;19;00;-07-;Thule Islands;Antarctica;Historical;-59,45;S;;-27,36666667;W;1075;Stratovolcanoes;D2
+1900-081;19;00;-081;Montagu Island;Antarctica;Historical;-58,41666667;S;;-26,33333333;W;1370;Shield volcano;D1
+1900-08=;19;00;-08-;Bristol Island;Antarctica;Historical;-59,03333333;S;;-26,58333333;W;1100;Stratovolcano;D2
+1900-09=;19;00;-09-;Michael;Antarctica;Historical;-57,78333333;S;;-26,45;W;990;Stratovolcano;D1
+1900-10=;19;00;-10-;Candlemas Island;Antarctica;Historical;-57,08333333;S;;-26,66666667;W;550;Stratovolcano;D2
+1900-11=;19;00;-11-;Hodson;Antarctica;Holocene;-56,7;S;;-27,15;W;1005;Stratovolcano;U
+1900-12=;19;00;-12-;Leskov Island;Antarctica;Fumarolic;-56,66666667;S;;-28,13333333;W;190;Stratovolcano;U
+1900-13=;19;00;-13-;Zavodovski;Antarctica;Historical;-56,3;S;;-27,56666667;W;551;Stratovolcano;D3
+1900-14-;19;00;-14-;Protector Shoal;Antarctica;Historical;-55,91666667;S;;-28,08333333;W;-27;Submarine volcano;D2
